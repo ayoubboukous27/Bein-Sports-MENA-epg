@@ -2,53 +2,46 @@ name: Generate beIN EPG
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # يشغّل كل 5 دقائق
-  workflow_dispatch:         # زر للتشغيل اليدوي
+    - cron: "0 */6 * * *"   # يشغّل كل 6 ساعات
+  workflow_dispatch:        # يسمح لك تشغله يدويًا من GitHub
 
 permissions:
-  contents: write           # صلاحية الكتابة للـ repo
+  contents: write   # 👈 تعطي البوت صلاحية الكتابة للـ repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+    - name: Checkout repo
+      uses: actions/checkout@v4
 
-      - name: Install Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "18"
+    - name: Install Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: "18"
 
-      - name: Install Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.10"
+    - name: Install Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10"
 
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt
+    - name: Install Python dependencies
+      run: pip install -r requirements.txt
 
-      - name: Run fetch script
-        run: bash fetch_bein_epg.sh
+    - name: Run fetch script
+      run: bash fetch_bein_epg.sh
 
-      - name: Check file size
-        run: |
-          if [ ! -s epg_mapped.xml ]; then
-            echo "❌ File epg_mapped.xml is empty!"
-            exit 1
-          fi
+    - name: Upload result as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: bein-epg
+        path: epg_mapped.xml
 
-      - name: Upload result as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: bein-epg
-          path: epg_mapped.xml
-
-      - name: Push to repo
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add epg_mapped.xml
-          git commit -m "Update EPG [skip ci]" || echo "No changes"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+    - name: Push to repo
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add epg_mapped.xml
+        git commit -m "Update EPG [skip ci]" || echo "No changes"
+        git push
