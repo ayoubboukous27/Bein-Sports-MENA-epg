@@ -3,10 +3,13 @@ name: Generate beIN EPG
 on:
   schedule:
     - cron: "0 */6 * * *"   # يشغّل كل 6 ساعات
-  workflow_dispatch:        # يسمح لك تشغله يدويًا من GitHub
+  workflow_dispatch:        # زر للتشغيل اليدوي
+  push:
+    paths:
+      - 'epg_mapped.xml'   # يشغّل تلقائيًا عند تحديث epg_mapped.xml
 
 permissions:
-  contents: write   # 👈 تعطي البوت صلاحية الكتابة للـ repo
+  contents: write           # صلاحية الكتابة للـ repo
 
 jobs:
   build:
@@ -32,16 +35,19 @@ jobs:
     - name: Run fetch script
       run: bash fetch_bein_epg.sh
 
+    - name: Run script to add logos
+      run: python epg_mapped_with_logos.py epg_mapped.xml epg_mapped_with_logos.xml
+
     - name: Upload result as artifact
       uses: actions/upload-artifact@v4
       with:
         name: bein-epg
-        path: epg_mapped.xml
+        path: epg_mapped_with_logos.xml
 
-    - name: Push to repo
+    - name: Push updated EPG with logos to repo
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add epg_mapped.xml
-        git commit -m "Update EPG [skip ci]" || echo "No changes"
-        git push
+        git add epg_mapped_with_logos.xml
+        git commit -m "Update EPG with logos [skip ci]" || echo "No changes"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
