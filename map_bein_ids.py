@@ -1,60 +1,91 @@
-# bein_epg.py
+import requests
+from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import pytz
+import re
 
-def generate_epg():
-    print("بدء إنشاء EPG...")
+# 🌐 خريطة القنوات والشعارات
+CHANNELS = {
+    "beIN Sports 1": {"id": "beINSports1.qa", "logo": "https://i.imgur.com/Vtk2cGI.png"},
+    "beIN Sports 2": {"id": "beINSports2.qa", "logo": "https://i.imgur.com/vUJZSvs.png"},
+    "beIN Sports 3": {"id": "beINSports3.qa", "logo": "https://i.imgur.com/UYSMao3.png"},
+    "beIN Sports 4": {"id": "beINSports4.qa", "logo": "https://i.imgur.com/vwAgJNi.png"},
+    "beIN Sports 5": {"id": "beINSports5.qa", "logo": "https://i.imgur.com/2Rha5aY.png"},
+    "beIN Sports 6": {"id": "beINSports6.qa", "logo": "https://i.imgur.com/0wBdLYb.png"},
+    "beIN Sports 7": {"id": "beINSports7.qa", "logo": "https://i.imgur.com/iODFwZi.png"},
+    "beIN Sports":   {"id": "beINSports.qa",   "logo": "https://i.imgur.com/RLrMBlm.png"},
+}
 
-    # إنشاء هيكل XML الأساسي
-    root = ET.Element("tv", generator="beIN Sports EPG", source="bein.com")
+# 🌍 إعداد الوقت
+timezone = pytz.timezone("Africa/Algiers")
+now = datetime.now(timezone)
 
-    # قنوات beIN Sports
-    channels = {
-        "beIN SPORTS 1": "beIN1.mena",
-        "beIN SPORTS 2": "beIN2.mena", 
-        "beIN SPORTS 3": "beIN3.mena",
-        "beIN SPORTS 4": "beIN4.mena",
-        "beIN SPORTS 5": "beIN5.mena",
-        "beIN SPORTS 6": "beIN6.mena",
-        "beIN SPORTS 7": "beIN7.mena",
-        "beIN SPORTS 8": "beIN8.mena",
-        "beIN SPORTS 9": "beIN9.mena",
-        "beIN SPORTS 10": "beIN10.mena",
-        "beIN SPORTS 11": "beIN11.mena",
-        "beIN SPORTS 12": "beIN12.mena",
-        "beIN SPORTS NEWS": "beINNews.mena",
-        "beIN SPORTS EN 1": "beINEng1.mena",
-        "beIN SPORTS EN 2": "beINEng2.mena"
-    }
+# 🏗️ إنشاء ملف XML
+root = ET.Element("tv", generator="beIN Sports EPG", source="bein.com")
 
-    # إضافة القنوات إلى XML
-    for name, channel_id in channels.items():
-        channel = ET.SubElement(root, "channel", id=channel_id)
-        ET.SubElement(channel, "display-name").text = name
+# إضافة القنوات
+for name, info in CHANNELS.items():
+    channel = ET.SubElement(root, "channel", id=info["id"])
+    ET.SubElement(channel, "display-name").text = name
+    ET.SubElement(channel, "icon", src=info["logo"])
+    ET.SubElement(channel, "url").text = "https://bein.com"
 
-    # إنشاء برامج تجريبية
-    timezone = pytz.timezone("Africa/Algiers")
-    now = datetime.now(timezone)
+# محاولة جلب البرامج الحقيقية من موقع beIN
+url = "https://www.beinsports.com/en-mena/tv-guide"
+headers = {'User-Agent': 'Mozilla/5.0'}
 
-    for channel_id in channels.values():
-        for i in range(8):  # 8 برامج لكل قناة
-            start_time = now + timedelta(hours=i)
+try:
+    response = requests.get(url, headers=headers, timeout=20)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.content, 'html.parser')
+
+    # البحث عن البرامج لكل قناة
+    for ch_name, ch_info in CHANNELS.items():
+        program_items = soup.find_all('div', class_=re.compile(r'program-item|schedule-item', re.I))
+        for i, program in enumerate(program_items[:8]):  # مثال: أول 8 برامج لكل قناة
+            title_elem = program.find(['h3', 'h4', 'div'], class_=re.compile(r'title|name', re.I))
+            desc_elem  = program.find(['p', 'div'], class_=re.compile(r'description|desc', re.I))
+            time_elem  = program.find(['span', 'div'], class_=re.compile(r'time|hour', re.I))
+
+            title = title_elem.get_text(strip=True) if title_elem else f"برنامج {i+1}"
+            desc  = desc_elem.get_text(strip=True) if desc_elem else f"بث مباشر على {ch_name}"
+            
+            # إعداد وقت البدء والانتهاء
+            if time_elem:
+                t = time_elem.get_text(strip=True)
+                try:
+                    start_time = now.replace(hour=int(t[:2]), minute=int(t[3:5]), second=0)
+                except:  # fallback
+                    start_time = now + timedelta(hours=i)
+            else:
+                start_time = now + timedelta(hours=i)
             end_time = start_time + timedelta(hours=1, minutes=30)
 
-            programme = ET.SubElement(root, "programme",
-                                      start=start_time.strftime("%Y%m%d%H%M%S %z"),
-                                      stop=end_time.strftime("%Y%m%d%H%M%S %z"),
-                                      channel=channel_id)
+            prog = ET.SubElement(root, "programme",
+                                 start=start_time.strftime("%Y%m%d%H%M%S %z"),
+                                 stop=end_time.strftime("%Y%m%d%H%M%S %z"),
+                                 channel=ch_info["id"])
+            ET.SubElement(prog, "title", lang="ar").text = title
+            ET.SubElement(prog, "desc", lang="ar").text = desc
+            ET.SubElement(prog, "category", lang="ar").text = "رياضة"
 
-            ET.SubElement(programme, "title", lang="ar").text = f"برنامج تجريبي {i+1}"
-            ET.SubElement(programme, "desc", lang="ar").text = f"هذا برنامج تجريبي للاختبار على القناة {channel_id}"
-            ET.SubElement(programme, "category", lang="ar").text = "رياضة"
+except Exception as e:
+    print(f"خطأ في جلب البرامج الحقيقية: {e}")
+    # إذا فشل، يمكن عمل برامج تجريبية
+    for ch_name, ch_info in CHANNELS.items():
+        for i in range(8):
+            start_time = now + timedelta(hours=i)
+            end_time = start_time + timedelta(hours=1, minutes=30)
+            prog = ET.SubElement(root, "programme",
+                                 start=start_time.strftime("%Y%m%d%H%M%S %z"),
+                                 stop=end_time.strftime("%Y%m%d%H%M%S %z"),
+                                 channel=ch_info["id"])
+            ET.SubElement(prog, "title", lang="ar").text = f"برنامج تجريبي {i+1}"
+            ET.SubElement(prog, "desc", lang="ar").text = f"بث مباشر على {ch_name}"
+            ET.SubElement(prog, "category", lang="ar").text = "رياضة"
 
-    # حفظ ملف XML
-    tree = ET.ElementTree(root)
-    tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
-    print("تم إنشاء ملف EPG بنجاح!")
-
-if __name__ == "__main__":
-    generate_epg()
+# حفظ XML
+tree = ET.ElementTree(root)
+tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
+print("✅ تم إنشاء EPG.xml مع البرامج الحقيقية أو التجريبية")
