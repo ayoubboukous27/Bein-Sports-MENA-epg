@@ -2,11 +2,11 @@ name: Generate beIN EPG
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # يشغّل كل 30 دقيقة
-  workflow_dispatch:          # زر للتشغيل اليدوي
+    - cron: "*/5 * * * *"   # يشغّل كل 5 دقائق
+  workflow_dispatch:         # زر للتشغيل اليدوي
 
 permissions:
-  contents: write            # صلاحية الكتابة للـ repo
+  contents: write           # صلاحية الكتابة للـ repo
 
 jobs:
   build:
