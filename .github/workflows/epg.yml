@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"   # يشغّل كل 6 ساعات
   workflow_dispatch:        # يسمح لك تشغله يدويًا من GitHub
 
+permissions:
+  contents: write   # 👈 تعطي البوت صلاحية الكتابة للـ repo
+
 jobs:
   build:
     runs-on: ubuntu-latest
