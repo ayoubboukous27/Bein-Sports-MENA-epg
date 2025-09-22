@@ -1,0 +1,44 @@
+name: Generate beIN EPG
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # يشغّل كل 6 ساعات
+  workflow_dispatch:        # يسمح لك تشغله يدويًا من GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Install Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: "18"
+
+    - name: Install Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+
+    - name: Install Python dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run fetch script
+      run: bash fetch_bein_epg.sh
+
+    - name: Upload result as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: bein-epg
+        path: epg_mapped.xml
+
+    - name: Push to repo
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add epg_mapped.xml
+        git commit -m "Update EPG [skip ci]" || echo "No changes"
+        git push
