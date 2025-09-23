@@ -1,27 +1,29 @@
 import xml.etree.ElementTree as ET
 from deep_translator import GoogleTranslator
-import os
+import requests
+import io
 
-# اسم الملف الأصلي
-INPUT_FILE = "epg_mapped_with_logos.xml"
-# اسم الملف الناتج
+# رابط المصدر (غير متعلق بالملفات داخل الريبو)
+SOURCE_URL = "https://raw.githubusercontent.com/ayoubboukous27/Bein-Sports-MENA-epg/main/epg_mapped_with_logos.xml"
+
 OUTPUT_FILE = "epg_mapped_with_logos_ar.xml"
 
 def translate_text(text):
-    """ترجمة النص للغة العربية"""
     try:
         return GoogleTranslator(source="auto", target="ar").translate(text)
     except Exception as e:
         print(f"⚠️ خطأ أثناء الترجمة: {e}")
-        return text  # لو فشل يترك النص كما هو
+        return text
 
 def main():
-    if not os.path.exists(INPUT_FILE):
-        print(f"❌ الملف {INPUT_FILE} غير موجود في المجلد.")
+    print(f"⬇️ جاري تحميل الملف من {SOURCE_URL}")
+    response = requests.get(SOURCE_URL)
+    if response.status_code != 200:
+        print("❌ فشل تحميل الملف من المصدر")
         return
 
-    print(f"📂 جاري قراءة الملف: {INPUT_FILE}")
-    tree = ET.parse(INPUT_FILE)
+    # قراءة XML من الذاكرة بدل ملف محلي
+    tree = ET.parse(io.StringIO(response.text))
     root = tree.getroot()
 
     count = 0
@@ -30,7 +32,6 @@ def main():
             element = programme.find(tag)
             if element is not None and element.text:
                 translated = translate_text(element.text)
-                # إضافة عنصر جديد باللغة العربية
                 new_elem = ET.SubElement(programme, tag, {"lang": "ar"})
                 new_elem.text = translated
                 count += 1
