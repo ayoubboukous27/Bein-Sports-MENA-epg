@@ -2,8 +2,8 @@ name: Translate EPG to Arabic
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # يشتغل يومياً 00:00 UTC
-  workflow_dispatch:       # يسمحلك تشغله يدوي من GitHub
+    - cron: "0 0 * * *"   # يشتغل يومياً الساعة 00:00 UTC
+  workflow_dispatch:       # زر Run workflow للتشغيل اليدوي
 
 jobs:
   translate:
@@ -14,9 +14,25 @@ jobs:
         uses: actions/checkout@v3
         with:
           persist-credentials: true   # يخلي GitHub Actions يقدر يعمل push
-          fetch-depth: 0              # يجيب كل الـ history
+          fetch-depth: 0              # يجيب كل الـ commits من الفرع
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install deep-translator requests
+
+      - name: Run translation script
+        run: |
+          python translate_epg.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add epg_mapped_with_logos_ar.xml
+          git commit -m "Update Arabic EPG" || echo "No changes to commit"
+          git push origin HEAD:main
