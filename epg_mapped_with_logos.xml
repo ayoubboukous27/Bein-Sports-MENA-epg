@@ -397,10 +397,8 @@
 <programme start="20250923093000 +0000" stop="20250923110000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="ar">M2 - Men - Premier Padel - Germany P2</title></programme>
 <programme start="20250923110000 +0000" stop="20250923123000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="en">M3 - Women - Premier Padel - Germany P2</title></programme>
 <programme start="20250923110000 +0000" stop="20250923123000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="ar">M3 - Women - Premier Padel - Germany P2</title></programme>
-<programme start="20250923123000 +0000" stop="20250923140000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="en">M4 - Men - Premier Padel - Germany P2</title></programme>
-<programme start="20250923123000 +0000" stop="20250923140000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="ar">M4 - Men - Premier Padel - Germany P2</title></programme>
-<programme start="20250923140000 +0000" stop="20250923150000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="en">EN US Open Review 2025</title><desc lang="en">The 2025 US Open will be the 145th edition of tennis' US Open and the fourth and final Grand Slam event of the year. It will be held on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York City.</desc></programme>
-<programme start="20250923140000 +0000" stop="20250923150000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="ar">EN US Open Review 2025</title><desc lang="ar">The 2025 US Open will be the 145th edition of tennis' US Open and the fourth and final Grand Slam event of the year. It will be held on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York City.</desc></programme>
+<programme start="20250923123000 +0000" stop="20250923150000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="en">M4 - Men - Premier Padel - Germany P2</title></programme>
+<programme start="20250923123000 +0000" stop="20250923150000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="ar">M4 - Men - Premier Padel - Germany P2</title></programme>
 <programme start="20250923150000 +0000" stop="20250923163000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="en">M5 - Men - Premier Padel - Germany P2</title></programme>
 <programme start="20250923150000 +0000" stop="20250923163000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="ar">M5 - Men - Premier Padel - Germany P2</title></programme>
 <programme start="20250923163000 +0000" stop="20250923180000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><title lang="en">M6 - Men - Premier Padel - Germany P2</title></programme>
@@ -875,18 +873,21 @@
 <programme start="20250924020000 +0000" stop="20250924040000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Championnat du Portugal - Sporting Club Portugal / Moreirense</title></programme>
 <programme start="20250924040000 +0000" stop="20250924060000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Liga - Levante / Real Madrid</title></programme>
 <programme start="20250924060000 +0000" stop="20250924080000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Coupe de la Ligue anglaise - Liverpool / Southampton</title></programme>
-<programme start="20250924080000 +0000" stop="20250924100000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Championnat du Portugal - Benfica Lisbonne / Rio Ave</title></programme>
-<programme start="20250924100000 +0000" stop="20250924120000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Ligue 2 BKT - Amiens / Saint-Etienne</title></programme>
+<programme start="20250924080000 +0000" stop="20250924084500 +0000" channel="beINSports1.qa@France"><title lang="fr">NFL Extra</title></programme>
+<programme start="20250924084500 +0000" stop="20250924090000 +0000" channel="beINSports1.qa@France"><title lang="fr">Ça se passe sur beIN SPORTS</title></programme>
+<programme start="20250924090000 +0000" stop="20250924093000 +0000" channel="beINSports1.qa@France"><title lang="fr">Made in England</title></programme>
+<programme start="20250924093000 +0000" stop="20250924100000 +0000" channel="beINSports1.qa@France"><title lang="fr">This is Paris</title></programme>
+<programme start="20250924100000 +0000" stop="20250924120000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Championnat du Portugal - Benfica Lisbonne / Rio Ave</title></programme>
 <programme start="20250924120000 +0000" stop="20250924140000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Coupe de la Ligue anglaise - Liverpool / Southampton</title></programme>
 <programme start="20250924140000 +0000" stop="20250924141500 +0000" channel="beINSports1.qa@France"><title lang="fr">Ça se passe sur beIN SPORTS</title></programme>
-<programme start="20250924141500 +0000" stop="20250924143000 +0000" channel="beINSports1.qa@France"><title lang="fr">Ça se passe sur beIN SPORTS</title></programme>
-<programme start="20250924143000 +0000" stop="20250924163000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Liga - Levante / Real Madrid</title></programme>
-<programme start="20250924163000 +0000" stop="20250924170000 +0000" channel="beINSports1.qa@France"><title lang="fr">Salon VIP</title></programme>
+<programme start="20250924141500 +0000" stop="20250924161500 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Liga - Levante / Real Madrid</title></programme>
+<programme start="20250924161500 +0000" stop="20250924164500 +0000" channel="beINSports1.qa@France"><title lang="fr">Salon VIP</title></programme>
+<programme start="20250924164500 +0000" stop="20250924170000 +0000" channel="beINSports1.qa@France"><title lang="fr">Ça se passe sur beIN SPORTS</title></programme>
 <programme start="20250924170000 +0000" stop="20250924190000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Liga - Getafe / Deportivo Alavés</title></programme>
 <programme start="20250924190000 +0000" stop="20250924191500 +0000" channel="beINSports1.qa@France"><title lang="fr">Ça se passe sur beIN SPORTS</title></programme>
 <programme start="20250924191500 +0000" stop="20250924213000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Liga - Atlético Madrid / Rayo Vallecano</title></programme>
 <programme start="20250924213000 +0000" stop="20250924233000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Coupe de la Ligue anglaise - Huddersfield Town / Manchester City</title></programme>
-<programme start="20250924233000 +0000" stop="20250925010000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Ligue 2 BKT - Amiens / Saint-Etienne</title></programme>
+<programme start="20250924233000 +0000" stop="20250925013000 +0000" channel="beINSports1.qa@France"><title lang="fr">Football : Ligue 2 BKT - Amiens / Saint-Etienne</title></programme>
 <programme start="20250922222500 +0000" stop="20250923002500 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025</title><desc lang="en">beIN Sports brings you live and exclusive coverage of the 2025 Formula 1 World Championship.</desc></programme>
 <programme start="20250923002500 +0000" stop="20250923010000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Matchday 5</title><desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports</desc></programme>
 <programme start="20250923010000 +0000" stop="20250923030000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Liverpool vs Everton</title><desc lang="en">Enjoy every Liverpool match from the Premier League</desc></programme>
@@ -2201,9 +2202,8 @@
 <programme start="20250923203000 +0000" stop="20250923210000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250923210000 +0000" stop="20250924000000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">Hockey sur glace : NHL - Vegas Golden Knights / Los Angeles Kings</title></programme>
 <programme start="20250924000000 +0000" stop="20250924030000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250924030000 +0000" stop="20250924070000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250924070000 +0000" stop="20250924110000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250924110000 +0000" stop="20250924150000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250924030000 +0000" stop="20250924040000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">Tennis : Tournoi WTA de Pékin</title></programme>
+<programme start="20250924040000 +0000" stop="20250924150000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">Tennis : Tournoi WTA de Pékin</title></programme>
 <programme start="20250924150000 +0000" stop="20250924184000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250924184000 +0000" stop="20250924204500 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">Football : Coupe de la Ligue anglaise - Tottenham / Doncaster Rovers</title></programme>
 <programme start="20250924204500 +0000" stop="20250924220000 +0000" channel="beINSportsMax5.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
@@ -2269,9 +2269,8 @@
 <programme start="20250923203000 +0000" stop="20250923230000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250923230000 +0000" stop="20250924030000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250923230000 +0000" stop="20250924030000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250924030000 +0000" stop="20250924070000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250924070000 +0000" stop="20250924110000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250924110000 +0000" stop="20250924150000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250924030000 +0000" stop="20250924040000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">Tennis : Tournoi WTA de Pékin</title></programme>
+<programme start="20250924040000 +0000" stop="20250924150000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">Tennis : Tournoi WTA de Pékin</title></programme>
 <programme start="20250924150000 +0000" stop="20250924185500 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250924185500 +0000" stop="20250924210000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">Football : Coupe de la Ligue anglaise - Port Vale / Arsenal</title></programme>
 <programme start="20250924210000 +0000" stop="20250924230000 +0000" channel="beINSportsMax6.qa@France"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
