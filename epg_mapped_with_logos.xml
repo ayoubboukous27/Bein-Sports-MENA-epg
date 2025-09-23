@@ -359,10 +359,10 @@
 <programme start="20250923020000 +0000" stop="20250923060000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250923060000 +0000" stop="20250923075500 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250923060000 +0000" stop="20250923075500 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">Premier Padel</title></programme>
-<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">Premier Padel</title></programme>
-<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">Premier Padel</title></programme>
-<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">Premier Padel</title></programme>
+<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">Premier Padel Tennis</title></programme>
+<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">Premier Padel Tennis</title></programme>
+<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">Premier Padel Tennis</title></programme>
+<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">Premier Padel Tennis</title></programme>
 <programme start="20250923193000 +0000" stop="20250923220000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250923193000 +0000" stop="20250923220000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250923220000 +0000" stop="20250924020000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">SIGN OFF</title></programme>
@@ -373,8 +373,8 @@
 <programme start="20250924020000 +0000" stop="20250924060000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250924060000 +0000" stop="20250924075500 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924060000 +0000" stop="20250924075500 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924075500 +0000" stop="20250924110000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">Premier Padel</title></programme>
-<programme start="20250924075500 +0000" stop="20250924110000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">Premier Padel</title></programme>
+<programme start="20250924075500 +0000" stop="20250924110000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">Premier Padel Tennis</title></programme>
+<programme start="20250924075500 +0000" stop="20250924110000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">Premier Padel Tennis</title></programme>
 <programme start="20250924110000 +0000" stop="20250924140000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924110000 +0000" stop="20250924140000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250924140000 +0000" stop="20250924180000 +0000" channel="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><title lang="es">SIGN OFF</title></programme>
@@ -487,16 +487,22 @@
 <programme start="20250923110000 +0000" stop="20250923120000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">The Xtra</title></programme>
 <programme start="20250923120000 +0000" stop="20250923123000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Programa pagado</title></programme>
 <programme start="20250923120000 +0000" stop="20250923123000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Programa pagado</title></programme>
-<programme start="20250923123000 +0000" stop="20250923133000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Copa Sudamericana: Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250923123000 +0000" stop="20250923133000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Copa Sudamericana: Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250923133000 +0000" stop="20250923143000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250923133000 +0000" stop="20250923143000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923123000 +0000" stop="20250923130000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Copa Sudamericana: Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923123000 +0000" stop="20250923130000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Copa Sudamericana: Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923130000 +0000" stop="20250923133000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Los mejores goles</title><desc lang="es">Copa Libertadores</desc></programme>
+<programme start="20250923130000 +0000" stop="20250923133000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Los mejores goles</title><desc lang="en">Copa Libertadores</desc></programme>
+<programme start="20250923133000 +0000" stop="20250923140000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923133000 +0000" stop="20250923140000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923140000 +0000" stop="20250923143000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Los mejores goles de la Copa América</title></programme>
+<programme start="20250923140000 +0000" stop="20250923143000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Los mejores goles de la Copa América</title></programme>
 <programme start="20250923143000 +0000" stop="20250923150000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Programa pagado</title></programme>
 <programme start="20250923143000 +0000" stop="20250923150000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Programa pagado</title></programme>
 <programme start="20250923150000 +0000" stop="20250923170000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">XFC</title><desc lang="es">Young Guns 10</desc></programme>
 <programme start="20250923150000 +0000" stop="20250923170000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">XFC</title><desc lang="en">Young Guns 10</desc></programme>
-<programme start="20250923170000 +0000" stop="20250923180000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250923170000 +0000" stop="20250923180000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923170000 +0000" stop="20250923173000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923170000 +0000" stop="20250923173000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923173000 +0000" stop="20250923180000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Los mejores goles</title><desc lang="es">Copa Libertadores</desc></programme>
+<programme start="20250923173000 +0000" stop="20250923180000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Los mejores goles</title><desc lang="en">Copa Libertadores</desc></programme>
 <programme start="20250923180000 +0000" stop="20250923182500 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">This is Paris</title></programme>
 <programme start="20250923180000 +0000" stop="20250923182500 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">This is Paris</title></programme>
 <programme start="20250923182500 +0000" stop="20250923203000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Fútbol Ligue 2</title><desc lang="es">Amiens SC vs. AS Saint-Etienne</desc></programme>
@@ -543,8 +549,10 @@
 <programme start="20250924123000 +0000" stop="20250924130000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Tour Mundial de Baloncesto 3x3 de la FIBA</title><desc lang="en">Europe Cup: Serbia vs. Letonia</desc></programme>
 <programme start="20250924130000 +0000" stop="20250924133000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Tour Mundial de Baloncesto 3x3 de la FIBA</title><desc lang="es">Europe Cup: Austria vs. Alemania</desc></programme>
 <programme start="20250924130000 +0000" stop="20250924133000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Tour Mundial de Baloncesto 3x3 de la FIBA</title><desc lang="en">Europe Cup: Austria vs. Alemania</desc></programme>
-<programme start="20250924133000 +0000" stop="20250924143000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Copa Sudamericana: Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250924133000 +0000" stop="20250924143000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Copa Sudamericana: Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250924133000 +0000" stop="20250924140000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Copa Sudamericana: Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250924133000 +0000" stop="20250924140000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Copa Sudamericana: Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250924140000 +0000" stop="20250924143000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Los mejores goles</title><desc lang="es">Copa Libertadores</desc></programme>
+<programme start="20250924140000 +0000" stop="20250924143000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Los mejores goles</title><desc lang="en">Copa Libertadores</desc></programme>
 <programme start="20250924143000 +0000" stop="20250924150000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">Programa pagado</title></programme>
 <programme start="20250924143000 +0000" stop="20250924150000 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="en">Programa pagado</title></programme>
 <programme start="20250924150000 +0000" stop="20250924165500 +0000" channel="5824C394-7211-4004-AC46-35BD58B9D1EE"><title lang="es">BYB Xtreme Fighting Series</title><desc lang="es">BKB 44</desc></programme>
@@ -910,13 +918,13 @@
 <programme start="20250924021000 +0000" stop="20250924040000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Levante vs Real Madrid</title><desc lang="en">Extensive coverage from every round of the Spanish LaLiga</desc></programme>
 <programme start="20250924040000 +0000" stop="20250924053000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Germany P2 Day 2 Match 6</title><desc lang="en">The official global Padel tour. Catch world’s top players battle it out across the globe.</desc></programme>
 <programme start="20250924053000 +0000" stop="20250924070000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Germany P2 Day 2 Match 7</title><desc lang="en">The official global Padel tour. Catch world’s top players battle it out across the globe.</desc></programme>
-<programme start="20250924070000 +0000" stop="20250924073000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Episode Number 24</title><desc lang="en">Covering everything from prototypes to endurance racing</desc></programme>
+<programme start="20250924070000 +0000" stop="20250924073000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Episode Number 24</title><desc lang="en">On this weeks show we bring you highlights from round 4 of the Formula Regional European Championships at the Paul Ricard Circuit in France. But first it’s to the Norrisring for news from the latest round of the German Porsche Carrera Cup..</desc></programme>
 <programme start="20250924073000 +0000" stop="20250924080000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Highlights</title><desc lang="en">The 69th annual ceremony of the Ballon d'Or</desc></programme>
 <programme start="20250924080000 +0000" stop="20250924093000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Germany P2 Day 3 Match 1</title><desc lang="en">The official global Padel tour. Catch world’s top players battle it out across the globe.</desc></programme>
 <programme start="20250924093000 +0000" stop="20250924110000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Germany P2 Day 3 Match 2</title><desc lang="en">The official global Padel tour. Catch world’s top players battle it out across the globe.</desc></programme>
 <programme start="20250924110000 +0000" stop="20250924123000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Germany P2 Day 3 Match 3</title><desc lang="en">The official global Padel tour. Catch world’s top players battle it out across the globe.</desc></programme>
 <programme start="20250924123000 +0000" stop="20250924130000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Real Madrid vs Espanyol</title><desc lang="en">Exclusive coverage from the Spanish LaLiga</desc></programme>
-<programme start="20250924130000 +0000" stop="20250924133000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Episode Number 24</title><desc lang="en">Covering everything from prototypes to endurance racing</desc></programme>
+<programme start="20250924130000 +0000" stop="20250924133000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Episode Number 24</title><desc lang="en">On this weeks show we bring you highlights from round 4 of the Formula Regional European Championships at the Paul Ricard Circuit in France. But first it’s to the Norrisring for news from the latest round of the German Porsche Carrera Cup..</desc></programme>
 <programme start="20250924133000 +0000" stop="20250924140000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Red Bull Ring</title><desc lang="en">Catch up on all the action from the Porsche Carrera Cup in this 30-min highlights.</desc></programme>
 <programme start="20250924140000 +0000" stop="20250924143000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Highlights</title><desc lang="en">The 69th annual ceremony of the Ballon d'Or</desc></programme>
 <programme start="20250924143000 +0000" stop="20250924150000 +0000" channel="beINSports1.qa@Malaysia"><title lang="en">Barcelona vs Getafe</title><desc lang="en">Exclusive coverage from the Spanish LaLiga</desc></programme>
@@ -1154,9 +1162,8 @@
 <programme start="20250923155000 +0000" stop="20250923174000 +0000" channel="beINSports3.qa@Australia"><title lang="en">Valencia vs Athletic Bilbao</title><desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc></programme>
 <programme start="20250923174000 +0000" stop="20250923181000 +0000" channel="beINSports3.qa@Australia"><title lang="en">Diego Pablo Simeone</title><desc lang="en">Narrates in detail the huge contribution of six outstanding players have made to Spanish football.Narrates in detail the huge contribution of six outstanding players have made to Spanish football.</desc></programme>
 <programme start="20250923181000 +0000" stop="20250923184000 +0000" channel="beINSports3.qa@Australia"><title lang="en">Liverpool vs Newcastle - Final</title><desc lang="en">Get ready for the 2024/25 EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.Get ready for the 2024/25 Carabao Cup, the EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.</desc></programme>
-<programme start="20250923184000 +0000" stop="20250923185200 +0000" channel="beINSports3.qa@Australia"><title lang="en">Liverpool vs West Ham - 2023/24</title><desc lang="en">We look back into the Carabao Cup archives.We look back into the Carabao Cup archives.</desc></programme>
-<programme start="20250923185200 +0000" stop="20250923211500 +0000" channel="beINSports3.qa@Australia"><title lang="en">Liverpool vs Southampton - Rd 3</title><desc lang="en">Get ready for the 2025/26 Carabao Cup, the EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.</desc></programme>
-<programme start="20250923211500 +0000" stop="20250923213000 +0000" channel="beINSports3.qa@Australia"><title lang="en">Liverpool vs West Ham - 2023/24</title><desc lang="en">We look back into the Carabao Cup archives.We look back into the Carabao Cup archives.</desc></programme>
+<programme start="20250923184000 +0000" stop="20250923184500 +0000" channel="beINSports3.qa@Australia"><title lang="en">Long-Range Goal</title><desc lang="en">Bundesliga Goals features how to score the perfect goal and sublime moments of the game that has captivated audiences around the world.What does the perfect goal look like? We show you how Bundesliga teams manage to score the perfect goals.</desc></programme>
+<programme start="20250923184500 +0000" stop="20250923213000 +0000" channel="beINSports3.qa@Australia"><title lang="en">Liverpool vs Southampton - Rd 3</title><desc lang="en">Get ready for the 2025/26 Carabao Cup, the EFL knockout cup, where teams from the EFL and Premier League compete fiercely for a coveted spot at the iconic Wembley Stadium.</desc></programme>
 <programme start="20250923213000 +0000" stop="20250923214000 +0000" channel="beINSports3.qa@Australia"><title lang="en">Juventus vs Atalanta - 2022/23</title><desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie ARewind the clock and enjoy some of the classic matches from Serie A</desc></programme>
 <programme start="20250923214000 +0000" stop="20250923215000 +0000" channel="beINSports3.qa@Australia"><title lang="en">Juventus vs Torino - 2022/23</title><desc lang="en">Rewind the clock and enjoy some of the classic matches from Serie ARewind the clock and enjoy some of the classic matches from Serie A</desc></programme>
 <programme start="20250923215000 +0000" stop="20250924002000 +0000" channel="beINSports3.qa@Australia"><title lang="en">Racing Club vs Velez Sarsfield - QF 2nd Leg</title><desc lang="en">Watch live and exclusive coverage of the 2025 Copa Libertadores, South America's premier club competition.Watch live and exclusive coverage of the 2025 Copa Libertadores, South America's premier club competition.</desc></programme>
@@ -1521,23 +1528,23 @@
 <programme start="20250923220000 +0000" stop="20250923235500 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250923220000 +0000" stop="20250923235500 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250923235500 +0000" stop="20250924070000 +0000" channel="beINSports6.qa@USA"><title lang="es">Archery</title></programme>
+<programme start="20250923235500 +0000" stop="20250924070000 +0000" channel="beINSports6.qa@USA"><title lang="en">Archery</title></programme>
+<programme start="20250923235500 +0000" stop="20250924070000 +0000" channel="beINSports6.qa@USA"><title lang="en">Archery</title></programme>
 <programme start="20250923235500 +0000" stop="20250924070000 +0000" channel="beINSports6.qa@USA"><title lang="es">Archery</title></programme>
-<programme start="20250923235500 +0000" stop="20250924070000 +0000" channel="beINSports6.qa@USA"><title lang="en">Archery</title></programme>
-<programme start="20250923235500 +0000" stop="20250924070000 +0000" channel="beINSports6.qa@USA"><title lang="en">Archery</title></programme>
-<programme start="20250924070000 +0000" stop="20250924090000 +0000" channel="beINSports6.qa@USA"><title lang="es">Archery</title></programme>
 <programme start="20250924070000 +0000" stop="20250924090000 +0000" channel="beINSports6.qa@USA"><title lang="en">Archery</title></programme>
-<programme start="20250924090000 +0000" stop="20250924100000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924070000 +0000" stop="20250924090000 +0000" channel="beINSports6.qa@USA"><title lang="es">Archery</title></programme>
 <programme start="20250924090000 +0000" stop="20250924100000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924100000 +0000" stop="20250924140000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924090000 +0000" stop="20250924100000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924100000 +0000" stop="20250924140000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924140000 +0000" stop="20250924180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924100000 +0000" stop="20250924140000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924140000 +0000" stop="20250924180000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924180000 +0000" stop="20250924220000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924140000 +0000" stop="20250924180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924180000 +0000" stop="20250924220000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924220000 +0000" stop="20250924235500 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924180000 +0000" stop="20250924220000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924220000 +0000" stop="20250924235500 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924235500 +0000" stop="20250925073000 +0000" channel="beINSports6.qa@USA"><title lang="es">Archery</title></programme>
+<programme start="20250924220000 +0000" stop="20250924235500 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924235500 +0000" stop="20250925073000 +0000" channel="beINSports6.qa@USA"><title lang="en">Archery</title></programme>
+<programme start="20250924235500 +0000" stop="20250925073000 +0000" channel="beINSports6.qa@USA"><title lang="es">Archery</title></programme>
 <programme start="20250922234700 +0000" stop="20250923014200 +0000" channel="beINSports7.qa"><title lang="en">Elisabetta COCCIARETTO (ITA) vs Emma NAVARRO (USA) - Women’s Final - Billie Jean King Cup Finals 202</title><desc lang="en">Women’s tennis powerhouses meet in Shenzhen for the Billie Jean King Cup Finals. Quarterfinals through to the semifinal bring drama, teamwork, and elite competition as nations battle for a place in history in the world’s premier women’s team event.</desc></programme>
 <programme start="20250922234700 +0000" stop="20250923014200 +0000" channel="beINSports7.qa"><title lang="en">Elisabetta COCCIARETTO (ITA) vs Emma NAVARRO (USA) - Women’s Final - Billie Jean King Cup Finals 202</title><desc lang="en">Women’s tennis powerhouses meet in Shenzhen for the Billie Jean King Cup Finals. Quarterfinals through to the semifinal bring drama, teamwork, and elite competition as nations battle for a place in history in the world’s premier women’s team event.</desc></programme>
 <programme start="20250923014200 +0000" stop="20250923041300 +0000" channel="beINSports7.qa"><title lang="en">SuperTri Jersey/London - Super Tri 2025</title></programme>
@@ -1592,34 +1599,34 @@
 <programme start="20250924210000 +0000" stop="20250924230000 +0000" channel="beINSports7.qa"><title lang="en">Match 1 - ATP 500 Tokyo - Japan Open 2025</title></programme>
 <programme start="20250924230000 +0000" stop="20250925010000 +0000" channel="beINSports7.qa"><title lang="en">Match 2 - ATP 500 Tokyo - Japan Open 2025</title></programme>
 <programme start="20250924230000 +0000" stop="20250925010000 +0000" channel="beINSports7.qa"><title lang="en">Match 2 - ATP 500 Tokyo - Japan Open 2025</title></programme>
-<programme start="20250922220000 +0000" stop="20250923020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250922220000 +0000" stop="20250923020000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250923020000 +0000" stop="20250923060000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250922220000 +0000" stop="20250923020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250923020000 +0000" stop="20250923060000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250923060000 +0000" stop="20250923075500 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250923020000 +0000" stop="20250923060000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250923060000 +0000" stop="20250923075500 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="beINSports7.qa@USA"><title lang="es">Premier Padel</title></programme>
-<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="beINSports7.qa@USA"><title lang="en">Premier Padel</title></programme>
-<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250923060000 +0000" stop="20250923075500 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="beINSports7.qa@USA"><title lang="en">Premier Padel Tennis</title></programme>
+<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="beINSports7.qa@USA"><title lang="es">Premier Padel Tennis</title></programme>
 <programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250923193000 +0000" stop="20250923220000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250923193000 +0000" stop="20250923220000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250923220000 +0000" stop="20250924020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
-<programme start="20250923220000 +0000" stop="20250924020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250923193000 +0000" stop="20250923220000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250923220000 +0000" stop="20250924020000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250923220000 +0000" stop="20250924020000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924020000 +0000" stop="20250924060000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250923220000 +0000" stop="20250924020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250923220000 +0000" stop="20250924020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924020000 +0000" stop="20250924060000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924060000 +0000" stop="20250924075500 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924020000 +0000" stop="20250924060000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924060000 +0000" stop="20250924075500 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924075500 +0000" stop="20250924150000 +0000" channel="beINSports7.qa@USA"><title lang="es">Premier Padel</title></programme>
-<programme start="20250924075500 +0000" stop="20250924150000 +0000" channel="beINSports7.qa@USA"><title lang="en">Premier Padel</title></programme>
-<programme start="20250924150000 +0000" stop="20250924193000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924060000 +0000" stop="20250924075500 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924075500 +0000" stop="20250924150000 +0000" channel="beINSports7.qa@USA"><title lang="en">Premier Padel Tennis</title></programme>
+<programme start="20250924075500 +0000" stop="20250924150000 +0000" channel="beINSports7.qa@USA"><title lang="es">Premier Padel Tennis</title></programme>
 <programme start="20250924150000 +0000" stop="20250924193000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924193000 +0000" stop="20250924220000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924150000 +0000" stop="20250924193000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924193000 +0000" stop="20250924220000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20250924220000 +0000" stop="20250925020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20250924193000 +0000" stop="20250924220000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924220000 +0000" stop="20250925020000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
+<programme start="20250924220000 +0000" stop="20250925020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250922234000 +0000" stop="20250923014500 +0000" channel="beINSports8.qa"><title lang="en">Main Race - F1 Qatar Airways Azerbaijan Grand Prix - 2025</title><desc lang="en">51 laps of high-risk street racing. Safety Cars compress strategies, making tyre calls and restarts pivotal. One-stop plans can flip with interruptions; leaders defend ERS and unleash DRS down the main straight for decisive moves. Brake temps, wall proximity, and calm under pressure define who masters Baku when it counts.</desc></programme>
 <programme start="20250922234000 +0000" stop="20250923014500 +0000" channel="beINSports8.qa"><title lang="en">Main Race - F1 Qatar Airways Azerbaijan Grand Prix - 2025</title><desc lang="en">51 laps of high-risk street racing. Safety Cars compress strategies, making tyre calls and restarts pivotal. One-stop plans can flip with interruptions; leaders defend ERS and unleash DRS down the main straight for decisive moves. Brake temps, wall proximity, and calm under pressure define who masters Baku when it counts.</desc></programme>
 <programme start="20250923014500 +0000" stop="20250923070000 +0000" channel="beINSports8.qa"><title lang="en">T100 Triathlon World Tour 2025 - Valencia</title></programme>
@@ -1690,10 +1697,10 @@
 <programme start="20250923020000 +0000" stop="20250923060000 +0000" channel="beINSports8.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250923060000 +0000" stop="20250923075500 +0000" channel="beINSports8.qa@USA"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250923060000 +0000" stop="20250923075500 +0000" channel="beINSports8.qa@USA"><title lang="es">SIGN OFF</title></programme>
-<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="beINSports8.qa@USA"><title lang="en">Premier Padel</title></programme>
-<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="beINSports8.qa@USA"><title lang="es">Premier Padel</title></programme>
-<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="beINSports8.qa@USA"><title lang="en">Premier Padel</title></programme>
-<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="beINSports8.qa@USA"><title lang="es">Premier Padel</title></programme>
+<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="beINSports8.qa@USA"><title lang="en">Premier Padel Tennis</title></programme>
+<programme start="20250923075500 +0000" stop="20250923150000 +0000" channel="beINSports8.qa@USA"><title lang="es">Premier Padel Tennis</title></programme>
+<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="beINSports8.qa@USA"><title lang="en">Premier Padel Tennis</title></programme>
+<programme start="20250923150000 +0000" stop="20250923193000 +0000" channel="beINSports8.qa@USA"><title lang="es">Premier Padel Tennis</title></programme>
 <programme start="20250923193000 +0000" stop="20250923220000 +0000" channel="beINSports8.qa@USA"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250923193000 +0000" stop="20250923220000 +0000" channel="beINSports8.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250923220000 +0000" stop="20250924020000 +0000" channel="beINSports8.qa@USA"><title lang="en">SIGN OFF</title></programme>
@@ -1704,8 +1711,8 @@
 <programme start="20250924020000 +0000" stop="20250924060000 +0000" channel="beINSports8.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924060000 +0000" stop="20250924075500 +0000" channel="beINSports8.qa@USA"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250924060000 +0000" stop="20250924075500 +0000" channel="beINSports8.qa@USA"><title lang="es">SIGN OFF</title></programme>
-<programme start="20250924075500 +0000" stop="20250924110000 +0000" channel="beINSports8.qa@USA"><title lang="en">Premier Padel</title></programme>
-<programme start="20250924075500 +0000" stop="20250924110000 +0000" channel="beINSports8.qa@USA"><title lang="es">Premier Padel</title></programme>
+<programme start="20250924075500 +0000" stop="20250924110000 +0000" channel="beINSports8.qa@USA"><title lang="en">Premier Padel Tennis</title></programme>
+<programme start="20250924075500 +0000" stop="20250924110000 +0000" channel="beINSports8.qa@USA"><title lang="es">Premier Padel Tennis</title></programme>
 <programme start="20250924110000 +0000" stop="20250924140000 +0000" channel="beINSports8.qa@USA"><title lang="en">SIGN OFF</title></programme>
 <programme start="20250924110000 +0000" stop="20250924140000 +0000" channel="beINSports8.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20250924140000 +0000" stop="20250924180000 +0000" channel="beINSports8.qa@USA"><title lang="en">SIGN OFF</title></programme>
@@ -1804,16 +1811,22 @@
 <programme start="20250923110000 +0000" stop="20250923120000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">The Xtra</title></programme>
 <programme start="20250923120000 +0000" stop="20250923123000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Programa pagado</title></programme>
 <programme start="20250923120000 +0000" stop="20250923123000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Programa pagado</title></programme>
-<programme start="20250923123000 +0000" stop="20250923133000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Copa Sudamericana: Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250923123000 +0000" stop="20250923133000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Copa Sudamericana: Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250923133000 +0000" stop="20250923143000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250923133000 +0000" stop="20250923143000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923123000 +0000" stop="20250923130000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Copa Sudamericana: Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923123000 +0000" stop="20250923130000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Copa Sudamericana: Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923130000 +0000" stop="20250923133000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Los mejores goles</title><desc lang="en">Copa Libertadores</desc></programme>
+<programme start="20250923130000 +0000" stop="20250923133000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Los mejores goles</title><desc lang="es">Copa Libertadores</desc></programme>
+<programme start="20250923133000 +0000" stop="20250923140000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923133000 +0000" stop="20250923140000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923140000 +0000" stop="20250923143000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Los mejores goles de la Copa América</title></programme>
+<programme start="20250923140000 +0000" stop="20250923143000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Los mejores goles de la Copa América</title></programme>
 <programme start="20250923143000 +0000" stop="20250923150000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Programa pagado</title></programme>
 <programme start="20250923143000 +0000" stop="20250923150000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Programa pagado</title></programme>
 <programme start="20250923150000 +0000" stop="20250923170000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">XFC</title><desc lang="en">Young Guns 10</desc></programme>
 <programme start="20250923150000 +0000" stop="20250923170000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">XFC</title><desc lang="es">Young Guns 10</desc></programme>
-<programme start="20250923170000 +0000" stop="20250923180000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250923170000 +0000" stop="20250923180000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923170000 +0000" stop="20250923173000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923170000 +0000" stop="20250923173000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250923173000 +0000" stop="20250923180000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Los mejores goles</title><desc lang="en">Copa Libertadores</desc></programme>
+<programme start="20250923173000 +0000" stop="20250923180000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Los mejores goles</title><desc lang="es">Copa Libertadores</desc></programme>
 <programme start="20250923180000 +0000" stop="20250923182500 +0000" channel="beINSportsenEspanol.qa"><title lang="en">This is Paris</title></programme>
 <programme start="20250923180000 +0000" stop="20250923182500 +0000" channel="beINSportsenEspanol.qa"><title lang="es">This is Paris</title></programme>
 <programme start="20250923182500 +0000" stop="20250923203000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Fútbol Ligue 2</title><desc lang="en">Amiens SC vs. AS Saint-Etienne</desc></programme>
@@ -1860,8 +1873,10 @@
 <programme start="20250924123000 +0000" stop="20250924130000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Tour Mundial de Baloncesto 3x3 de la FIBA</title><desc lang="es">Europe Cup: Serbia vs. Letonia</desc></programme>
 <programme start="20250924130000 +0000" stop="20250924133000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Tour Mundial de Baloncesto 3x3 de la FIBA</title><desc lang="en">Europe Cup: Austria vs. Alemania</desc></programme>
 <programme start="20250924130000 +0000" stop="20250924133000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Tour Mundial de Baloncesto 3x3 de la FIBA</title><desc lang="es">Europe Cup: Austria vs. Alemania</desc></programme>
-<programme start="20250924133000 +0000" stop="20250924143000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Copa Sudamericana: Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250924133000 +0000" stop="20250924143000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Copa Sudamericana: Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250924133000 +0000" stop="20250924140000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Copa Sudamericana: Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250924133000 +0000" stop="20250924140000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Copa Sudamericana: Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250924140000 +0000" stop="20250924143000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Los mejores goles</title><desc lang="en">Copa Libertadores</desc></programme>
+<programme start="20250924140000 +0000" stop="20250924143000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Los mejores goles</title><desc lang="es">Copa Libertadores</desc></programme>
 <programme start="20250924143000 +0000" stop="20250924150000 +0000" channel="beINSportsenEspanol.qa"><title lang="en">Programa pagado</title></programme>
 <programme start="20250924143000 +0000" stop="20250924150000 +0000" channel="beINSportsenEspanol.qa"><title lang="es">Programa pagado</title></programme>
 <programme start="20250924150000 +0000" stop="20250924165500 +0000" channel="beINSportsenEspanol.qa"><title lang="en">BYB Xtreme Fighting Series</title><desc lang="en">BKB 44</desc></programme>
@@ -2567,10 +2582,10 @@
 <programme start="20250923000000 +0000" stop="20250923003000 +0000" channel="beINSportsUSA.us"><title lang="es">The Knockout Room</title></programme>
 <programme start="20250923003000 +0000" stop="20250923023000 +0000" channel="beINSportsUSA.us"><title lang="en">Bare Knuckle Boxing</title><desc lang="en">BKB 40: Cardiff Brawl III</desc></programme>
 <programme start="20250923003000 +0000" stop="20250923023000 +0000" channel="beINSportsUSA.us"><title lang="es">Bare Knuckle Boxing</title><desc lang="es">BKB 40: Cardiff Brawl III</desc></programme>
-<programme start="20250923023000 +0000" stop="20250923043000 +0000" channel="beINSportsUSA.us"><title lang="en">BRAVE - MMA</title><desc lang="en">Origin of UFC Warriors</desc></programme>
-<programme start="20250923023000 +0000" stop="20250923043000 +0000" channel="beINSportsUSA.us"><title lang="es">BRAVE - MMA</title><desc lang="es">Origin of UFC Warriors</desc></programme>
-<programme start="20250923043000 +0000" stop="20250923063000 +0000" channel="beINSportsUSA.us"><title lang="en">Bare Knuckle Boxing</title><desc lang="en">BKB 41: Brawl in Duval II</desc></programme>
-<programme start="20250923043000 +0000" stop="20250923063000 +0000" channel="beINSportsUSA.us"><title lang="es">Bare Knuckle Boxing</title><desc lang="es">BKB 41: Brawl in Duval II</desc></programme>
+<programme start="20250923023000 +0000" stop="20250923043000 +0000" channel="beINSportsUSA.us"><title lang="en">BYB Xtreme Fighting Series</title><desc lang="en">BYB 41: Brawl in Duval II</desc></programme>
+<programme start="20250923023000 +0000" stop="20250923043000 +0000" channel="beINSportsUSA.us"><title lang="es">BYB Xtreme Fighting Series</title><desc lang="es">BYB 41: Brawl in Duval II</desc></programme>
+<programme start="20250923043000 +0000" stop="20250923063000 +0000" channel="beINSportsUSA.us"><title lang="en">BYB Xtreme Fighting Series</title><desc lang="en">BYB 35: Albuquerque Brawl</desc></programme>
+<programme start="20250923043000 +0000" stop="20250923063000 +0000" channel="beINSportsUSA.us"><title lang="es">BYB Xtreme Fighting Series</title><desc lang="es">BYB 35: Albuquerque Brawl</desc></programme>
 <programme start="20250923063000 +0000" stop="20250923073000 +0000" channel="beINSportsUSA.us"><title lang="en">Footvolley</title><desc lang="en">Pro Tour: World-Class Footvolley at Ocean City Semifinals</desc></programme>
 <programme start="20250923063000 +0000" stop="20250923073000 +0000" channel="beINSportsUSA.us"><title lang="es">Footvolley</title><desc lang="es">Pro Tour: World-Class Footvolley at Ocean City Semifinals</desc></programme>
 <programme start="20250923073000 +0000" stop="20250923080000 +0000" channel="beINSportsUSA.us"><title lang="en">Programa pagado</title></programme>
@@ -2889,8 +2904,8 @@
 <programme start="20250923020000 +0000" stop="20250923040000 +0000" channel="beINSPORTSXTRA.us"><title lang="es">Karate Combat</title><desc lang="es">KC 54: Dubai, Part 1</desc></programme>
 <programme start="20250923040000 +0000" stop="20250923060000 +0000" channel="beINSPORTSXTRA.us"><title lang="en">Karate Combat</title><desc lang="en">KC 54: Dubai, Part 2</desc></programme>
 <programme start="20250923040000 +0000" stop="20250923060000 +0000" channel="beINSPORTSXTRA.us"><title lang="es">Karate Combat</title><desc lang="es">KC 54: Dubai, Part 2</desc></programme>
-<programme start="20250923060000 +0000" stop="20250923080000 +0000" channel="beINSPORTSXTRA.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title><desc lang="en">River Plate vs. Palmeiras</desc></programme>
-<programme start="20250923060000 +0000" stop="20250923080000 +0000" channel="beINSPORTSXTRA.us"><title lang="es">Fútbol CONMEBOL Copa Libertadores</title><desc lang="es">River Plate vs. Palmeiras</desc></programme>
+<programme start="20250923060000 +0000" stop="20250923080000 +0000" channel="beINSPORTSXTRA.us"><title lang="en">Copa Libertadores Soccer</title><desc lang="en">River Plate vs. Palmeiras</desc></programme>
+<programme start="20250923060000 +0000" stop="20250923080000 +0000" channel="beINSPORTSXTRA.us"><title lang="es">Copa Libertadores Soccer</title><desc lang="es">River Plate vs. Palmeiras</desc></programme>
 <programme start="20250923080000 +0000" stop="20250923083000 +0000" channel="beINSPORTSXTRA.us"><title lang="en">Tour Mundial de Baloncesto 3x3 de la FIBA</title><desc lang="en">Europe Cup: Copenhagen, Serbia vs. Lativa</desc></programme>
 <programme start="20250923080000 +0000" stop="20250923083000 +0000" channel="beINSPORTSXTRA.us"><title lang="es">Tour Mundial de Baloncesto 3x3 de la FIBA</title><desc lang="es">Europe Cup: Copenhagen, Serbia vs. Lativa</desc></programme>
 <programme start="20250923083000 +0000" stop="20250923090000 +0000" channel="beINSPORTSXTRA.us"><title lang="en">Tour Mundial de Baloncesto 3x3 de la FIBA</title><desc lang="en">Europe Cup: Copenhagen, Austria vs. Germany</desc></programme>
@@ -3053,8 +3068,10 @@
 <programme start="20250924150000 +0000" stop="20250924193000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="es">Premier Padel</title><desc lang="es">Alemania, octavos de final</desc></programme>
 <programme start="20250924193000 +0000" stop="20250924200000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2025-26: Marseille vs. Paris Saint-Germain</desc></programme>
 <programme start="20250924193000 +0000" stop="20250924200000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="es">90 in 30</title><desc lang="es">Ligue 1 2025-26: Marseille vs. Paris Saint-Germain</desc></programme>
-<programme start="20250924200000 +0000" stop="20250924210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
-<programme start="20250924200000 +0000" stop="20250924210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250924200000 +0000" stop="20250924203000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Copa Sudamericana 2025: Alianza Lima vs. Universidad de Chile</desc></programme>
+<programme start="20250924200000 +0000" stop="20250924203000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="es">90 in 30</title><desc lang="es">Copa Sudamericana 2025: Alianza Lima vs. Universidad de Chile</desc></programme>
+<programme start="20250924203000 +0000" stop="20250924210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Libertadores Highlights</title><desc lang="en">Quarterfinals (1st Leg)</desc></programme>
+<programme start="20250924203000 +0000" stop="20250924210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="es">Copa Libertadores Highlights</title><desc lang="es">Quarterfinals (1st Leg)</desc></programme>
 <programme start="20250924210000 +0000" stop="20250924215000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Xtra</title></programme>
 <programme start="20250924210000 +0000" stop="20250924215000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="es">The Xtra</title></programme>
 <programme start="20250924215000 +0000" stop="20250924220000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">500 Great Goals</title></programme>
