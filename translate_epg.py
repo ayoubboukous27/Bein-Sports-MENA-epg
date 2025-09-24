@@ -1,11 +1,14 @@
+import requests
 import xml.etree.ElementTree as ET
-from deep_translator import GoogleTranslator
+import io
+from deep_translator import MyMemoryTranslator
 
+# ملف Bein EPG كمصدر
 input_file = "epg_mapped_with_logos.xml"
 output_file = "epg_mapped_with_logos_ar.xml"
 
-translator = GoogleTranslator(source="auto", target="ar")
-cache = {}  # لتجنب إعادة الترجمة لنفس النصوص
+translator = MyMemoryTranslator(source="en", target="ar")
+cache = {}
 
 def translate_text(text):
     if not text:
@@ -17,32 +20,19 @@ def translate_text(text):
         cache[text] = translated
         return translated
     except Exception:
-        return text
+        return text  # fallback لو فشل
 
-print("⏳ جاري الترجمة ...")
-
+print("⏳ جاري قراءة ملف EPG ...")
 tree = ET.parse(input_file)
 root = tree.getroot()
 
+print("✅ جاري الترجمة باستخدام MyMemory ...")
 for programme in root.findall("programme"):
-    # نترجم العنوان
-    for elem in programme.findall("title"):
-        if elem.text:
-            elem.text = translate_text(elem.text)
-            elem.set("lang", "ar")
-
-    # نترجم الوصف
-    for elem in programme.findall("desc"):
-        if elem.text:
-            elem.text = translate_text(elem.text)
-            elem.set("lang", "ar")
-
-    # نترجم التصنيف
-    for elem in programme.findall("category"):
-        if elem.text:
-            elem.text = translate_text(elem.text)
-            elem.set("lang", "ar")
+    for tag in ["title", "desc", "category"]:
+        for elem in programme.findall(tag):
+            if elem.text:
+                elem.text = translate_text(elem.text)
+                elem.set("lang", "ar")
 
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
-
 print(f"✅ تم إنشاء الملف المترجم: {output_file}")
