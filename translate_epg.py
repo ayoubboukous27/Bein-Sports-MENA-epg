@@ -1,11 +1,11 @@
 import xml.etree.ElementTree as ET
 from deep_translator import MyMemoryTranslator
 
-# ملف Bein EPG كمصدر
+# ملفات
 input_file = "epg_mapped_with_logos.xml"
 output_file = "epg_mapped_with_logos_ar.xml"
 
-# MyMemory يحتاج رموز كاملة للغات
+# مترجم (MyMemory أفضل للـ XML الكبير)
 translator = MyMemoryTranslator(source="en-US", target="ar-SA")
 cache = {}
 
@@ -19,13 +19,13 @@ def translate_text(text):
         cache[text] = translated
         return translated
     except Exception:
-        return text  # fallback لو فشل
+        return text
 
 print("⏳ جاري قراءة ملف EPG ...")
 tree = ET.parse(input_file)
 root = tree.getroot()
 
-print("✅ جاري الترجمة باستخدام MyMemory ...")
+print("✅ جاري الترجمة الكاملة ...")
 for programme in root.findall("programme"):
     for tag in ["title", "desc", "category"]:
         for elem in programme.findall(tag):
