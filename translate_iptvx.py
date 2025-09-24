@@ -4,7 +4,6 @@ import gzip
 import io
 from deep_translator import GoogleTranslator
 
-# غيّر الرابط حسب اللي تريده (EPG7 أو EPG_LITE)
 epg_url = "https://iptvx.one/EPG7"
 output_file = "epg_source_ar.xml"
 
@@ -29,18 +28,23 @@ response.raise_for_status()
 
 content = response.content
 
-# إذا الملف مضغوط gzip
+# فك ضغط gzip إذا لزم
 if response.headers.get("Content-Encoding") == "gzip" or epg_url.endswith(".gz"):
     content = gzip.decompress(content)
 
-# حفظ نسخة أصلية
-with open("epg_source.xml", "wb") as f:
+# حفظ نسخة خام
+with open("epg_source_raw.txt", "wb") as f:
     f.write(content)
 
-# عرض أول 200 حرف للتأكد
-print("📄 بداية الملف:", content[:200].decode("utf-8", errors="ignore"))
+# نعاين البداية
+preview = content[:500].decode("utf-8", errors="ignore")
+print("📄 معاينة أول 500 بايت:\n", preview)
 
-print("✅ تم التحميل، جاري الترجمة ...")
+# نتأكد إذا الملف فعلاً XML
+if not preview.strip().startswith("<?xml") and "<tv" not in preview:
+    raise ValueError("🚨 الملف المحمّل ليس XML صالح (يبدو أنه HTML أو رسالة خطأ من السيرفر).")
+
+print("✅ الملف يبدو XML صالح، جاري الترجمة ...")
 tree = ET.parse(io.BytesIO(content))
 root = tree.getroot()
 
