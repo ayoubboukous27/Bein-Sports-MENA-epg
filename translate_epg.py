@@ -1,13 +1,12 @@
-import requests
 import xml.etree.ElementTree as ET
-import io
 from deep_translator import MyMemoryTranslator
 
 # ملف Bein EPG كمصدر
 input_file = "epg_mapped_with_logos.xml"
 output_file = "epg_mapped_with_logos_ar.xml"
 
-translator = MyMemoryTranslator(source="en", target="ar")
+# MyMemory يحتاج رموز كاملة للغات
+translator = MyMemoryTranslator(source="en-US", target="ar-SA")
 cache = {}
 
 def translate_text(text):
