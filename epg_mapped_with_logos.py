@@ -7,7 +7,6 @@ output_file = "epg_mapped_with_logos.xml"
 
 # 🟢 تعريف جميع القنوات مع روابط الشعارات
 channels_logos = {
-    # ✅ قنوات beIN
     "beINSports1.qa": "https://i.imgur.com/Vtk2cGI.png",
     "beINSports2.qa": "https://i.imgur.com/vUJZSvs.png",
     "beINSports3.qa": "https://i.imgur.com/UYSMao3.png",
@@ -38,23 +37,7 @@ channels_logos = {
     "beINSportsPremium2.qa": "https://i.imgur.com/6HBpC0r.png",
     "beINSportsPremium3.qa": "https://i.imgur.com/2vxVwxF.png",
     "beINSportsXtra1.qa": "https://i.imgur.com/O9lTxQA.png",
-    "beINSportsXtra2.qa": "https://i.imgur.com/08Y2CW1.png",
-
-    # ✅ Algeria 4Kids
-    "Algeria.4kids": "https://i.postimg.cc/GmMN18j3/dg1qf1z-4f34edae-3c82-43f3-9019-4f4678e23ba6.png",
-    "Algeria4Kids.dz": "https://i.postimg.cc/GmMN18j3/dg1qf1z-4f34edae-3c82-43f3-9019-4f4678e23ba6.png",
-
-    # ✅ قنوات الأطفال
-    "MBC3.sa": "https://commons.wikimedia.org/wiki/File:Mbc_3_Logo_TV_Channels_Official.jpg",
-    "Jeem.qa": "https://i.imgur.com/ckM1xOd.png",
-    "Baraem.qa": "https://i.imgur.com/s0J0EJ5.png",
-    "Spacetoon.ae": "https://i.imgur.com/ySXUjCu.png",
-    "Majid.ae": "https://i.imgur.com/qPfhH06.png",
-    "ToyorBaby.lb": "https://i.imgur.com/duD3muU.png",
-    "CNArabic.ae": "https://i.imgur.com/I7RFeiv.png",
-    "NickelodeonArabia.ae": "https://i.imgur.com/0YqylHo.png",
-    "DisneyChannel.me": "https://i.imgur.com/lF0PXmW.png",
-    "DisneyJunior.me": "https://i.imgur.com/uIXkPo4.png"
+    "beINSportsXtra2.qa": "https://i.imgur.com/08Y2CW1.png"
 }
 
 tree = ET.parse(input_file)
