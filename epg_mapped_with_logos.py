@@ -38,6 +38,8 @@ channels_logos = {
     "beINSportsPremium3.qa": "https://i.imgur.com/2vxVwxF.png",
     "beINSportsXtra1.qa": "https://i.imgur.com/O9lTxQA.png",
     "beINSportsXtra2.qa": "https://i.imgur.com/08Y2CW1.png",
+    "Algeria.4kids": "https://i.postimg.cc/GmMN18j3/dg1qf1z-4f34edae-3c82-43f3-9019-4f4678e23ba6.png",
+
 
     # ✅ Algeria 4Kids
     "Algeria4Kids.dz": "https://i.postimg.cc/GmMN18j3/dg1qf1z-4f34edae-3c82-43f3-9019-4f4678e23ba6.png"
