@@ -2,7 +2,7 @@
 <tv generator-info-name="ChatGPT EPG Generator">
   <channel id="AbudhabiSports">
     <display-name>Abudhabi Sports</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Abu_Dhabi_Sports_logo_2023.svg"/>
+    <icon src="https://i.postimg.cc/Nj4JQMTX/Picsart-25-10-04-11-52-31-346.png"/>
   </channel>
 
   <programme start="20251004000000 +0000" stop="20251004235959 +0000" channel="AbudhabiSports">
