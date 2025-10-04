@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="CustomEPGWithLogos">
+
+  <!-- Majid Kids -->
+  <channel id="MajidKids">
+    <display-name>Majid Kids</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/44/Majid_TV_logo_2023.svg" />
+  </channel>
+
+  <!-- Algeria 4 Kids (رابط شعار مبدئي - استبدله برابط ثابت إذا وجد) -->
+  <channel id="Algeria4Kids">
+    <display-name>Algeria 4 Kids</display-name>
+    <icon src="https://i.postimg.cc/rm6XgZ8m/logo-24kids-300x125-1-imgupscaler-ai-v1-Fast-2-K.png" />
+  </channel>
+
+  <!-- Jeem -->
+  <channel id="Jeem">
+    <display-name>Jeem</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/7a/JeemTV_logo.png" />
+  </channel>
+
+  <!-- Baraem -->
+  <channel id="Baraem">
+    <display-name>Baraem</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" />
+  </channel>
+
+  <!-- Spacetoon -->
+  <channel id="Spacetoon">
+    <display-name>Spacetoon</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/06/Spacetoon_Plus_Logo.png" />
+  </channel>
+
+  <!-- MBC3 -->
+  <channel id="MBC3">
+    <display-name>MBC3</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9f/MBC3_Logo.png" />
+  </channel>
+
+  <!-- مثال برامج (أضف برامجك هنا بتنسيق start/stop) -->
+  <programme start="20251004120000 +0000" stop="20251004130000 +0000" channel="MajidKids">
+    <title>برنامج تجريبي ماجد</title>
+    <desc>وصف تجريبي لبرنامج على قناة ماجد</desc>
+  </programme>
+
+</tv>
