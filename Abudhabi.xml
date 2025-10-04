@@ -13,16 +13,16 @@
     <desc lang="ar">نقل مباشر وتحليلات لمباريات الدوري الإيطالي على قناة أبوظبي الرياضية.</desc>
   </programme>
 
-  <!-- DAZN France -->
-  <channel id="DAZNFrance.fr@Europe">
-    <display-name>DAZN France</display-name>
+  <!-- Dazn 1 -->
+  <channel id="Dazn1">
+    <display-name>Dazn 1</display-name>
     <icon src="https://i.postimg.cc/7YpFcf4J/Picsart-25-10-04-12-14-30-529.png" />
     <url>https://www.dazn.com/fr-FR</url>
   </channel>
 
-  <programme start="20251004000000 +0000" stop="20251004235959 +0000" channel="DAZNFrance.fr@Europe">
+  <programme start="20251004000000 +0000" stop="20251004235959 +0000" channel="Dazn1">
     <title lang="fr">Serie A sur DAZN France</title>
-    <desc lang="fr">Diffusion des matchs du championnat italien Serie A en direct sur DAZN France.</desc>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France.</desc>
   </programme>
 
 </tv>
