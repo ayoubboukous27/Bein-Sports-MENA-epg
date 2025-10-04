@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT EPG Generator">
+  <channel id="AbudhabiSports">
+    <display-name>Abudhabi Sports</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Abu_Dhabi_Sports_logo_2023.svg"/>
+  </channel>
+
+  <programme start="20251004000000 +0000" stop="20251004235959 +0000" channel="AbudhabiSports">
+    <title lang="ar">قناة الدوري الإيطالي</title>
+    <desc lang="ar">نقل مباشر وتحليلات للدوري الإيطالي.</desc>
+  </programme>
+</tv>
