@@ -7,7 +7,7 @@
     <icon src="https://i.postimg.cc/L51JwbfK/Majid-2020.png" />
   </channel>
 
-  <!-- Algeria 4 Kids (رابط شعار مبدئي - استبدله برابط ثابت إذا وجد) -->
+  <!-- Algeria 4 Kids -->
   <channel id="Algeria4Kids">
     <display-name>Algeria 4 Kids</display-name>
     <icon src="https://i.postimg.cc/rm6XgZ8m/logo-24kids-300x125-1-imgupscaler-ai-v1-Fast-2-K.png" />
@@ -37,7 +37,13 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9f/MBC3_Logo.png" />
   </channel>
 
-  <!-- مثال برامج (أضف برامجك هنا بتنسيق start/stop) -->
+  <!-- Amou Yazid -->
+  <channel id="AmouYazid">
+    <display-name>Amou Yazid</display-name>
+    <icon src="https://i.postimg.cc/dQ5Z1gw7/Picsart-25-10-04-17-19-28-435.png" />
+  </channel>
+
+  <!-- مثال برامج -->
   <programme start="20251004120000 +0000" stop="20251004130000 +0000" channel="MajidKids">
     <title>برنامج تجريبي ماجد</title>
     <desc>وصف تجريبي لبرنامج على قناة ماجد</desc>
