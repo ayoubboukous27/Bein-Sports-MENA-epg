@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="ChatGPT EPG Generator">
-<channel id="DAZN.fr@Europe"><display-name>DAZN France</display-name><icon src="https://i.postimg.cc/J0G130V3/Picsart-25-10-04-13-20-21-280.png"/><url>https://www.dazn.com/fr-FR</url></channel>
-<programme start="20251004000000 +0000" stop="20251004235959 +0000" channel="DAZN.fr@Europe"><title lang="fr">Serie A sur DAZN France</title><desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France.</desc></programme>
-</tv>
