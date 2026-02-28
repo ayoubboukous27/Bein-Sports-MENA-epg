@@ -12,7 +12,7 @@ cd epg
 npm install
 
 # 3) تشغيل الجلب لموقع beIN (غيّر الاسم لو مختلف)
-npm run grab --- --site=beinsports.com --output=guide_bein.xml --days=2
+npm run grab --- --site=beinsports.com --output=guide_bein.xml --days=7
 
 # 4) رجوع للمجلد الأصلي
 cd ..
