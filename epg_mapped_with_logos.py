@@ -14,6 +14,8 @@ channels_logos = {
     "beINSports5.qa": "https://i.imgur.com/2Rha5aY.png",
     "beINSports6.qa": "https://i.imgur.com/0wBdLYb.png",
     "beINSports7.qa": "https://i.imgur.com/iODFwZi.png",
+    "beINSports8.qa": "https://i.imgur.com/CaFEyVn.png",
+    "beINSports9.qa": "https://i.postimg.cc/3wh7xdLF/Picsart-26-02-28-15-43-43-590.png",
     "beINSports.qa": "https://i.imgur.com/RLrMBlm.png",
     "beINSportsAFC1.qa": "https://i.imgur.com/nk3JCpg.png",
     "beINSportsAFC2.qa": "https://i.imgur.com/WITLbxq.png",
