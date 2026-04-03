@@ -2,11 +2,11 @@ name: Generate beIN EPG
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # يشغّل كل 6 ساعات
-  workflow_dispatch:        # زر للتشغيل اليدوي
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     paths:
-      - 'epg_mapped.xml'   # يشغّل عند تحديث الملف
+      - 'epg_mapped.xml'
 
 permissions:
   contents: write
@@ -30,7 +30,7 @@ jobs:
     - name: Run fetch script
       run: bash fetch_bein_epg.sh
 
-    - name: Add country codes to display names
+    - name: Update display names with country codes (logos are preserved)
       run: |
         python - <<'EOF'
         import xml.etree.ElementTree as ET
@@ -58,8 +58,10 @@ jobs:
                 else:
                     country_code = channel_id.split('.')[-1]
                 country_short = country_map.get(country_code, country_code)
+                # نضيف اختصار الدولة بدون مسح الـ icon
                 display.text = f"{display.text.strip()} ({country_short})"
 
+        # نحفظ كل شيء كما هو في epg_mapped.xml، بما في ذلك logos
         tree.write('epg_mapped_with_logos.xml', encoding='utf-8', xml_declaration=True)
         EOF
 
@@ -74,5 +76,5 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add epg_mapped_with_logos.xml
-        git commit -m "Update EPG with country codes [skip ci]" || echo "No changes"
+        git commit -m "Update EPG with logos preserved [skip ci]" || echo "No changes"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
