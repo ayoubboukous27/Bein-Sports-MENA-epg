@@ -2,7 +2,7 @@ name: Generate beIN EPG
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # كل 6 ساعات
   workflow_dispatch:
   push:
     paths:
@@ -30,7 +30,7 @@ jobs:
     - name: Run fetch script
       run: bash fetch_bein_epg.sh
 
-    - name: Update display names with country codes (logos are preserved)
+    - name: Add country codes and French logos
       run: |
         python - <<'EOF'
         import xml.etree.ElementTree as ET
@@ -38,6 +38,7 @@ jobs:
         tree = ET.parse('epg_mapped.xml')
         root = tree.getroot()
 
+        # اختصارات الدول
         country_map = {
             'Australia': 'Aus',
             'France': 'Fr',
@@ -49,19 +50,34 @@ jobs:
             'MENA': 'MENA'
         }
 
+        # روابط لوغوهاتك الخاصة للقنوات الفرنسية
+        french_logos = {
+            "beINSports1.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-1-programme-chaine-93.png",
+            "beINSports2.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-2-programme-chaine-15.png",
+            "beINSports3.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-3-programme-chaine-118.png"
+        }
+
         for channel in root.findall('channel'):
             display = channel.find('display-name')
+            channel_id = channel.attrib.get('id', '')
+            
+            # إضافة اختصار الدولة
             if display is not None:
-                channel_id = channel.attrib.get('id', '')
                 if '@' in channel_id:
                     country_code = channel_id.split('@')[-1]
                 else:
                     country_code = channel_id.split('.')[-1]
                 country_short = country_map.get(country_code, country_code)
-                # نضيف اختصار الدولة بدون مسح الـ icon
                 display.text = f"{display.text.strip()} ({country_short})"
+            
+            # استبدال لوغو القنوات الفرنسية فقط
+            if channel_id in french_logos:
+                icon = channel.find('icon')
+                if icon is not None:
+                    icon.set('src', french_logos[channel_id])
+                else:
+                    ET.SubElement(channel, 'icon', {'src': french_logos[channel_id]})
 
-        # نحفظ كل شيء كما هو في epg_mapped.xml، بما في ذلك logos
         tree.write('epg_mapped_with_logos.xml', encoding='utf-8', xml_declaration=True)
         EOF
 
@@ -76,5 +92,5 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add epg_mapped_with_logos.xml
-        git commit -m "Update EPG with logos preserved [skip ci]" || echo "No changes"
+        git commit -m "Update EPG with French logos and country codes [skip ci]" || echo "No changes"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
