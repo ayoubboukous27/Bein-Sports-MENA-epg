@@ -1,126 +1,126 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv date="20260403">
-<channel id="beINSports2.qa@Australia"><display-name>beIN SPORTS 2</display-name><icon src="https://i.imgur.com/vUJZSvs.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports1.qa@Australia"><display-name>beIN SPORTS 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports6.qa@USA"><display-name>beIN SPORTS 6</display-name><icon src="https://i.imgur.com/0wBdLYb.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports4.qa@USA"><display-name>beIN SPORTS 4</display-name><icon src="https://i.imgur.com/vwAgJNi.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsUSA.us@SD"><display-name>beIN SPORTS</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports5.qa@USA"><display-name>beIN SPORTS 5</display-name><icon src="https://i.imgur.com/2Rha5aY.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa@USA"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSPORTSXTRAenEspanol.us@SD"><display-name>beIN SPORTS XTRA ñ</display-name><icon src="https://i.imgur.com/V562tpO.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsenEspanol.qa@SD"><display-name>beIN SPORTS Español</display-name><icon src="https://i.imgur.com/J5aurrb.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports7.qa@USA"><display-name>beIN SPORTS 7</display-name><icon src="https://i.imgur.com/iODFwZi.png" /><url>https://beinsports.com</url></channel>
-<channel id="5824C394-7211-4004-AC46-35BD58B9D1EE"><display-name>BEINSSC</display-name><url>https://beinsports.com</url></channel>
-<channel id="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><display-name>BEINS8C</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports8.qa@USA"><display-name>beIN SPORTS 8</display-name><icon src="https://i.imgur.com/CaFEyVn.png" /><url>https://beinsports.com</url></channel>
-<channel id="5ED9E1C4-BEF4-4AC2-8F90-28B3DCA26375"><display-name>BEINC</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSPORTSXTRA.us@SD"><display-name>beIN SPORTS XTRA</display-name><icon src="https://i.ibb.co/HT49GPmB/XTRA-2.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports6.qa@USA"><display-name>beIN SPORTS 6</display-name><icon src="https://i.imgur.com/0wBdLYb.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports4.qa@USA"><display-name>beIN SPORTS 4</display-name><icon src="https://i.imgur.com/vwAgJNi.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsUSA.us@SD"><display-name>beIN SPORTS</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports5.qa@USA"><display-name>beIN SPORTS 5</display-name><icon src="https://i.imgur.com/2Rha5aY.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa@USA"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSPORTSXTRAenEspanol.us@SD"><display-name>beIN SPORTS XTRA ñ</display-name><icon src="https://i.imgur.com/V562tpO.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsenEspanol.qa@SD"><display-name>beIN SPORTS Español</display-name><icon src="https://i.imgur.com/J5aurrb.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports7.qa@USA"><display-name>beIN SPORTS 7</display-name><icon src="https://i.imgur.com/iODFwZi.png" /><url>https://beinsports.com</url></channel>
-<channel id="5824C394-7211-4004-AC46-35BD58B9D1EE"><display-name>BEINSSC</display-name><url>https://beinsports.com</url></channel>
-<channel id="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><display-name>BEINS8C</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports8.qa@USA"><display-name>beIN SPORTS 8</display-name><icon src="https://i.imgur.com/CaFEyVn.png" /><url>https://beinsports.com</url></channel>
-<channel id="5ED9E1C4-BEF4-4AC2-8F90-28B3DCA26375"><display-name>BEINC</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSPORTSXTRA.us@SD"><display-name>beIN SPORTS XTRA</display-name><icon src="https://i.ibb.co/HT49GPmB/XTRA-2.png" /><url>https://beinsports.com</url></channel>
-<channel id="B76EB90E-0657-4D61-9265-68ADA92E34CD"><display-name>beIN SPORTS</display-name><url>https://beinsports.com</url></channel>
-<channel id="A31EDF08-2A80-4D1F-9016-43A9C6138255"><display-name>beIN SPORTS</display-name><url>https://beinsports.com</url></channel>
-<channel id="F3CE2580-D815-4D33-84FC-6B95742BFB00"><display-name>beIN SPORTS 3</display-name><url>https://beinsports.com</url></channel>
-<channel id="E227320A-8BA4-4ECB-A521-6DA53ADED441"><display-name>beIN SPORTS 1</display-name><url>https://beinsports.com</url></channel>
-<channel id="E41B16D3-5172-4D56-B2C7-E2BB41E38CAD"><display-name>beIN SPORTS 3</display-name><url>https://beinsports.com</url></channel>
-<channel id="DDFC8C16-6363-4A2C-AE66-2CE357DBC28E"><display-name>beIN SPORTS 2</display-name><url>https://beinsports.com</url></channel>
-<channel id="A4320E60-381D-4435-8294-B4F3F33BF01C"><display-name>beIN SPORTS 1</display-name><url>https://beinsports.com</url></channel>
-<channel id="02821165-CA6E-4A60-B781-C9C67B587185"><display-name>beIN SPORTS 1</display-name><url>https://beinsports.com</url></channel>
-<channel id="7C714598-E7ED-4B0F-8BD1-E8E80D473922"><display-name>beIN SPORTS 3</display-name><url>https://beinsports.com</url></channel>
-<channel id="07C1C284-D784-4AD2-9F7E-022DCD196D04"><display-name>beIN SPORTS 3</display-name><url>https://beinsports.com</url></channel>
-<channel id="5F323488-6662-42DC-BE1C-B954ECDD5CD7"><display-name>beIN SPORTS 2</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports1.qa@Malaysia"><display-name>beIN SPORTS 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports2.qa@MENA"><display-name>beIN SPORTS 2</display-name><icon src="https://i.imgur.com/vUJZSvs.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax5.qa@MENA"><display-name>beIN SPORTS MAX 5</display-name><icon src="https://i.imgur.com/L6TvXAi.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsAFC2.qa@SD"><display-name>beIN SPORTS 2 AFC</display-name><icon src="https://i.imgur.com/WITLbxq.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports6.qa@MENA"><display-name>beIN SPORTS 6</display-name><icon src="https://i.imgur.com/0wBdLYb.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsXtra1.qa@SD"><display-name>beIN SPORTS XTRA 1</display-name><icon src="https://i.imgur.com/O9lTxQA.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax6.qa@MENA"><display-name>beIN SPORTS MAX 6</display-name><icon src="https://i.imgur.com/GHZHRPF.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports4.qa@MENA"><display-name>beIN SPORTS 4</display-name><icon src="https://i.imgur.com/vwAgJNi.png" /><url>https://beinsports.com</url></channel>
-<channel id="CDF1A4C8-26DD-4C33-A239-F729A3B09295"><display-name>beIN SPORTS XTRA 3</display-name><url>https://beinsports.com</url></channel>
-<channel id="CD634732-20D1-4137-94E7-939DE93D056D"><display-name>beIN SPORTS XTRA 8</display-name><url>https://beinsports.com</url></channel>
-<channel id="B0DBD19A-9F44-4197-BD09-2B6A5F315F3B"><display-name>beIN SPORTS 5 AFC</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports7.qa@MENA"><display-name>beIN SPORTS 7</display-name><icon src="https://i.imgur.com/iODFwZi.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsAFC3.qa@SD"><display-name>beIN SPORTS 3 AFC</display-name><icon src="https://i.imgur.com/ruRe9oj.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports5.qa@MENA"><display-name>beIN SPORTS 5</display-name><icon src="https://i.imgur.com/2Rha5aY.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsXtra2.qa@SD"><display-name>beIN SPORTS XTRA 2</display-name><icon src="https://i.imgur.com/08Y2CW1.png" /><url>https://beinsports.com</url></channel>
-<channel id="93000494-0DF8-4107-AF0E-1C99D3DBB2EC"><display-name>beIN SPORTS FR 1</display-name><url>https://beinsports.com</url></channel>
-<channel id="522050CE-EBD3-43EA-B636-42B034FDC05C"><display-name>beIN SPORTS XTRA 9</display-name><url>https://beinsports.com</url></channel>
-<channel id="42680C3C-580F-43DA-BDD8-02651BD10F32"><display-name>beIN SPORTS 4 AFC</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports1.qa@MENA"><display-name>beIN SPORTS 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax3.qa@MENA"><display-name>beIN SPORTS MAX 3</display-name><icon src="https://i.imgur.com/ThcM2LE.png" /><url>https://beinsports.com</url></channel>
-<channel id="1752F091-A114-4629-BED4-46E0BB488A24"><display-name>beIN SPORTS XTRA 7</display-name><url>https://beinsports.com</url></channel>
-<channel id="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><display-name>beIN SPORTS EN 2</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports.qa@MENA"><display-name>beIN SPORTS</display-name><icon src="https://i.imgur.com/RLrMBlm.png" /><url>https://beinsports.com</url></channel>
-<channel id="beIN4K.qa@SD"><display-name>beIN 4K</display-name><icon src="https://i.imgur.com/TTxh9tZ.png" /><url>https://beinsports.com</url></channel>
-<channel id="51D28C47-7B79-4007-81A3-BFDF9BC65A3B"><display-name>beIN SPORTS XTRA 5</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSportsAFC.qa@SD"><display-name>beIN SPORTS AFC</display-name><icon src="https://i.imgur.com/HOj98bH.png" /><url>https://beinsports.com</url></channel>
-<channel id="9B969275-E59C-4DD1-8FCA-8B01EAE04909"><display-name>beIN SPORTS FR 2</display-name><url>https://beinsports.com</url></channel>
-<channel id="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E"><display-name>beIN SPORTS XTRA 6</display-name><url>https://beinsports.com</url></channel>
-<channel id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"><display-name>beIN SPORTS EN 1</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa@MENA"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax2.qa@MENA"><display-name>beIN SPORTS MAX 2</display-name><icon src="https://i.imgur.com/5dBc5rn.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsNews.qa@SD"><display-name>beIN SPORTS NEWS</display-name><icon src="https://i.imgur.com/ZNjQzR5.png" /><url>https://beinsports.com</url></channel>
-<channel id="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8"><display-name>beIN SPORTS XTRA 4</display-name><url>https://beinsports.com</url></channel>
-<channel id="5C08D9D3-C713-4F1F-947E-87C761428B9B"><display-name>beIN SPORTS 9</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax4.qa@MENA"><display-name>beIN SPORTS MAX 4</display-name><icon src="https://i.imgur.com/j7osMfM.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax1.qa@MENA"><display-name>beIN SPORTS MAX 1</display-name><icon src="https://i.imgur.com/FjWQjdy.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsNBA.qa@SD"><display-name>beIN SPORTS NBA</display-name><icon src="https://i.imgur.com/QmSc6kh.png" /><url>https://beinsports.com</url></channel>
-<channel id="2BF668DF-1B76-4199-88CE-8691FD86AD8C"><display-name>beIN SPORTS 6 AFC</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports8.qa@MENA"><display-name>beIN SPORTS 8</display-name><icon src="https://i.imgur.com/CaFEyVn.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsAFC1.qa@SD"><display-name>beIN SPORTS 1 AFC</display-name><icon src="https://i.imgur.com/nk3JCpg.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax5.qa@MENA"><display-name>beIN SPORTS MAX 5</display-name><icon src="https://i.imgur.com/L6TvXAi.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsAFC2.qa@SD"><display-name>beIN SPORTS 2 AFC</display-name><icon src="https://i.imgur.com/WITLbxq.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsXtra1.qa@SD"><display-name>beIN SPORTS XTRA 1</display-name><icon src="https://i.imgur.com/O9lTxQA.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax6.qa@MENA"><display-name>beIN SPORTS MAX 6</display-name><icon src="https://i.imgur.com/GHZHRPF.png" /><url>https://beinsports.com</url></channel>
-<channel id="CDF1A4C8-26DD-4C33-A239-F729A3B09295"><display-name>beIN SPORTS XTRA 3</display-name><url>https://beinsports.com</url></channel>
-<channel id="CD634732-20D1-4137-94E7-939DE93D056D"><display-name>beIN SPORTS XTRA 8</display-name><url>https://beinsports.com</url></channel>
-<channel id="B0DBD19A-9F44-4197-BD09-2B6A5F315F3B"><display-name>beIN SPORTS 5 AFC</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSportsAFC3.qa@SD"><display-name>beIN SPORTS 3 AFC</display-name><icon src="https://i.imgur.com/ruRe9oj.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsXtra2.qa@SD"><display-name>beIN SPORTS XTRA 2</display-name><icon src="https://i.imgur.com/08Y2CW1.png" /><url>https://beinsports.com</url></channel>
-<channel id="93000494-0DF8-4107-AF0E-1C99D3DBB2EC"><display-name>beIN SPORTS FR 1</display-name><url>https://beinsports.com</url></channel>
-<channel id="522050CE-EBD3-43EA-B636-42B034FDC05C"><display-name>beIN SPORTS XTRA 9</display-name><url>https://beinsports.com</url></channel>
-<channel id="42680C3C-580F-43DA-BDD8-02651BD10F32"><display-name>beIN SPORTS 4 AFC</display-name><url>https://beinsports.com</url></channel>
-<channel id="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C"><display-name>beIN SPORTS 1</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax3.qa@MENA"><display-name>beIN SPORTS MAX 3</display-name><icon src="https://i.imgur.com/ThcM2LE.png" /><url>https://beinsports.com</url></channel>
-<channel id="1752F091-A114-4629-BED4-46E0BB488A24"><display-name>beIN SPORTS XTRA 7</display-name><url>https://beinsports.com</url></channel>
-<channel id="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><display-name>beIN SPORTS EN 2</display-name><url>https://beinsports.com</url></channel>
-<channel id="beIN4K.qa@SD"><display-name>beIN 4K</display-name><icon src="https://i.imgur.com/TTxh9tZ.png" /><url>https://beinsports.com</url></channel>
-<channel id="51D28C47-7B79-4007-81A3-BFDF9BC65A3B"><display-name>beIN SPORTS XTRA 5</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSportsAFC.qa@SD"><display-name>beIN SPORTS AFC</display-name><icon src="https://i.imgur.com/HOj98bH.png" /><url>https://beinsports.com</url></channel>
-<channel id="9B969275-E59C-4DD1-8FCA-8B01EAE04909"><display-name>beIN SPORTS FR 2</display-name><url>https://beinsports.com</url></channel>
-<channel id="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E"><display-name>beIN SPORTS XTRA 6</display-name><url>https://beinsports.com</url></channel>
-<channel id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"><display-name>beIN SPORTS EN 1</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa@MENA"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax2.qa@MENA"><display-name>beIN SPORTS MAX 2</display-name><icon src="https://i.imgur.com/5dBc5rn.png" /><url>https://beinsports.com</url></channel>
-<channel id="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8"><display-name>beIN SPORTS XTRA 4</display-name><url>https://beinsports.com</url></channel>
-<channel id="5C08D9D3-C713-4F1F-947E-87C761428B9B"><display-name>beIN SPORTS 9</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax4.qa@MENA"><display-name>beIN SPORTS MAX 4</display-name><icon src="https://i.imgur.com/j7osMfM.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax1.qa@MENA"><display-name>beIN SPORTS MAX 1</display-name><icon src="https://i.imgur.com/FjWQjdy.png" /><url>https://beinsports.com</url></channel>
-<channel id="2BF668DF-1B76-4199-88CE-8691FD86AD8C"><display-name>beIN SPORTS 6 AFC</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSportsAFC1.qa@SD"><display-name>beIN SPORTS 1 AFC</display-name><icon src="https://i.imgur.com/nk3JCpg.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax9.qa@France"><display-name>beIN SPORTS MAX 9</display-name><icon src="https://i.imgur.com/dMTBut1.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax4.qa@France"><display-name>beIN SPORTS MAX 4</display-name><icon src="https://i.imgur.com/j7osMfM.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax6.qa@France"><display-name>beIN SPORTS MAX 6</display-name><icon src="https://i.imgur.com/GHZHRPF.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax5.qa@France"><display-name>beIN SPORTS MAX 5</display-name><icon src="https://i.imgur.com/L6TvXAi.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports2.qa@France"><display-name>beIN SPORTS 2</display-name><icon src="https://i.imgur.com/vUJZSvs.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports1.qa@France"><display-name>beIN SPORTS 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax8.qa@France"><display-name>beIN SPORTS MAX 8</display-name><icon src="https://i.imgur.com/VTzzoQP.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax7.qa@France"><display-name>beIN SPORTS MAX 7</display-name><icon src="https://i.imgur.com/sMH0tFc.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax10.qa@France"><display-name>beIN SPORTS MAX 10</display-name><icon src="https://i.imgur.com/lVB4Ao9.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa@France"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
-<channel id="C938A2D0-375A-4876-B05D-08EE29D33B07"><display-name>beIN SPORTS XTRA</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa@Australia"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports2.qa@Australia"><display-name>beIN SPORTS 2 (Aus)</display-name><icon src="https://i.imgur.com/vUJZSvs.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports1.qa@Australia"><display-name>beIN SPORTS 1 (Aus)</display-name><icon src="https://i.imgur.com/Vtk2cGI.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa@Australia"><display-name>beIN SPORTS 3 (Aus)</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports4.qa@USA"><display-name>beIN SPORTS 4 (USA)</display-name><icon src="https://i.imgur.com/vwAgJNi.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsUSA.us@SD"><display-name>beIN SPORTS (SD)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports5.qa@USA"><display-name>beIN SPORTS 5 (USA)</display-name><icon src="https://i.imgur.com/2Rha5aY.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa@USA"><display-name>beIN SPORTS 3 (USA)</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSPORTSXTRAenEspanol.us@SD"><display-name>beIN SPORTS XTRA ñ (SD)</display-name><icon src="https://i.imgur.com/V562tpO.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsenEspanol.qa@SD"><display-name>beIN SPORTS Español (SD)</display-name><icon src="https://i.imgur.com/J5aurrb.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports7.qa@USA"><display-name>beIN SPORTS 7 (USA)</display-name><icon src="https://i.imgur.com/iODFwZi.png" /><url>https://beinsports.com</url></channel>
+<channel id="5824C394-7211-4004-AC46-35BD58B9D1EE"><display-name>BEINSSC (5824C394-7211-4004-AC46-35BD58B9D1EE)</display-name><url>https://beinsports.com</url></channel>
+<channel id="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><display-name>BEINS8C (520D107A-71D4-4CB7-B141-1C6B089A7FFC)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports8.qa@USA"><display-name>beIN SPORTS 8 (USA)</display-name><icon src="https://i.imgur.com/CaFEyVn.png" /><url>https://beinsports.com</url></channel>
+<channel id="5ED9E1C4-BEF4-4AC2-8F90-28B3DCA26375"><display-name>BEINC (5ED9E1C4-BEF4-4AC2-8F90-28B3DCA26375)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSPORTSXTRA.us@SD"><display-name>beIN SPORTS XTRA (SD)</display-name><icon src="https://i.ibb.co/HT49GPmB/XTRA-2.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports6.qa@USA"><display-name>beIN SPORTS 6 (USA)</display-name><icon src="https://i.imgur.com/0wBdLYb.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports4.qa@USA"><display-name>beIN SPORTS 4 (USA)</display-name><icon src="https://i.imgur.com/vwAgJNi.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsUSA.us@SD"><display-name>beIN SPORTS (SD)</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports5.qa@USA"><display-name>beIN SPORTS 5 (USA)</display-name><icon src="https://i.imgur.com/2Rha5aY.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa@USA"><display-name>beIN SPORTS 3 (USA)</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSPORTSXTRAenEspanol.us@SD"><display-name>beIN SPORTS XTRA ñ (SD)</display-name><icon src="https://i.imgur.com/V562tpO.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsenEspanol.qa@SD"><display-name>beIN SPORTS Español (SD)</display-name><icon src="https://i.imgur.com/J5aurrb.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports7.qa@USA"><display-name>beIN SPORTS 7 (USA)</display-name><icon src="https://i.imgur.com/iODFwZi.png" /><url>https://beinsports.com</url></channel>
+<channel id="5824C394-7211-4004-AC46-35BD58B9D1EE"><display-name>BEINSSC (5824C394-7211-4004-AC46-35BD58B9D1EE)</display-name><url>https://beinsports.com</url></channel>
+<channel id="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><display-name>BEINS8C (520D107A-71D4-4CB7-B141-1C6B089A7FFC)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports8.qa@USA"><display-name>beIN SPORTS 8 (USA)</display-name><icon src="https://i.imgur.com/CaFEyVn.png" /><url>https://beinsports.com</url></channel>
+<channel id="5ED9E1C4-BEF4-4AC2-8F90-28B3DCA26375"><display-name>BEINC (5ED9E1C4-BEF4-4AC2-8F90-28B3DCA26375)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSPORTSXTRA.us@SD"><display-name>beIN SPORTS XTRA (SD)</display-name><icon src="https://i.ibb.co/HT49GPmB/XTRA-2.png" /><url>https://beinsports.com</url></channel>
+<channel id="B76EB90E-0657-4D61-9265-68ADA92E34CD"><display-name>beIN SPORTS (B76EB90E-0657-4D61-9265-68ADA92E34CD)</display-name><url>https://beinsports.com</url></channel>
+<channel id="A31EDF08-2A80-4D1F-9016-43A9C6138255"><display-name>beIN SPORTS (A31EDF08-2A80-4D1F-9016-43A9C6138255)</display-name><url>https://beinsports.com</url></channel>
+<channel id="F3CE2580-D815-4D33-84FC-6B95742BFB00"><display-name>beIN SPORTS 3 (F3CE2580-D815-4D33-84FC-6B95742BFB00)</display-name><url>https://beinsports.com</url></channel>
+<channel id="E227320A-8BA4-4ECB-A521-6DA53ADED441"><display-name>beIN SPORTS 1 (E227320A-8BA4-4ECB-A521-6DA53ADED441)</display-name><url>https://beinsports.com</url></channel>
+<channel id="E41B16D3-5172-4D56-B2C7-E2BB41E38CAD"><display-name>beIN SPORTS 3 (E41B16D3-5172-4D56-B2C7-E2BB41E38CAD)</display-name><url>https://beinsports.com</url></channel>
+<channel id="DDFC8C16-6363-4A2C-AE66-2CE357DBC28E"><display-name>beIN SPORTS 2 (DDFC8C16-6363-4A2C-AE66-2CE357DBC28E)</display-name><url>https://beinsports.com</url></channel>
+<channel id="A4320E60-381D-4435-8294-B4F3F33BF01C"><display-name>beIN SPORTS 1 (A4320E60-381D-4435-8294-B4F3F33BF01C)</display-name><url>https://beinsports.com</url></channel>
+<channel id="02821165-CA6E-4A60-B781-C9C67B587185"><display-name>beIN SPORTS 1 (02821165-CA6E-4A60-B781-C9C67B587185)</display-name><url>https://beinsports.com</url></channel>
+<channel id="7C714598-E7ED-4B0F-8BD1-E8E80D473922"><display-name>beIN SPORTS 3 (7C714598-E7ED-4B0F-8BD1-E8E80D473922)</display-name><url>https://beinsports.com</url></channel>
+<channel id="07C1C284-D784-4AD2-9F7E-022DCD196D04"><display-name>beIN SPORTS 3 (07C1C284-D784-4AD2-9F7E-022DCD196D04)</display-name><url>https://beinsports.com</url></channel>
+<channel id="5F323488-6662-42DC-BE1C-B954ECDD5CD7"><display-name>beIN SPORTS 2 (5F323488-6662-42DC-BE1C-B954ECDD5CD7)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports1.qa@Malaysia"><display-name>beIN SPORTS 1 (MY)</display-name><icon src="https://i.imgur.com/Vtk2cGI.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports2.qa@MENA"><display-name>beIN SPORTS 2 (MENA)</display-name><icon src="https://i.imgur.com/vUJZSvs.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax5.qa@MENA"><display-name>beIN SPORTS MAX 5 (MENA)</display-name><icon src="https://i.imgur.com/L6TvXAi.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsAFC2.qa@SD"><display-name>beIN SPORTS 2 AFC (SD)</display-name><icon src="https://i.imgur.com/WITLbxq.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports6.qa@MENA"><display-name>beIN SPORTS 6 (MENA)</display-name><icon src="https://i.imgur.com/0wBdLYb.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsXtra1.qa@SD"><display-name>beIN SPORTS XTRA 1 (SD)</display-name><icon src="https://i.imgur.com/O9lTxQA.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax6.qa@MENA"><display-name>beIN SPORTS MAX 6 (MENA)</display-name><icon src="https://i.imgur.com/GHZHRPF.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports4.qa@MENA"><display-name>beIN SPORTS 4 (MENA)</display-name><icon src="https://i.imgur.com/vwAgJNi.png" /><url>https://beinsports.com</url></channel>
+<channel id="CDF1A4C8-26DD-4C33-A239-F729A3B09295"><display-name>beIN SPORTS XTRA 3 (CDF1A4C8-26DD-4C33-A239-F729A3B09295)</display-name><url>https://beinsports.com</url></channel>
+<channel id="CD634732-20D1-4137-94E7-939DE93D056D"><display-name>beIN SPORTS XTRA 8 (CD634732-20D1-4137-94E7-939DE93D056D)</display-name><url>https://beinsports.com</url></channel>
+<channel id="B0DBD19A-9F44-4197-BD09-2B6A5F315F3B"><display-name>beIN SPORTS 5 AFC (B0DBD19A-9F44-4197-BD09-2B6A5F315F3B)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports7.qa@MENA"><display-name>beIN SPORTS 7 (MENA)</display-name><icon src="https://i.imgur.com/iODFwZi.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsAFC3.qa@SD"><display-name>beIN SPORTS 3 AFC (SD)</display-name><icon src="https://i.imgur.com/ruRe9oj.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports5.qa@MENA"><display-name>beIN SPORTS 5 (MENA)</display-name><icon src="https://i.imgur.com/2Rha5aY.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsXtra2.qa@SD"><display-name>beIN SPORTS XTRA 2 (SD)</display-name><icon src="https://i.imgur.com/08Y2CW1.png" /><url>https://beinsports.com</url></channel>
+<channel id="93000494-0DF8-4107-AF0E-1C99D3DBB2EC"><display-name>beIN SPORTS FR 1 (93000494-0DF8-4107-AF0E-1C99D3DBB2EC)</display-name><url>https://beinsports.com</url></channel>
+<channel id="522050CE-EBD3-43EA-B636-42B034FDC05C"><display-name>beIN SPORTS XTRA 9 (522050CE-EBD3-43EA-B636-42B034FDC05C)</display-name><url>https://beinsports.com</url></channel>
+<channel id="42680C3C-580F-43DA-BDD8-02651BD10F32"><display-name>beIN SPORTS 4 AFC (42680C3C-580F-43DA-BDD8-02651BD10F32)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports1.qa@MENA"><display-name>beIN SPORTS 1 (MENA)</display-name><icon src="https://i.imgur.com/Vtk2cGI.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax3.qa@MENA"><display-name>beIN SPORTS MAX 3 (MENA)</display-name><icon src="https://i.imgur.com/ThcM2LE.png" /><url>https://beinsports.com</url></channel>
+<channel id="1752F091-A114-4629-BED4-46E0BB488A24"><display-name>beIN SPORTS XTRA 7 (1752F091-A114-4629-BED4-46E0BB488A24)</display-name><url>https://beinsports.com</url></channel>
+<channel id="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><display-name>beIN SPORTS EN 2 (846C79D6-18F8-4A4D-ACFA-2C18DCCB6398)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports.qa@MENA"><display-name>beIN SPORTS (MENA)</display-name><icon src="https://i.imgur.com/RLrMBlm.png" /><url>https://beinsports.com</url></channel>
+<channel id="beIN4K.qa@SD"><display-name>beIN 4K (SD)</display-name><icon src="https://i.imgur.com/TTxh9tZ.png" /><url>https://beinsports.com</url></channel>
+<channel id="51D28C47-7B79-4007-81A3-BFDF9BC65A3B"><display-name>beIN SPORTS XTRA 5 (51D28C47-7B79-4007-81A3-BFDF9BC65A3B)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSportsAFC.qa@SD"><display-name>beIN SPORTS AFC (SD)</display-name><icon src="https://i.imgur.com/HOj98bH.png" /><url>https://beinsports.com</url></channel>
+<channel id="9B969275-E59C-4DD1-8FCA-8B01EAE04909"><display-name>beIN SPORTS FR 2 (9B969275-E59C-4DD1-8FCA-8B01EAE04909)</display-name><url>https://beinsports.com</url></channel>
+<channel id="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E"><display-name>beIN SPORTS XTRA 6 (9ABD32F9-C6D9-4DD5-B936-2C7E6546292E)</display-name><url>https://beinsports.com</url></channel>
+<channel id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"><display-name>beIN SPORTS EN 1 (8C1EC4FC-35E6-4866-A75D-37FCFAE18839)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa@MENA"><display-name>beIN SPORTS 3 (MENA)</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax2.qa@MENA"><display-name>beIN SPORTS MAX 2 (MENA)</display-name><icon src="https://i.imgur.com/5dBc5rn.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsNews.qa@SD"><display-name>beIN SPORTS NEWS (SD)</display-name><icon src="https://i.imgur.com/ZNjQzR5.png" /><url>https://beinsports.com</url></channel>
+<channel id="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8"><display-name>beIN SPORTS XTRA 4 (7A8040D9-7BAF-477E-B9F7-8BAB88F677E8)</display-name><url>https://beinsports.com</url></channel>
+<channel id="5C08D9D3-C713-4F1F-947E-87C761428B9B"><display-name>beIN SPORTS 9 (5C08D9D3-C713-4F1F-947E-87C761428B9B)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax4.qa@MENA"><display-name>beIN SPORTS MAX 4 (MENA)</display-name><icon src="https://i.imgur.com/j7osMfM.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax1.qa@MENA"><display-name>beIN SPORTS MAX 1 (MENA)</display-name><icon src="https://i.imgur.com/FjWQjdy.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsNBA.qa@SD"><display-name>beIN SPORTS NBA (SD)</display-name><icon src="https://i.imgur.com/QmSc6kh.png" /><url>https://beinsports.com</url></channel>
+<channel id="2BF668DF-1B76-4199-88CE-8691FD86AD8C"><display-name>beIN SPORTS 6 AFC (2BF668DF-1B76-4199-88CE-8691FD86AD8C)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports8.qa@MENA"><display-name>beIN SPORTS 8 (MENA)</display-name><icon src="https://i.imgur.com/CaFEyVn.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsAFC1.qa@SD"><display-name>beIN SPORTS 1 AFC (SD)</display-name><icon src="https://i.imgur.com/nk3JCpg.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax5.qa@MENA"><display-name>beIN SPORTS MAX 5 (MENA)</display-name><icon src="https://i.imgur.com/L6TvXAi.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsAFC2.qa@SD"><display-name>beIN SPORTS 2 AFC (SD)</display-name><icon src="https://i.imgur.com/WITLbxq.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsXtra1.qa@SD"><display-name>beIN SPORTS XTRA 1 (SD)</display-name><icon src="https://i.imgur.com/O9lTxQA.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax6.qa@MENA"><display-name>beIN SPORTS MAX 6 (MENA)</display-name><icon src="https://i.imgur.com/GHZHRPF.png" /><url>https://beinsports.com</url></channel>
+<channel id="CDF1A4C8-26DD-4C33-A239-F729A3B09295"><display-name>beIN SPORTS XTRA 3 (CDF1A4C8-26DD-4C33-A239-F729A3B09295)</display-name><url>https://beinsports.com</url></channel>
+<channel id="CD634732-20D1-4137-94E7-939DE93D056D"><display-name>beIN SPORTS XTRA 8 (CD634732-20D1-4137-94E7-939DE93D056D)</display-name><url>https://beinsports.com</url></channel>
+<channel id="B0DBD19A-9F44-4197-BD09-2B6A5F315F3B"><display-name>beIN SPORTS 5 AFC (B0DBD19A-9F44-4197-BD09-2B6A5F315F3B)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSportsAFC3.qa@SD"><display-name>beIN SPORTS 3 AFC (SD)</display-name><icon src="https://i.imgur.com/ruRe9oj.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsXtra2.qa@SD"><display-name>beIN SPORTS XTRA 2 (SD)</display-name><icon src="https://i.imgur.com/08Y2CW1.png" /><url>https://beinsports.com</url></channel>
+<channel id="93000494-0DF8-4107-AF0E-1C99D3DBB2EC"><display-name>beIN SPORTS FR 1 (93000494-0DF8-4107-AF0E-1C99D3DBB2EC)</display-name><url>https://beinsports.com</url></channel>
+<channel id="522050CE-EBD3-43EA-B636-42B034FDC05C"><display-name>beIN SPORTS XTRA 9 (522050CE-EBD3-43EA-B636-42B034FDC05C)</display-name><url>https://beinsports.com</url></channel>
+<channel id="42680C3C-580F-43DA-BDD8-02651BD10F32"><display-name>beIN SPORTS 4 AFC (42680C3C-580F-43DA-BDD8-02651BD10F32)</display-name><url>https://beinsports.com</url></channel>
+<channel id="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C"><display-name>beIN SPORTS 1 (7836FEA9-6B39-4A1A-8352-DC5FCB97A16C)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax3.qa@MENA"><display-name>beIN SPORTS MAX 3 (MENA)</display-name><icon src="https://i.imgur.com/ThcM2LE.png" /><url>https://beinsports.com</url></channel>
+<channel id="1752F091-A114-4629-BED4-46E0BB488A24"><display-name>beIN SPORTS XTRA 7 (1752F091-A114-4629-BED4-46E0BB488A24)</display-name><url>https://beinsports.com</url></channel>
+<channel id="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398"><display-name>beIN SPORTS EN 2 (846C79D6-18F8-4A4D-ACFA-2C18DCCB6398)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beIN4K.qa@SD"><display-name>beIN 4K (SD)</display-name><icon src="https://i.imgur.com/TTxh9tZ.png" /><url>https://beinsports.com</url></channel>
+<channel id="51D28C47-7B79-4007-81A3-BFDF9BC65A3B"><display-name>beIN SPORTS XTRA 5 (51D28C47-7B79-4007-81A3-BFDF9BC65A3B)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSportsAFC.qa@SD"><display-name>beIN SPORTS AFC (SD)</display-name><icon src="https://i.imgur.com/HOj98bH.png" /><url>https://beinsports.com</url></channel>
+<channel id="9B969275-E59C-4DD1-8FCA-8B01EAE04909"><display-name>beIN SPORTS FR 2 (9B969275-E59C-4DD1-8FCA-8B01EAE04909)</display-name><url>https://beinsports.com</url></channel>
+<channel id="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E"><display-name>beIN SPORTS XTRA 6 (9ABD32F9-C6D9-4DD5-B936-2C7E6546292E)</display-name><url>https://beinsports.com</url></channel>
+<channel id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"><display-name>beIN SPORTS EN 1 (8C1EC4FC-35E6-4866-A75D-37FCFAE18839)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa@MENA"><display-name>beIN SPORTS 3 (MENA)</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax2.qa@MENA"><display-name>beIN SPORTS MAX 2 (MENA)</display-name><icon src="https://i.imgur.com/5dBc5rn.png" /><url>https://beinsports.com</url></channel>
+<channel id="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8"><display-name>beIN SPORTS XTRA 4 (7A8040D9-7BAF-477E-B9F7-8BAB88F677E8)</display-name><url>https://beinsports.com</url></channel>
+<channel id="5C08D9D3-C713-4F1F-947E-87C761428B9B"><display-name>beIN SPORTS 9 (5C08D9D3-C713-4F1F-947E-87C761428B9B)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax4.qa@MENA"><display-name>beIN SPORTS MAX 4 (MENA)</display-name><icon src="https://i.imgur.com/j7osMfM.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax1.qa@MENA"><display-name>beIN SPORTS MAX 1 (MENA)</display-name><icon src="https://i.imgur.com/FjWQjdy.png" /><url>https://beinsports.com</url></channel>
+<channel id="2BF668DF-1B76-4199-88CE-8691FD86AD8C"><display-name>beIN SPORTS 6 AFC (2BF668DF-1B76-4199-88CE-8691FD86AD8C)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSportsAFC1.qa@SD"><display-name>beIN SPORTS 1 AFC (SD)</display-name><icon src="https://i.imgur.com/nk3JCpg.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax9.qa@France"><display-name>beIN SPORTS MAX 9 (Fr)</display-name><icon src="https://i.imgur.com/dMTBut1.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax4.qa@France"><display-name>beIN SPORTS MAX 4 (Fr)</display-name><icon src="https://i.imgur.com/j7osMfM.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax6.qa@France"><display-name>beIN SPORTS MAX 6 (Fr)</display-name><icon src="https://i.imgur.com/GHZHRPF.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax5.qa@France"><display-name>beIN SPORTS MAX 5 (Fr)</display-name><icon src="https://i.imgur.com/L6TvXAi.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports2.qa@France"><display-name>beIN SPORTS 2 (Fr)</display-name><icon src="https://i.imgur.com/vUJZSvs.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports1.qa@France"><display-name>beIN SPORTS 1 (Fr)</display-name><icon src="https://i.imgur.com/Vtk2cGI.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax8.qa@France"><display-name>beIN SPORTS MAX 8 (Fr)</display-name><icon src="https://i.imgur.com/VTzzoQP.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax7.qa@France"><display-name>beIN SPORTS MAX 7 (Fr)</display-name><icon src="https://i.imgur.com/sMH0tFc.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax10.qa@France"><display-name>beIN SPORTS MAX 10 (Fr)</display-name><icon src="https://i.imgur.com/lVB4Ao9.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa@France"><display-name>beIN SPORTS 3 (Fr)</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="C938A2D0-375A-4876-B05D-08EE29D33B07"><display-name>beIN SPORTS XTRA (C938A2D0-375A-4876-B05D-08EE29D33B07)</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSports6.qa@USA"><display-name>beIN SPORTS 6 (USA)</display-name><icon src="https://i.imgur.com/0wBdLYb.png" /><url>https://beinsports.com</url></channel>
 <programme start="20260403144500 +0000" stop="20260403163000 +0000" channel="5C08D9D3-C713-4F1F-947E-87C761428B9B"><title lang="en">Day 2 - Qatar Equestrian Federation Cup</title><desc lang="en">Qatar Equestrian Federation Cup 2026 concludes the Doha Equestrian Tour at Al Shaqab, bringing together more than 200 riders in CSI1* to CSI5* show jumping classes and a total prize purse of €784,000. The competition features ranking classes, Grand Prix action and decisive Jump-Off rounds, where faults and time determine the winners.</desc></programme>
 <programme start="20260403144500 +0000" stop="20260403163000 +0000" channel="5C08D9D3-C713-4F1F-947E-87C761428B9B"><title lang="ar">Day 2 - Qatar Equestrian Federation Cup</title><desc lang="ar">Qatar Equestrian Federation Cup 2026 concludes the Doha Equestrian Tour at Al Shaqab, bringing together more than 200 riders in CSI1* to CSI5* show jumping classes and a total prize purse of €784,000. The competition features ranking classes, Grand Prix action and decisive Jump-Off rounds, where faults and time determine the winners.</desc></programme>
 <programme start="20260403163000 +0000" stop="20260403190000 +0000" channel="5C08D9D3-C713-4F1F-947E-87C761428B9B"><title lang="en">Day 2 - Qatar Equestrian Federation Cup</title><desc lang="en">Qatar Equestrian Federation Cup 2026 concludes the Doha Equestrian Tour at Al Shaqab, bringing together more than 200 riders in CSI1* to CSI5* show jumping classes and a total prize purse of €784,000. The competition features ranking classes, Grand Prix action and decisive Jump-Off rounds, where faults and time determine the winners.</desc></programme>
@@ -339,6 +339,8 @@
 <programme start="20260404150800 +0000" stop="20260404153500 +0000" channel="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"><title lang="ar">EPL Stories 2025/26 Ep.44 - Yakubu</title><desc lang="ar">Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.</desc></programme>
 <programme start="20260404153500 +0000" stop="20260404160500 +0000" channel="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"><title lang="en">EN EPL The Big Interview 2025/26 | E34</title><desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest names.</desc></programme>
 <programme start="20260404153500 +0000" stop="20260404160500 +0000" channel="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"><title lang="ar">EN EPL The Big Interview 2025/26 | E34</title><desc lang="ar">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest names.</desc></programme>
+<programme start="20260404160500 +0000" stop="20260404183000 +0000" channel="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"><title lang="en">Chelsea vs Port Vale - Emirates FA Cup 2025-26 - Round 6</title><desc lang="en">The Football Association Challenge Cup, more commonly known as the FA Cup, is the oldest national football competition in the world dating back to the 1871-72 season. 736 clubs compete for the chance to lift one of English football's most famous trophies. All the best matches are live and exclusive only on beIN.</desc></programme>
+<programme start="20260404160500 +0000" stop="20260404183000 +0000" channel="8C1EC4FC-35E6-4866-A75D-37FCFAE18839"><title lang="ar">Chelsea vs Port Vale - Emirates FA Cup 2025-26 - Round 6</title><desc lang="ar">The Football Association Challenge Cup, more commonly known as the FA Cup, is the oldest national football competition in the world dating back to the 1871-72 season. 736 clubs compete for the chance to lift one of English football's most famous trophies. All the best matches are live and exclusive only on beIN.</desc></programme>
 <programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E"><title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title><desc lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc></programme>
 <programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E"><title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title><desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc></programme>
 <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E"><title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title><desc lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc></programme>
@@ -1114,6 +1116,8 @@
 <programme start="20260404150000 +0000" stop="20260404153000 +0000" channel="beINSports5.qa@MENA"><title lang="en">Al Ahly FC (EGY) vs EST (TUN) - CAF Champions League 2025/26 - R16 2ND LEG</title><desc lang="en">The CAF Champions League, is an annual club football competition organized by the Confederation of African Football (CAF) and contested by top-division African clubs. It is the most prestigious club competition in African football and is live and exclusive only on beIN. The current champions are Pyramids Football Club from Egypt.</desc></programme>
 <programme start="20260404153000 +0000" stop="20260404160500 +0000" channel="beINSports5.qa@MENA"><title lang="en">EPL Stories 2025/2026</title><desc lang="en">Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.</desc></programme>
 <programme start="20260404153000 +0000" stop="20260404160500 +0000" channel="beINSports5.qa@MENA"><title lang="en">EPL Stories 2025/2026</title><desc lang="en">Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.</desc></programme>
+<programme start="20260404160500 +0000" stop="20260404181500 +0000" channel="beINSports5.qa@MENA"><title lang="en">Chelsea vs Port Vale - Emirates FA Cup 2025-26 - Round 6</title><desc lang="en">The Football Association Challenge Cup, more commonly known as the FA Cup, is the oldest national football competition in the world dating back to the 1871-72 season. 736 clubs compete for the chance to lift one of English football's most famous trophies. All the best matches are live and exclusive only on beIN.</desc></programme>
+<programme start="20260404160500 +0000" stop="20260404181500 +0000" channel="beINSports5.qa@MENA"><title lang="en">Chelsea vs Port Vale - Emirates FA Cup 2025-26 - Round 6</title><desc lang="en">The Football Association Challenge Cup, more commonly known as the FA Cup, is the oldest national football competition in the world dating back to the 1871-72 season. 736 clubs compete for the chance to lift one of English football's most famous trophies. All the best matches are live and exclusive only on beIN.</desc></programme>
 <programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports5.qa@USA"><title lang="en">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
@@ -1160,20 +1164,20 @@
 <programme start="20260404140000 +0000" stop="20260404150000 +0000" channel="beINSports6.qa@MENA"><title lang="en">CAF Champions League - African Highlights</title><desc lang="en">Highlights from the latest round of the CAF Champions League. The CAF Champions League is the most prestigious club competition in African football and all matches are live and exclusive only on beIN.</desc></programme>
 <programme start="20260404150000 +0000" stop="20260404171500 +0000" channel="beINSports6.qa@MENA"><title lang="en">Toulouse vs Poitiers - Marmara Spike ligue Volleyball - 2026</title><desc lang="en">France’s top men’s volleyball competition, the LNV Ligue A Masculine (Marmara SpikeLigue), delivers a season of elite clubs battling through a home-and-away league before the playoffs. Expect big serving, quick middle attacks, and high-level defense as teams chase points, seeding and the national title in a prime-time French showcase.</desc></programme>
 <programme start="20260404150000 +0000" stop="20260404171500 +0000" channel="beINSports6.qa@MENA"><title lang="en">Toulouse vs Poitiers - Marmara Spike ligue Volleyball - 2026</title><desc lang="en">France’s top men’s volleyball competition, the LNV Ligue A Masculine (Marmara SpikeLigue), delivers a season of elite clubs battling through a home-and-away league before the playoffs. Expect big serving, quick middle attacks, and high-level defense as teams chase points, seeding and the national title in a prime-time French showcase.</desc></programme>
-<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404100000 +0000" stop="20260404140000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404100000 +0000" stop="20260404140000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404140000 +0000" stop="20260404180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404100000 +0000" stop="20260404140000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404140000 +0000" stop="20260404180000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
+<programme start="20260404140000 +0000" stop="20260404180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403150000 +0000" stop="20260403170000 +0000" channel="beINSports7.qa@MENA"><title lang="en">Sebastian Baez (ARG) Or Titouan Droguet (FRA) vs Daniel Merida (ESP) Or Adrian Mannarino (FRA) - A</title><desc lang="en">An ATP 250 clay-court tournament held in Bucharest, Romania, played on outdoor red clay. Part of the European clay swing leading into Roland Garros, it features a 28-player singles draw and 16-team doubles. The event rewards strong baseline play, endurance, and tactical construction, with valuable ATP ranking points and a title at stake.</desc></programme>
 <programme start="20260403150000 +0000" stop="20260403170000 +0000" channel="beINSports7.qa@MENA"><title lang="en">Sebastian Baez (ARG) Or Titouan Droguet (FRA) vs Daniel Merida (ESP) Or Adrian Mannarino (FRA) - A</title><desc lang="en">An ATP 250 clay-court tournament held in Bucharest, Romania, played on outdoor red clay. Part of the European clay swing leading into Roland Garros, it features a 28-player singles draw and 16-team doubles. The event rewards strong baseline play, endurance, and tactical construction, with valuable ATP ranking points and a title at stake.</desc></programme>
 <programme start="20260403170000 +0000" stop="20260403190000 +0000" channel="beINSports7.qa@MENA"><title lang="en">Learner Tien (USA) vs Roman Andres Burruchaga (ARG) - ATP 250 Fayez Sarofim &amp; Co. U.S. Men’s Clay Co</title><desc lang="en">Staged in Houston, this is the only ATP clay event in North America and is played on American green clay, which is faster and lower bouncing than European red clay. The conditions favor big servers and first-strike tennis, making it a unique transition event into the clay-court season.</desc></programme>
