@@ -35,8 +35,9 @@ jobs:
     - name: Run fetch script
       run: bash fetch_bein_epg.sh
 
-    - name: Run script to add logos
-      run: python epg_mapped_with_logos.py epg_mapped.xml epg_mapped_with_logos.xml
+    # نسخ الملف الأصلي باسم epg_mapped_with_logos.xml
+    - name: Prepare final file
+      run: cp epg_mapped.xml epg_mapped_with_logos.xml
 
     - name: Upload result as artifact
       uses: actions/upload-artifact@v4
@@ -44,10 +45,10 @@ jobs:
         name: bein-epg
         path: epg_mapped_with_logos.xml
 
-    - name: Push updated EPG with logos to repo
+    - name: Push updated EPG to repo
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add epg_mapped_with_logos.xml
-        git commit -m "Update EPG with logos [skip ci]" || echo "No changes"
+        git commit -m "Update EPG [skip ci]" || echo "No changes"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
