@@ -13,7 +13,7 @@
 ---
 
 ## 🔗 Map Channels to the EPG (Attribuer EPG)
-1. Go to **Settings → Guide settings → EPG mapping** (or **Channel EPG Mapping**).
+1. Go to **Channels Menu→ Long press on Channel name→ Assign EPG** (or **Channel EPG Mapping**).
 2. You will see your channels from the playlist (M3U) and the EPG channels.
 3. For each channel:
  - Select the channel in your list.
