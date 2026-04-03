@@ -20,17 +20,17 @@
   <!-- ========== FRANCE ========== -->
   <channel id="beINSports1.qa@France">
     <display-name>beIN SPORTS 1 France</display-name>
-    <icon src="https://i.imgur.com/Vtk2cGI.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-1-programme-chaine-93.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="beINSports2.qa@France">
     <display-name>beIN SPORTS 2 France</display-name>
-    <icon src="https://i.imgur.com/vUJZSvs.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-2-programme-chaine-15.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="beINSports3.qa@France">
     <display-name>beIN SPORTS 3 France</display-name>
-    <icon src="https://i.imgur.com/UYSMao3.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-3-programme-chaine-118.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="beINSportsMax4.qa@France">
