@@ -3,10 +3,10 @@ name: Generate beIN EPG
 on:
   schedule:
     - cron: "0 */6 * * *"   # يشغّل كل 6 ساعات
-  workflow_dispatch:
+  workflow_dispatch:        # زر للتشغيل اليدوي
   push:
     paths:
-      - 'epg_mapped.xml'   # يشغّل تلقائيًا عند تحديث epg_mapped.xml
+      - 'epg_mapped.xml'   # يشغّل عند تحديث الملف
 
 permissions:
   contents: write
@@ -30,9 +30,38 @@ jobs:
     - name: Run fetch script
       run: bash fetch_bein_epg.sh
 
-    # اعتماد كامل على الملف الأصلي
-    - name: Prepare final file
-      run: cp epg_mapped.xml epg_mapped_with_logos.xml
+    - name: Add country codes to display names
+      run: |
+        python - <<'EOF'
+        import xml.etree.ElementTree as ET
+
+        tree = ET.parse('epg_mapped.xml')
+        root = tree.getroot()
+
+        country_map = {
+            'Australia': 'Aus',
+            'France': 'Fr',
+            'USA': 'USA',
+            'qa': 'QA',
+            'us': 'US',
+            'fr': 'FR',
+            'Malaysia': 'MY',
+            'MENA': 'MENA'
+        }
+
+        for channel in root.findall('channel'):
+            display = channel.find('display-name')
+            if display is not None:
+                channel_id = channel.attrib.get('id', '')
+                if '@' in channel_id:
+                    country_code = channel_id.split('@')[-1]
+                else:
+                    country_code = channel_id.split('.')[-1]
+                country_short = country_map.get(country_code, country_code)
+                display.text = f"{display.text.strip()} ({country_short})"
+
+        tree.write('epg_mapped_with_logos.xml', encoding='utf-8', xml_declaration=True)
+        EOF
 
     - name: Upload result as artifact
       uses: actions/upload-artifact@v4
@@ -45,5 +74,5 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add epg_mapped_with_logos.xml
-        git commit -m "Update EPG [skip ci]" || echo "No changes"
+        git commit -m "Update EPG with country codes [skip ci]" || echo "No changes"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
