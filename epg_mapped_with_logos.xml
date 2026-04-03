@@ -2,14 +2,14 @@
 <tv date="20260403">
 <channel id="beINSports2.qa@Australia"><display-name>beIN SPORTS 2</display-name><icon src="https://i.imgur.com/vUJZSvs.png" /><url>https://beinsports.com</url></channel>
 <channel id="beINSports1.qa@Australia"><display-name>beIN SPORTS 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports6.qa@USA"><display-name>beIN SPORTS 6</display-name><icon src="https://i.imgur.com/0wBdLYb.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports4.qa@USA"><display-name>beIN SPORTS 4</display-name><icon src="https://i.imgur.com/vwAgJNi.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsUSA.us@SD"><display-name>beIN SPORTS</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports5.qa@USA"><display-name>beIN SPORTS 5</display-name><icon src="https://i.imgur.com/2Rha5aY.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa@USA"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSPORTSXTRAenEspanol.us@SD"><display-name>beIN SPORTS XTRA ñ</display-name><icon src="https://i.imgur.com/V562tpO.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsenEspanol.qa@SD"><display-name>beIN SPORTS Español</display-name><icon src="https://i.imgur.com/J5aurrb.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports7.qa@USA"><display-name>beIN SPORTS 7</display-name><icon src="https://i.imgur.com/iODFwZi.png" /><url>https://beinsports.com</url></channel>
+<channel id="C938A2D0-375A-4876-B05D-08EE29D33B07"><display-name>beIN SPORTS XTRA</display-name><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax8.qa@France"><display-name>beIN SPORTS MAX 8</display-name><icon src="https://i.imgur.com/VTzzoQP.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax7.qa@France"><display-name>beIN SPORTS MAX 7</display-name><icon src="https://i.imgur.com/sMH0tFc.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa@Australia"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax10.qa@France"><display-name>beIN SPORTS MAX 10</display-name><icon src="https://i.imgur.com/lVB4Ao9.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa@France"><display-name>beIN SPORTS 3</display-name><icon src="https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/refs/heads/main/Logos/bein-sports-3-programme-chaine-118.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports2.qa@France"><display-name>beIN SPORTS 2</display-name><icon src="https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/refs/heads/main/Logos/bein-sports-2-programme-chaine-15.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports1.qa@France"><display-name>beIN SPORTS 1</display-name><icon src="https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/refs/heads/main/Logos/bein-sports-1-programme-chaine-93.png" /><url>https://beinsports.com</url></channel>
 <channel id="5824C394-7211-4004-AC46-35BD58B9D1EE"><display-name>BEINSSC</display-name><url>https://beinsports.com</url></channel>
 <channel id="520D107A-71D4-4CB7-B141-1C6B089A7FFC"><display-name>BEINS8C</display-name><url>https://beinsports.com</url></channel>
 <channel id="beINSports8.qa@USA"><display-name>beIN SPORTS 8</display-name><icon src="https://i.imgur.com/CaFEyVn.png" /><url>https://beinsports.com</url></channel>
@@ -113,14 +113,14 @@
 <channel id="beINSportsMax4.qa@France"><display-name>beIN SPORTS MAX 4</display-name><icon src="https://i.imgur.com/j7osMfM.png" /><url>https://beinsports.com</url></channel>
 <channel id="beINSportsMax6.qa@France"><display-name>beIN SPORTS MAX 6</display-name><icon src="https://i.imgur.com/GHZHRPF.png" /><url>https://beinsports.com</url></channel>
 <channel id="beINSportsMax5.qa@France"><display-name>beIN SPORTS MAX 5</display-name><icon src="https://i.imgur.com/L6TvXAi.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports2.qa@France"><display-name>beIN SPORTS 2</display-name><icon src="https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/refs/heads/main/Logos/bein-sports-2-programme-chaine-15.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports1.qa@France"><display-name>beIN SPORTS 1</display-name><icon src="https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/refs/heads/main/Logos/bein-sports-1-programme-chaine-93.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax8.qa@France"><display-name>beIN SPORTS MAX 8</display-name><icon src="https://i.imgur.com/VTzzoQP.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax7.qa@France"><display-name>beIN SPORTS MAX 7</display-name><icon src="https://i.imgur.com/sMH0tFc.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax10.qa@France"><display-name>beIN SPORTS MAX 10</display-name><icon src="https://i.imgur.com/lVB4Ao9.png" /><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa@France"><display-name>beIN SPORTS 3</display-name><icon src="https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/refs/heads/main/Logos/bein-sports-3-programme-chaine-118.png" /><url>https://beinsports.com</url></channel>
-<channel id="C938A2D0-375A-4876-B05D-08EE29D33B07"><display-name>beIN SPORTS XTRA</display-name><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa@Australia"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa@USA"><display-name>beIN SPORTS 3</display-name><icon src="https://i.imgur.com/UYSMao3.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSPORTSXTRAenEspanol.us@SD"><display-name>beIN SPORTS XTRA ñ</display-name><icon src="https://i.imgur.com/V562tpO.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports6.qa@USA"><display-name>beIN SPORTS 6</display-name><icon src="https://i.imgur.com/0wBdLYb.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports4.qa@USA"><display-name>beIN SPORTS 4</display-name><icon src="https://i.imgur.com/vwAgJNi.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports5.qa@USA"><display-name>beIN SPORTS 5</display-name><icon src="https://i.imgur.com/2Rha5aY.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsenEspanol.qa@SD"><display-name>beIN SPORTS Español</display-name><icon src="https://i.imgur.com/J5aurrb.png" /><url>https://beinsports.com</url></channel>
+<channel id="beINSportsUSA.us@SD"><display-name>beIN SPORTS</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" /><url>https://beinsports.com</url></channel>
+<channel id="beINSports7.qa@USA"><display-name>beIN SPORTS 7</display-name><icon src="https://i.imgur.com/iODFwZi.png" /><url>https://beinsports.com</url></channel>
 <programme start="20260403134500 +0000" stop="20260403144500 +0000" channel="5C08D9D3-C713-4F1F-947E-87C761428B9B"><title lang="en">Grand Prix Final with a Jump-Off – Final Week 1</title><desc lang="en">A major international championship with 240 male and female riders from elite levels, representing 32 countries.</desc></programme>
 <programme start="20260403134500 +0000" stop="20260403144500 +0000" channel="5C08D9D3-C713-4F1F-947E-87C761428B9B"><title lang="ar">Grand Prix Final with a Jump-Off – Final Week 1</title><desc lang="ar">A major international championship with 240 male and female riders from elite levels, representing 32 countries.</desc></programme>
 <programme start="20260403144500 +0000" stop="20260403163000 +0000" channel="5C08D9D3-C713-4F1F-947E-87C761428B9B"><title lang="en">Day 2 - Qatar Equestrian Federation Cup</title><desc lang="en">Qatar Equestrian Federation Cup 2026 concludes the Doha Equestrian Tour at Al Shaqab, bringing together more than 200 riders in CSI1* to CSI5* show jumping classes and a total prize purse of €784,000. The competition features ranking classes, Grand Prix action and decisive Jump-Off rounds, where faults and time determine the winners.</desc></programme>
@@ -1001,26 +1001,26 @@
 <programme start="20260404114800 +0000" stop="20260404141500 +0000" channel="beINSports3.qa@MENA"><title lang="ar">Real Sociedad vs Levante - Spanish LaLiga 2025/26 - Week 30</title><desc lang="ar">Real Sociedad have won their last two home games against Levante in LaLiga, both by a 1-0 scoreline, the first time they have recorded consecutive home victories against them in the top-flight. Levante have only lost 38% of their away games against Real Sociedad in LaLiga, their lowest percentage of away defeats against a single opponent with at least 10 visits in their entire top-flight history.</desc></programme>
 <programme start="20260404141500 +0000" stop="20260404145000 +0000" channel="beINSports3.qa@MENA"><title lang="en">ARAB CUP FIFA QATAR 2025- Morocco... the champion.</title><desc lang="en">The Moroccan national team won the 2025 Arab Cup title. How did Morocco reach the podium? Follow it on the program Morocco... the champion.</desc></programme>
 <programme start="20260404141500 +0000" stop="20260404145000 +0000" channel="beINSports3.qa@MENA"><title lang="ar">ARAB CUP FIFA QATAR 2025- Morocco... the champion.</title><desc lang="ar">The Moroccan national team won the 2025 Arab Cup title. How did Morocco reach the podium? Follow it on the program Morocco... the champion.</desc></programme>
-<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports3.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403180000 +0000" stop="20260403183500 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403180000 +0000" stop="20260403183500 +0000" channel="beINSports3.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403183500 +0000" stop="20260403204500 +0000" channel="beINSports3.qa@USA"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
+<programme start="20260403180000 +0000" stop="20260403183500 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403183500 +0000" stop="20260403204500 +0000" channel="beINSports3.qa@USA"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Toulouse FC</desc></programme>
-<programme start="20260403204500 +0000" stop="20260404020000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403183500 +0000" stop="20260403204500 +0000" channel="beINSports3.qa@USA"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
 <programme start="20260403204500 +0000" stop="20260404020000 +0000" channel="beINSports3.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404020000 +0000" stop="20260404063000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403204500 +0000" stop="20260404020000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404020000 +0000" stop="20260404063000 +0000" channel="beINSports3.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404063000 +0000" stop="20260404100000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404020000 +0000" stop="20260404063000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404063000 +0000" stop="20260404100000 +0000" channel="beINSports3.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404100000 +0000" stop="20260404101000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404063000 +0000" stop="20260404100000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404100000 +0000" stop="20260404101000 +0000" channel="beINSports3.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404101000 +0000" stop="20260404121500 +0000" channel="beINSports3.qa@USA"><title lang="es">Ekstraklasa Soccer</title><desc lang="es">GKS Katowice vs. Wisla Plock</desc></programme>
+<programme start="20260404100000 +0000" stop="20260404101000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404101000 +0000" stop="20260404121500 +0000" channel="beINSports3.qa@USA"><title lang="en">Ekstraklasa Soccer</title><desc lang="en">GKS Katowice vs. Wisla Plock</desc></programme>
-<programme start="20260404121500 +0000" stop="20260404124000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404101000 +0000" stop="20260404121500 +0000" channel="beINSports3.qa@USA"><title lang="es">Ekstraklasa Soccer</title><desc lang="es">GKS Katowice vs. Wisla Plock</desc></programme>
 <programme start="20260404121500 +0000" stop="20260404124000 +0000" channel="beINSports3.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404124000 +0000" stop="20260404144500 +0000" channel="beINSports3.qa@USA"><title lang="es">Fútbol Polaco Primera División</title><desc lang="es">Raków Czestochowa vs. Widzew Lódz</desc></programme>
+<programme start="20260404121500 +0000" stop="20260404124000 +0000" channel="beINSports3.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404124000 +0000" stop="20260404144500 +0000" channel="beINSports3.qa@USA"><title lang="en">Fútbol Polaco Primera División</title><desc lang="en">Raków Czestochowa vs. Widzew Lódz</desc></programme>
+<programme start="20260404124000 +0000" stop="20260404144500 +0000" channel="beINSports3.qa@USA"><title lang="es">Fútbol Polaco Primera División</title><desc lang="es">Raków Czestochowa vs. Widzew Lódz</desc></programme>
 <programme start="20260403133200 +0000" stop="20260403152000 +0000" channel="beINSports4.qa@MENA"><title lang="en">Australia vs Chinese Taipei - AFC U20 Women's Asian Cup Thailand 2026</title><desc lang="en">The 2026 AFC U-20 Women's Asian Cup takes place in Thailand between 1-18 April. The biennial international youth football championship is organised by the Asian Football Confederation (AFC) for the women's under-20 national teams of Asia.</desc></programme>
 <programme start="20260403133200 +0000" stop="20260403152000 +0000" channel="beINSports4.qa@MENA"><title lang="en">Australia vs Chinese Taipei - AFC U20 Women's Asian Cup Thailand 2026</title><desc lang="en">The 2026 AFC U-20 Women's Asian Cup takes place in Thailand between 1-18 April. The biennial international youth football championship is organised by the Asian Football Confederation (AFC) for the women's under-20 national teams of Asia.</desc></programme>
 <programme start="20260403152000 +0000" stop="20260403173000 +0000" channel="beINSports4.qa@MENA"><title lang="en">Qatar Sc vs Al Wakrah - Qatar Stars League 2025/26 - W20</title><desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc></programme>
@@ -1055,26 +1055,26 @@
 <programme start="20260404115000 +0000" stop="20260404140000 +0000" channel="beINSports4.qa@MENA"><title lang="en">Montpellier vs Troyes - French Ligue 2 - 2025/2026</title><desc lang="en">Ligue 2 is the second division of French football. Ligue 2 is contested by 18 clubs, the league operates on a system of promotion and relegation with both Ligue 1 and the third division Championnat National. The teams play 34 games each, totaling 306 games in the season. The biggest games from each match Day are live and exclusive on beIN.</desc></programme>
 <programme start="20260404140000 +0000" stop="20260404160000 +0000" channel="beINSports4.qa@MENA"><title lang="en">Paris Saint-Germain vs Toulouse - French Ligue 1 2025/2026 Week 28</title><desc lang="en">Paris Saint-Germain have kept 12 clean sheets against Toulouse in Ligue 1 during the QSI era, only doing better against Marseille. Paris Saint-Germain could record their 700th clean sheet in Ligue 1, becoming the eighth team to reach this tally in the history of the competition. Paris Saint-Germain also have the highest ratio of clean sheets in the top-flight.</desc></programme>
 <programme start="20260404140000 +0000" stop="20260404160000 +0000" channel="beINSports4.qa@MENA"><title lang="en">Paris Saint-Germain vs Toulouse - French Ligue 1 2025/2026 Week 28</title><desc lang="en">Paris Saint-Germain have kept 12 clean sheets against Toulouse in Ligue 1 during the QSI era, only doing better against Marseille. Paris Saint-Germain could record their 700th clean sheet in Ligue 1, becoming the eighth team to reach this tally in the history of the competition. Paris Saint-Germain also have the highest ratio of clean sheets in the top-flight.</desc></programme>
-<programme start="20260403132500 +0000" stop="20260403163000 +0000" channel="beINSports4.qa@USA"><title lang="es">ONE Friday Fights 149</title></programme>
 <programme start="20260403132500 +0000" stop="20260403163000 +0000" channel="beINSports4.qa@USA"><title lang="en">ONE Friday Fights 149</title></programme>
-<programme start="20260403163000 +0000" stop="20260403180000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403132500 +0000" stop="20260403163000 +0000" channel="beINSports4.qa@USA"><title lang="es">ONE Friday Fights 149</title></programme>
 <programme start="20260403163000 +0000" stop="20260403180000 +0000" channel="beINSports4.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403180000 +0000" stop="20260403194000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403163000 +0000" stop="20260403180000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403180000 +0000" stop="20260403194000 +0000" channel="beINSports4.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403194000 +0000" stop="20260403234500 +0000" channel="beINSports4.qa@USA"><title lang="es">Equestrian</title><desc lang="es">Longines Global Champions League: Miami Beach, Round 1</desc></programme>
+<programme start="20260403180000 +0000" stop="20260403194000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403194000 +0000" stop="20260403234500 +0000" channel="beINSports4.qa@USA"><title lang="en">Equestrian</title><desc lang="en">Longines Global Champions League: Miami Beach, Round 1</desc></programme>
-<programme start="20260403234500 +0000" stop="20260404020000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403194000 +0000" stop="20260403234500 +0000" channel="beINSports4.qa@USA"><title lang="es">Equestrian</title><desc lang="es">Longines Global Champions League: Miami Beach, Round 1</desc></programme>
 <programme start="20260403234500 +0000" stop="20260404020000 +0000" channel="beINSports4.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403234500 +0000" stop="20260404020000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports4.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports4.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404100000 +0000" stop="20260404115500 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404100000 +0000" stop="20260404115500 +0000" channel="beINSports4.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404115500 +0000" stop="20260404140000 +0000" channel="beINSports4.qa@USA"><title lang="es">French Ligue 2 Soccer</title><desc lang="es">Montpellier HSC vs. ESTAC Troyes</desc></programme>
+<programme start="20260404100000 +0000" stop="20260404115500 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404115500 +0000" stop="20260404140000 +0000" channel="beINSports4.qa@USA"><title lang="en">French Ligue 2 Soccer</title><desc lang="en">Montpellier HSC vs. ESTAC Troyes</desc></programme>
-<programme start="20260404140000 +0000" stop="20260404165500 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404115500 +0000" stop="20260404140000 +0000" channel="beINSports4.qa@USA"><title lang="es">French Ligue 2 Soccer</title><desc lang="es">Montpellier HSC vs. ESTAC Troyes</desc></programme>
 <programme start="20260404140000 +0000" stop="20260404165500 +0000" channel="beINSports4.qa@USA"><title lang="en">SIGN OFF</title></programme>
+<programme start="20260404140000 +0000" stop="20260404165500 +0000" channel="beINSports4.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403130000 +0000" stop="20260403144500 +0000" channel="beINSports5.qa@MENA"><title lang="en">Cambridge Utd vs Swindon - EFL - English Football League SkyBet - League Two 2025/2026</title><desc lang="en">EFL - English Football League SkyBet - League Two 2025/2026</desc></programme>
 <programme start="20260403130000 +0000" stop="20260403144500 +0000" channel="beINSports5.qa@MENA"><title lang="en">Cambridge Utd vs Swindon - EFL - English Football League SkyBet - League Two 2025/2026</title><desc lang="en">EFL - English Football League SkyBet - League Two 2025/2026</desc></programme>
 <programme start="20260403144500 +0000" stop="20260403163100 +0000" channel="beINSports5.qa@MENA"><title lang="en">Harrogate Town vs Notts County - EFL - English Football League SkyBet - League Two 2025/2026</title><desc lang="en">EFL - English Football League SkyBet - League Two 2025/2026</desc></programme>
@@ -1111,22 +1111,22 @@
 <programme start="20260404123000 +0000" stop="20260404125000 +0000" channel="beINSports5.qa@MENA"><title lang="en">Ligue 1 legends (Barthez + Nasri) MARSEILLE PREVIOUS STARS Barthez + Nasri</title><desc lang="en">Many legends have had unforgettable competitions in French stadiums. In this program, we show you their best moments.</desc></programme>
 <programme start="20260404125000 +0000" stop="20260404150000 +0000" channel="beINSports5.qa@MENA"><title lang="en">Vietnam vs Thailand - AFC U20 Women's Asian Cup Thailand 2026</title><desc lang="en">The 2026 AFC U-20 Women's Asian Cup takes place in Thailand between 1-18 April. The biennial international youth football championship is organised by the Asian Football Confederation (AFC) for the women's under-20 national teams of Asia.</desc></programme>
 <programme start="20260404125000 +0000" stop="20260404150000 +0000" channel="beINSports5.qa@MENA"><title lang="en">Vietnam vs Thailand - AFC U20 Women's Asian Cup Thailand 2026</title><desc lang="en">The 2026 AFC U-20 Women's Asian Cup takes place in Thailand between 1-18 April. The biennial international youth football championship is organised by the Asian Football Confederation (AFC) for the women's under-20 national teams of Asia.</desc></programme>
-<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports5.qa@USA"><title lang="en">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
-<programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
+<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports5.qa@USA"><title lang="en">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
-<programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
+<programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports5.qa@USA"><title lang="en">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
-<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
+<programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports5.qa@USA"><title lang="en">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
-<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
+<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports5.qa@USA"><title lang="en">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
-<programme start="20260404100000 +0000" stop="20260404112500 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
+<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260404100000 +0000" stop="20260404112500 +0000" channel="beINSports5.qa@USA"><title lang="en">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
-<programme start="20260404112500 +0000" stop="20260404133000 +0000" channel="beINSports5.qa@USA"><title lang="es">Turkish Super Lig Soccer</title><desc lang="es">Gençlerbirligi vs. Göztepe</desc></programme>
+<programme start="20260404100000 +0000" stop="20260404112500 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260404112500 +0000" stop="20260404133000 +0000" channel="beINSports5.qa@USA"><title lang="en">Turkish Super Lig Soccer</title><desc lang="en">Gençlerbirligi vs. Göztepe</desc></programme>
-<programme start="20260404133000 +0000" stop="20260404175500 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
+<programme start="20260404112500 +0000" stop="20260404133000 +0000" channel="beINSports5.qa@USA"><title lang="es">Turkish Super Lig Soccer</title><desc lang="es">Gençlerbirligi vs. Göztepe</desc></programme>
 <programme start="20260404133000 +0000" stop="20260404175500 +0000" channel="beINSports5.qa@USA"><title lang="en">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
+<programme start="20260404133000 +0000" stop="20260404175500 +0000" channel="beINSports5.qa@USA"><title lang="es">PSG: Road to the Ligue 1 Title 2024/25</title></programme>
 <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="beINSports6.qa@MENA"><title lang="en">Netherlands vs Ecuador - International Friendly - 2026</title><desc lang="en">Netherlands vs Ecuador Internationals Season 2025/2026 Philips Stadion Stadium</desc></programme>
 <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="beINSports6.qa@MENA"><title lang="en">Netherlands vs Ecuador - International Friendly - 2026</title><desc lang="en">Netherlands vs Ecuador Internationals Season 2025/2026 Philips Stadion Stadium</desc></programme>
 <programme start="20260403160000 +0000" stop="20260403162500 +0000" channel="beINSports6.qa@MENA"><title lang="en">Toronto - Stories From the City</title><desc lang="en">Discover Toronto, which will host the FIFA World Cup 2026, its cultural, grassroots and community dimensions of football</desc></programme>
@@ -1157,20 +1157,20 @@
 <programme start="20260404133500 +0000" stop="20260404140000 +0000" channel="beINSports6.qa@MENA"><title lang="en">CAF Confederation Cup 2025/26 - Best Goals of CAF Confederations Cup</title><desc lang="en">The best goals and the best moments of the CAF Confederations Cup season 2025/2026.</desc></programme>
 <programme start="20260404140000 +0000" stop="20260404150000 +0000" channel="beINSports6.qa@MENA"><title lang="en">CAF Champions League - African Highlights</title><desc lang="en">Highlights from the latest round of the CAF Champions League. The CAF Champions League is the most prestigious club competition in African football and all matches are live and exclusive only on beIN.</desc></programme>
 <programme start="20260404140000 +0000" stop="20260404150000 +0000" channel="beINSports6.qa@MENA"><title lang="en">CAF Champions League - African Highlights</title><desc lang="en">Highlights from the latest round of the CAF Champions League. The CAF Champions League is the most prestigious club competition in African football and all matches are live and exclusive only on beIN.</desc></programme>
-<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404100000 +0000" stop="20260404140000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404100000 +0000" stop="20260404140000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404140000 +0000" stop="20260404180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404100000 +0000" stop="20260404140000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404140000 +0000" stop="20260404180000 +0000" channel="beINSports6.qa@USA"><title lang="en">SIGN OFF</title></programme>
+<programme start="20260404140000 +0000" stop="20260404180000 +0000" channel="beINSports6.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403130000 +0000" stop="20260403150000 +0000" channel="beINSports7.qa@MENA"><title lang="en">Alex Molcan (SVK) vs Mariano Navone (ARG)- ATP 250 - Tiriac Open, Bucharest Romania - 2026</title><desc lang="en">An ATP 250 clay-court tournament held in Bucharest, Romania, played on outdoor red clay. Part of the European clay swing leading into Roland Garros, it features a 28-player singles draw and 16-team doubles. The event rewards strong baseline play, endurance, and tactical construction, with valuable ATP ranking points and a title at stake.</desc></programme>
 <programme start="20260403130000 +0000" stop="20260403150000 +0000" channel="beINSports7.qa@MENA"><title lang="en">Alex Molcan (SVK) vs Mariano Navone (ARG)- ATP 250 - Tiriac Open, Bucharest Romania - 2026</title><desc lang="en">An ATP 250 clay-court tournament held in Bucharest, Romania, played on outdoor red clay. Part of the European clay swing leading into Roland Garros, it features a 28-player singles draw and 16-team doubles. The event rewards strong baseline play, endurance, and tactical construction, with valuable ATP ranking points and a title at stake.</desc></programme>
 <programme start="20260403150000 +0000" stop="20260403170000 +0000" channel="beINSports7.qa@MENA"><title lang="en">Sebastian Baez (ARG) Or Titouan Droguet (FRA) vs Daniel Merida (ESP) Or Adrian Mannarino (FRA) - A</title><desc lang="en">An ATP 250 clay-court tournament held in Bucharest, Romania, played on outdoor red clay. Part of the European clay swing leading into Roland Garros, it features a 28-player singles draw and 16-team doubles. The event rewards strong baseline play, endurance, and tactical construction, with valuable ATP ranking points and a title at stake.</desc></programme>
@@ -1197,20 +1197,20 @@
 <programme start="20260404110000 +0000" stop="20260404130000 +0000" channel="beINSports7.qa@MENA"><title lang="en">M1 - ATP 250 - Tiriac Open, Bucharest Romania - 2026</title><desc lang="en">An ATP 250 clay-court tournament held in Bucharest, Romania, played on outdoor red clay. Part of the European clay swing leading into Roland Garros, it features a 28-player singles draw and 16-team doubles. The event rewards strong baseline play, endurance, and tactical construction, with valuable ATP ranking points and a title at stake.</desc></programme>
 <programme start="20260404130000 +0000" stop="20260404151500 +0000" channel="beINSports7.qa@MENA"><title lang="en">M2 - ATP 250 - Tiriac Open, Bucharest Romania - 2026</title><desc lang="en">An ATP 250 clay-court tournament held in Bucharest, Romania, played on outdoor red clay. Part of the European clay swing leading into Roland Garros, it features a 28-player singles draw and 16-team doubles. The event rewards strong baseline play, endurance, and tactical construction, with valuable ATP ranking points and a title at stake.</desc></programme>
 <programme start="20260404130000 +0000" stop="20260404151500 +0000" channel="beINSports7.qa@MENA"><title lang="en">M2 - ATP 250 - Tiriac Open, Bucharest Romania - 2026</title><desc lang="en">An ATP 250 clay-court tournament held in Bucharest, Romania, played on outdoor red clay. Part of the European clay swing leading into Roland Garros, it features a 28-player singles draw and 16-team doubles. The event rewards strong baseline play, endurance, and tactical construction, with valuable ATP ranking points and a title at stake.</desc></programme>
-<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403140000 +0000" stop="20260403180000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403180000 +0000" stop="20260403220000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260403220000 +0000" stop="20260404020000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404020000 +0000" stop="20260404060000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404100000 +0000" stop="20260404140000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404060000 +0000" stop="20260404100000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404100000 +0000" stop="20260404140000 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
-<programme start="20260404140000 +0000" stop="20260404165500 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
+<programme start="20260404100000 +0000" stop="20260404140000 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260404140000 +0000" stop="20260404165500 +0000" channel="beINSports7.qa@USA"><title lang="en">SIGN OFF</title></programme>
+<programme start="20260404140000 +0000" stop="20260404165500 +0000" channel="beINSports7.qa@USA"><title lang="es">SIGN OFF</title></programme>
 <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="beINSports8.qa@MENA"><title lang="en">Camilo Ugo Carabelli (ARG) vs Luca Van Assche (FRA) - ATP 250 Grand Prix Hassan II</title><desc lang="en">Hosted in Marrakech, this tournament is the first ATP event on European red clay each season. Slower courts, altitude, and dry conditions challenge players’ movement and consistency, often rewarding clay specialists preparing for Monte Carlo and the main European clay swing.</desc></programme>
 <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="beINSports8.qa@MENA"><title lang="en">Camilo Ugo Carabelli (ARG) vs Luca Van Assche (FRA) - ATP 250 Grand Prix Hassan II</title><desc lang="en">Hosted in Marrakech, this tournament is the first ATP event on European red clay each season. Slower courts, altitude, and dry conditions challenge players’ movement and consistency, often rewarding clay specialists preparing for Monte Carlo and the main European clay swing.</desc></programme>
 <programme start="20260403160000 +0000" stop="20260403180000 +0000" channel="beINSports8.qa@MENA"><title lang="en">Corentin Moutet (FRA) vs Marco Trungelliti (ARG) - ATP 250 Grand Prix Hassan II</title><desc lang="en">Hosted in Marrakech, this tournament is the first ATP event on European red clay each season. Slower courts, altitude, and dry conditions challenge players’ movement and consistency, often rewarding clay specialists preparing for Monte Carlo and the main European clay swing.</desc></programme>
@@ -1287,60 +1287,60 @@
 <programme start="20260404104500 +0000" stop="20260404123100 +0000" channel="beINSports.qa@MENA"><title lang="en">Chartres vs Toulouse - LNH Division 1 - French Handball Starligue</title><desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc></programme>
 <programme start="20260404123100 +0000" stop="20260404144500 +0000" channel="beINSports.qa@MENA"><title lang="en">Al Shahania vs Al Arabi - Qatar Stars League 2025/26 - W20</title><desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc></programme>
 <programme start="20260404123100 +0000" stop="20260404144500 +0000" channel="beINSports.qa@MENA"><title lang="en">Al Shahania vs Al Arabi - Qatar Stars League 2025/26 - W20</title><desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc></programme>
-<programme start="20260403143000 +0000" stop="20260403150000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260403143000 +0000" stop="20260403150000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260403150000 +0000" stop="20260403170000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Premier Padel</title><desc lang="es">Miami, Final masculina</desc></programme>
+<programme start="20260403143000 +0000" stop="20260403150000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260403150000 +0000" stop="20260403170000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Premier Padel</title><desc lang="en">Miami, Final masculina</desc></programme>
-<programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Los mejores goles</title><desc lang="es">Copa Libertadores</desc></programme>
+<programme start="20260403150000 +0000" stop="20260403170000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Premier Padel</title><desc lang="es">Miami, Final masculina</desc></programme>
 <programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Los mejores goles</title><desc lang="en">Copa Libertadores</desc></programme>
-<programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">This is Paris</title></programme>
+<programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Los mejores goles</title><desc lang="es">Copa Libertadores</desc></programme>
 <programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">This is Paris</title></programme>
-<programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Ligue 1 Highlights</title><desc lang="es">Match Day 27</desc></programme>
+<programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">This is Paris</title></programme>
 <programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Ligue 1 Highlights</title><desc lang="en">Match Day 27</desc></programme>
-<programme start="20260403183000 +0000" stop="20260403183500 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">The Express Preview</title></programme>
+<programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Ligue 1 Highlights</title><desc lang="es">Match Day 27</desc></programme>
 <programme start="20260403183000 +0000" stop="20260403183500 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">The Express Preview</title></programme>
-<programme start="20260403183500 +0000" stop="20260403204500 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
+<programme start="20260403183000 +0000" stop="20260403183500 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">The Express Preview</title></programme>
 <programme start="20260403183500 +0000" stop="20260403204500 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Toulouse FC</desc></programme>
-<programme start="20260403204500 +0000" stop="20260403214500 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">The Xtra</title></programme>
+<programme start="20260403183500 +0000" stop="20260403204500 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
 <programme start="20260403204500 +0000" stop="20260403214500 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">The Xtra</title></programme>
-<programme start="20260403214500 +0000" stop="20260403220000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
+<programme start="20260403204500 +0000" stop="20260403214500 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">The Xtra</title></programme>
 <programme start="20260403214500 +0000" stop="20260403220000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Ligue 1 Highlights Show</title></programme>
-<programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Premier Padel</title><desc lang="es">Miami, Final masculina</desc></programme>
+<programme start="20260403214500 +0000" stop="20260403220000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
 <programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Premier Padel</title><desc lang="en">Miami, Final masculina</desc></programme>
-<programme start="20260404000000 +0000" stop="20260404020000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
+<programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Premier Padel</title><desc lang="es">Miami, Final masculina</desc></programme>
 <programme start="20260404000000 +0000" stop="20260404020000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Toulouse FC</desc></programme>
-<programme start="20260404020000 +0000" stop="20260404030000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">The Xtra</title></programme>
+<programme start="20260404000000 +0000" stop="20260404020000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
 <programme start="20260404020000 +0000" stop="20260404030000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">The Xtra</title></programme>
-<programme start="20260404030000 +0000" stop="20260404050000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">BYB Xtreme Fighting Series</title><desc lang="es">BYB 27: Brawl in Duval</desc></programme>
+<programme start="20260404020000 +0000" stop="20260404030000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">The Xtra</title></programme>
 <programme start="20260404030000 +0000" stop="20260404050000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">BYB Xtreme Fighting Series</title><desc lang="en">BYB 27: Brawl in Duval</desc></programme>
-<programme start="20260404050000 +0000" stop="20260404070000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">BYB Extreme Fighting Series 28: Bourbon Street Brawl</title></programme>
+<programme start="20260404030000 +0000" stop="20260404050000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">BYB Xtreme Fighting Series</title><desc lang="es">BYB 27: Brawl in Duval</desc></programme>
 <programme start="20260404050000 +0000" stop="20260404070000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">BYB Extreme Fighting Series 28: Bourbon Street Brawl</title></programme>
-<programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404050000 +0000" stop="20260404070000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">BYB Extreme Fighting Series 28: Bourbon Street Brawl</title></programme>
 <programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404090000 +0000" stop="20260404093000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404090000 +0000" stop="20260404093000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404093000 +0000" stop="20260404100000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404090000 +0000" stop="20260404093000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404093000 +0000" stop="20260404100000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404100000 +0000" stop="20260404103000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404093000 +0000" stop="20260404100000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404100000 +0000" stop="20260404103000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404100000 +0000" stop="20260404103000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404120000 +0000" stop="20260404123000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404120000 +0000" stop="20260404123000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404123000 +0000" stop="20260404143000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
+<programme start="20260404120000 +0000" stop="20260404123000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404123000 +0000" stop="20260404143000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Toulouse FC</desc></programme>
-<programme start="20260404143000 +0000" stop="20260404145000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
+<programme start="20260404123000 +0000" stop="20260404143000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
 <programme start="20260404143000 +0000" stop="20260404145000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="en">Ligue 1 Highlights Show</title></programme>
+<programme start="20260404143000 +0000" stop="20260404145000 +0000" channel="beINSportsenEspanol.qa@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
 <programme start="20260403130000 +0000" stop="20260403150000 +0000" channel="beINSportsMax1.qa@MENA"><title lang="en">beIN Sports MAX</title><desc lang="en">beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.</desc></programme>
 <programme start="20260403130000 +0000" stop="20260403150000 +0000" channel="beINSportsMax1.qa@MENA"><title lang="ar">beIN Sports MAX</title><desc lang="ar">beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.</desc></programme>
 <programme start="20260403150000 +0000" stop="20260403170000 +0000" channel="beINSportsMax1.qa@MENA"><title lang="en">beIN Sports MAX</title><desc lang="en">beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.</desc></programme>
@@ -1650,68 +1650,68 @@
 <programme start="20260404140000 +0000" stop="20260404143000 +0000" channel="beINSportsNews.qa@SD"><title lang="en">News Bulletin</title><desc lang="en">Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.</desc></programme>
 <programme start="20260404143000 +0000" stop="20260404144500 +0000" channel="beINSportsNews.qa@SD"><title lang="en">The summary 1 - 4/04/26</title><desc lang="en">'"Daily Highlights" is a brief highlight of the previous days action. A look at the goals and talking points that have taken place in the world of sport.</desc></programme>
 <programme start="20260404143000 +0000" stop="20260404144500 +0000" channel="beINSportsNews.qa@SD"><title lang="en">The summary 1 - 4/04/26</title><desc lang="en">'"Daily Highlights" is a brief highlight of the previous days action. A look at the goals and talking points that have taken place in the world of sport.</desc></programme>
-<programme start="20260403133000 +0000" stop="20260403163000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">ONE Friday Fights 149</title></programme>
 <programme start="20260403133000 +0000" stop="20260403163000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">ONE Friday Fights 149</title></programme>
-<programme start="20260403163000 +0000" stop="20260403170000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">One Fight Night Highlights</title></programme>
+<programme start="20260403133000 +0000" stop="20260403163000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">ONE Friday Fights 149</title></programme>
 <programme start="20260403163000 +0000" stop="20260403170000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">One Fight Night Highlights</title></programme>
-<programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">This is Paris</title></programme>
+<programme start="20260403163000 +0000" stop="20260403170000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">One Fight Night Highlights</title></programme>
 <programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">This is Paris</title></programme>
-<programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
+<programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">This is Paris</title></programme>
 <programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Ligue 1 Highlights Show</title></programme>
-<programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Preview Show</title></programme>
+<programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
 <programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Ligue 1 Preview Show</title></programme>
-<programme start="20260403183000 +0000" stop="20260403183500 +0000" channel="beINSportsUSA.us@SD"><title lang="es">The Express Preview</title></programme>
+<programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Preview Show</title></programme>
 <programme start="20260403183000 +0000" stop="20260403183500 +0000" channel="beINSportsUSA.us@SD"><title lang="en">The Express Preview</title></programme>
-<programme start="20260403183500 +0000" stop="20260403204500 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
+<programme start="20260403183000 +0000" stop="20260403183500 +0000" channel="beINSportsUSA.us@SD"><title lang="es">The Express Preview</title></programme>
 <programme start="20260403183500 +0000" stop="20260403204500 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Toulouse FC</desc></programme>
-<programme start="20260403204500 +0000" stop="20260403210000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
+<programme start="20260403183500 +0000" stop="20260403204500 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
 <programme start="20260403204500 +0000" stop="20260403210000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Ligue 1 Highlights Show</title></programme>
-<programme start="20260403210000 +0000" stop="20260403211500 +0000" channel="beINSportsUSA.us@SD"><title lang="es">5ASIDE: African Football Talk</title></programme>
+<programme start="20260403204500 +0000" stop="20260403210000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
 <programme start="20260403210000 +0000" stop="20260403211500 +0000" channel="beINSportsUSA.us@SD"><title lang="en">5ASIDE: African Football Talk</title></programme>
-<programme start="20260403211500 +0000" stop="20260403213000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Best of beIN Sports</title></programme>
+<programme start="20260403210000 +0000" stop="20260403211500 +0000" channel="beINSportsUSA.us@SD"><title lang="es">5ASIDE: African Football Talk</title></programme>
 <programme start="20260403211500 +0000" stop="20260403213000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Best of beIN Sports</title></programme>
-<programme start="20260403213000 +0000" stop="20260403220000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">90 in 30</title><desc lang="es">Ligue 1 2025-26: Toulouse vs Paris Saint-Germain</desc></programme>
+<programme start="20260403211500 +0000" stop="20260403213000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Best of beIN Sports</title></programme>
 <programme start="20260403213000 +0000" stop="20260403220000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2025-26: Toulouse vs Paris Saint-Germain</desc></programme>
-<programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Skiing</title><desc lang="es">Ski Classic Pro Tour: Marcialonga Bodo, Race 11</desc></programme>
+<programme start="20260403213000 +0000" stop="20260403220000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">90 in 30</title><desc lang="es">Ligue 1 2025-26: Toulouse vs Paris Saint-Germain</desc></programme>
 <programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Skiing</title><desc lang="en">Ski Classic Pro Tour: Marcialonga Bodo, Race 11</desc></programme>
-<programme start="20260404000000 +0000" stop="20260404020000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
+<programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Skiing</title><desc lang="es">Ski Classic Pro Tour: Marcialonga Bodo, Race 11</desc></programme>
 <programme start="20260404000000 +0000" stop="20260404020000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Toulouse FC</desc></programme>
-<programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">The Knockout Room</title></programme>
+<programme start="20260404000000 +0000" stop="20260404020000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Paris Saint-Germain vs. Toulouse FC</desc></programme>
 <programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">The Knockout Room</title></programme>
-<programme start="20260404023000 +0000" stop="20260404053000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">ONE Friday Fights 148</title></programme>
+<programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">The Knockout Room</title></programme>
 <programme start="20260404023000 +0000" stop="20260404053000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">ONE Friday Fights 148</title></programme>
-<programme start="20260404053000 +0000" stop="20260404060000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">One Weekly</title></programme>
+<programme start="20260404023000 +0000" stop="20260404053000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">ONE Friday Fights 148</title></programme>
 <programme start="20260404053000 +0000" stop="20260404060000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">One Weekly</title></programme>
-<programme start="20260404060000 +0000" stop="20260404063000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">One Fight Night Highlights</title></programme>
+<programme start="20260404053000 +0000" stop="20260404060000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">One Weekly</title></programme>
 <programme start="20260404060000 +0000" stop="20260404063000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">One Fight Night Highlights</title></programme>
-<programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
+<programme start="20260404060000 +0000" stop="20260404063000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">One Fight Night Highlights</title></programme>
 <programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Ligue 1 Highlights Show</title></programme>
-<programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Preview Show</title></programme>
+<programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
 <programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Ligue 1 Preview Show</title></programme>
-<programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Preview Show</title></programme>
 <programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404090000 +0000" stop="20260404093000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404090000 +0000" stop="20260404093000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404093000 +0000" stop="20260404100000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404090000 +0000" stop="20260404093000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404093000 +0000" stop="20260404100000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404100000 +0000" stop="20260404103000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404093000 +0000" stop="20260404100000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404100000 +0000" stop="20260404103000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404100000 +0000" stop="20260404103000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
+<programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Programa pagado</title></programme>
-<programme start="20260404120000 +0000" stop="20260404140000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Skiing</title><desc lang="es">Ski Classics Pro Tour: Reistadlopet, Race 12</desc></programme>
+<programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Programa pagado</title></programme>
 <programme start="20260404120000 +0000" stop="20260404140000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Skiing</title><desc lang="en">Ski Classics Pro Tour: Reistadlopet, Race 12</desc></programme>
-<programme start="20260404140000 +0000" stop="20260404143000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Preview Show</title></programme>
+<programme start="20260404120000 +0000" stop="20260404140000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Skiing</title><desc lang="es">Ski Classics Pro Tour: Reistadlopet, Race 12</desc></programme>
 <programme start="20260404140000 +0000" stop="20260404143000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Ligue 1 Preview Show</title></programme>
-<programme start="20260404143000 +0000" stop="20260404145000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
+<programme start="20260404140000 +0000" stop="20260404143000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Preview Show</title></programme>
 <programme start="20260404143000 +0000" stop="20260404145000 +0000" channel="beINSportsUSA.us@SD"><title lang="en">Ligue 1 Highlights Show</title></programme>
+<programme start="20260404143000 +0000" stop="20260404145000 +0000" channel="beINSportsUSA.us@SD"><title lang="es">Ligue 1 Highlights Show</title></programme>
 <programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="beINSportsXtra1.qa@SD"><title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title><desc lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc></programme>
 <programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="beINSportsXtra1.qa@SD"><title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title><desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc></programme>
 <programme start="20260403150000 +0000" stop="20260403160000 +0000" channel="beINSportsXtra1.qa@SD"><title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title><desc lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc></programme>
@@ -1856,66 +1856,66 @@
 <programme start="20260404123000 +0000" stop="20260404124000 +0000" channel="beINSPORTSXTRA.us@SD"><title lang="en">Best of beIN Sports</title></programme>
 <programme start="20260404124000 +0000" stop="20260404144500 +0000" channel="beINSPORTSXTRA.us@SD"><title lang="es">Fútbol Polaco Primera División</title><desc lang="es">Raków Czestochowa vs. Widzew Lódz</desc></programme>
 <programme start="20260404124000 +0000" stop="20260404144500 +0000" channel="beINSPORTSXTRA.us@SD"><title lang="en">Fútbol Polaco Primera División</title><desc lang="en">Raków Czestochowa vs. Widzew Lódz</desc></programme>
-<programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 60</title><desc lang="es">Copa Libertadores 2015: Cruzeiro vs. River</desc></programme>
 <programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">90 in 60</title><desc lang="en">Copa Libertadores 2015: Cruzeiro vs. River</desc></programme>
-<programme start="20260403150000 +0000" stop="20260403163000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">SailGP</title><desc lang="es">Sydney, Día 2</desc></programme>
+<programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 60</title><desc lang="es">Copa Libertadores 2015: Cruzeiro vs. River</desc></programme>
 <programme start="20260403150000 +0000" stop="20260403163000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">SailGP</title><desc lang="en">Sydney, Día 2</desc></programme>
-<programme start="20260403163000 +0000" stop="20260403170000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Knockout Room</title></programme>
+<programme start="20260403150000 +0000" stop="20260403163000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">SailGP</title><desc lang="es">Sydney, Día 2</desc></programme>
 <programme start="20260403163000 +0000" stop="20260403170000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">The Knockout Room</title></programme>
-<programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">This is Paris</title></programme>
+<programme start="20260403163000 +0000" stop="20260403170000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Knockout Room</title></programme>
 <programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">This is Paris</title></programme>
-<programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Ligue 1 Highlights</title><desc lang="es">Match Day 27</desc></programme>
+<programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">This is Paris</title></programme>
 <programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Ligue 1 Highlights</title><desc lang="en">Match Day 27</desc></programme>
-<programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">FIBA 3x3 AmeriCup 2025</title></programme>
+<programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Ligue 1 Highlights</title><desc lang="es">Match Day 27</desc></programme>
 <programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">FIBA 3x3 AmeriCup 2025</title></programme>
-<programme start="20260403183000 +0000" stop="20260403190000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">FIBA 3x3 AmeriCup 2025</title><desc lang="es">Final: Estados Unidos vs. Puerto Rico</desc></programme>
+<programme start="20260403180000 +0000" stop="20260403183000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">FIBA 3x3 AmeriCup 2025</title></programme>
 <programme start="20260403183000 +0000" stop="20260403190000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">FIBA 3x3 AmeriCup 2025</title><desc lang="en">Final: Estados Unidos vs. Puerto Rico</desc></programme>
-<programme start="20260403190000 +0000" stop="20260403210000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Goleadas inolvidables: Nice vs. Marseille</desc></programme>
+<programme start="20260403183000 +0000" stop="20260403190000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">FIBA 3x3 AmeriCup 2025</title><desc lang="es">Final: Estados Unidos vs. Puerto Rico</desc></programme>
 <programme start="20260403190000 +0000" stop="20260403210000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Goleadas inolvidables: Nice vs. Marseille</desc></programme>
-<programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Xtra</title></programme>
+<programme start="20260403190000 +0000" stop="20260403210000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Fútbol Ligue 1</title><desc lang="es">Goleadas inolvidables: Nice vs. Marseille</desc></programme>
 <programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">The Xtra</title></programme>
-<programme start="20260403220000 +0000" stop="20260403223000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 30</title><desc lang="es">Ligue 1 2025-26: Marseille vs. Lille</desc></programme>
+<programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Xtra</title></programme>
 <programme start="20260403220000 +0000" stop="20260403223000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2025-26: Marseille vs. Lille</desc></programme>
-<programme start="20260403223000 +0000" stop="20260403230000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 30</title><desc lang="es">CAF Champions League 2025-26: Pyramids FC vs. FAR Rabat</desc></programme>
+<programme start="20260403220000 +0000" stop="20260403223000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 30</title><desc lang="es">Ligue 1 2025-26: Marseille vs. Lille</desc></programme>
 <programme start="20260403223000 +0000" stop="20260403230000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">90 in 30</title><desc lang="en">CAF Champions League 2025-26: Pyramids FC vs. FAR Rabat</desc></programme>
-<programme start="20260403230000 +0000" stop="20260404003000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">SailGP</title><desc lang="es">Sydney, Día 2</desc></programme>
+<programme start="20260403223000 +0000" stop="20260403230000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 30</title><desc lang="es">CAF Champions League 2025-26: Pyramids FC vs. FAR Rabat</desc></programme>
 <programme start="20260403230000 +0000" stop="20260404003000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">SailGP</title><desc lang="en">Sydney, Día 2</desc></programme>
-<programme start="20260404003000 +0000" stop="20260404010000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Knockout Room</title></programme>
+<programme start="20260403230000 +0000" stop="20260404003000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">SailGP</title><desc lang="es">Sydney, Día 2</desc></programme>
 <programme start="20260404003000 +0000" stop="20260404010000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">The Knockout Room</title></programme>
-<programme start="20260404010000 +0000" stop="20260404013000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Los 100 mejores knockouts de la historia</title></programme>
+<programme start="20260404003000 +0000" stop="20260404010000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Knockout Room</title></programme>
 <programme start="20260404010000 +0000" stop="20260404013000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Los 100 mejores knockouts de la historia</title></programme>
-<programme start="20260404013000 +0000" stop="20260404020000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Los 100 mejores knockouts de la historia</title></programme>
+<programme start="20260404010000 +0000" stop="20260404013000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Los 100 mejores knockouts de la historia</title></programme>
 <programme start="20260404013000 +0000" stop="20260404020000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Los 100 mejores knockouts de la historia</title></programme>
-<programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Ligue 1 Highlights</title><desc lang="es">Match Day 27</desc></programme>
+<programme start="20260404013000 +0000" stop="20260404020000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Los 100 mejores knockouts de la historia</title></programme>
 <programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Ligue 1 Highlights</title><desc lang="en">Match Day 27</desc></programme>
-<programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">This is Paris</title></programme>
+<programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Ligue 1 Highlights</title><desc lang="es">Match Day 27</desc></programme>
 <programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">This is Paris</title></programme>
-<programme start="20260404030000 +0000" stop="20260404033000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 30</title><desc lang="es">Ligue 1 2025-26: Marseille vs. Lille</desc></programme>
+<programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">This is Paris</title></programme>
 <programme start="20260404030000 +0000" stop="20260404033000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2025-26: Marseille vs. Lille</desc></programme>
-<programme start="20260404033000 +0000" stop="20260404040000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 30</title><desc lang="es">CAF Champions League 2025-26: Pyramids FC vs. FAR Rabat</desc></programme>
+<programme start="20260404030000 +0000" stop="20260404033000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 30</title><desc lang="es">Ligue 1 2025-26: Marseille vs. Lille</desc></programme>
 <programme start="20260404033000 +0000" stop="20260404040000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">90 in 30</title><desc lang="en">CAF Champions League 2025-26: Pyramids FC vs. FAR Rabat</desc></programme>
-<programme start="20260404040000 +0000" stop="20260404050000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Xtra</title></programme>
+<programme start="20260404033000 +0000" stop="20260404040000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 30</title><desc lang="es">CAF Champions League 2025-26: Pyramids FC vs. FAR Rabat</desc></programme>
 <programme start="20260404040000 +0000" stop="20260404050000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">The Xtra</title></programme>
-<programme start="20260404050000 +0000" stop="20260404053000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">FIBA 3x3 AmeriCup 2025</title></programme>
+<programme start="20260404040000 +0000" stop="20260404050000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Xtra</title></programme>
 <programme start="20260404050000 +0000" stop="20260404053000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">FIBA 3x3 AmeriCup 2025</title></programme>
-<programme start="20260404053000 +0000" stop="20260404060000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">FIBA 3x3 AmeriCup 2025</title><desc lang="es">Final: Estados Unidos vs. Puerto Rico</desc></programme>
+<programme start="20260404050000 +0000" stop="20260404053000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">FIBA 3x3 AmeriCup 2025</title></programme>
 <programme start="20260404053000 +0000" stop="20260404060000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">FIBA 3x3 AmeriCup 2025</title><desc lang="en">Final: Estados Unidos vs. Puerto Rico</desc></programme>
-<programme start="20260404060000 +0000" stop="20260404080000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Premier Padel</title><desc lang="es">Miami, Final masculina</desc></programme>
+<programme start="20260404053000 +0000" stop="20260404060000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">FIBA 3x3 AmeriCup 2025</title><desc lang="es">Final: Estados Unidos vs. Puerto Rico</desc></programme>
 <programme start="20260404060000 +0000" stop="20260404080000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Premier Padel</title><desc lang="en">Miami, Final masculina</desc></programme>
-<programme start="20260404080000 +0000" stop="20260404090000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 60</title><desc lang="es">Copa Libertadores 2015: Cruzeiro vs. River</desc></programme>
+<programme start="20260404060000 +0000" stop="20260404080000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Premier Padel</title><desc lang="es">Miami, Final masculina</desc></programme>
 <programme start="20260404080000 +0000" stop="20260404090000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">90 in 60</title><desc lang="en">Copa Libertadores 2015: Cruzeiro vs. River</desc></programme>
-<programme start="20260404090000 +0000" stop="20260404100000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Pro Footvolley Tour</title></programme>
+<programme start="20260404080000 +0000" stop="20260404090000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">90 in 60</title><desc lang="es">Copa Libertadores 2015: Cruzeiro vs. River</desc></programme>
 <programme start="20260404090000 +0000" stop="20260404100000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Pro Footvolley Tour</title></programme>
-<programme start="20260404100000 +0000" stop="20260404110000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Xtra</title></programme>
+<programme start="20260404090000 +0000" stop="20260404100000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Pro Footvolley Tour</title></programme>
 <programme start="20260404100000 +0000" stop="20260404110000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">The Xtra</title></programme>
-<programme start="20260404110000 +0000" stop="20260404120000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Pro Footvolley Tour</title></programme>
+<programme start="20260404100000 +0000" stop="20260404110000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">The Xtra</title></programme>
 <programme start="20260404110000 +0000" stop="20260404120000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Pro Footvolley Tour</title></programme>
-<programme start="20260404120000 +0000" stop="20260404123000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">This is Paris</title></programme>
+<programme start="20260404110000 +0000" stop="20260404120000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Pro Footvolley Tour</title></programme>
 <programme start="20260404120000 +0000" stop="20260404123000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">This is Paris</title></programme>
-<programme start="20260404123000 +0000" stop="20260404124000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Best of beIN</title></programme>
+<programme start="20260404120000 +0000" stop="20260404123000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">This is Paris</title></programme>
 <programme start="20260404123000 +0000" stop="20260404124000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Best of beIN</title></programme>
-<programme start="20260404124000 +0000" stop="20260404144500 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Fútbol Polaco Primera División</title><desc lang="es">Raków Czestochowa vs. Widzew Lódz</desc></programme>
+<programme start="20260404123000 +0000" stop="20260404124000 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Best of beIN</title></programme>
 <programme start="20260404124000 +0000" stop="20260404144500 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="en">Fútbol Polaco Primera División</title><desc lang="en">Raków Czestochowa vs. Widzew Lódz</desc></programme>
+<programme start="20260404124000 +0000" stop="20260404144500 +0000" channel="beINSPORTSXTRAenEspanol.us@SD"><title lang="es">Fútbol Polaco Primera División</title><desc lang="es">Raków Czestochowa vs. Widzew Lódz</desc></programme>
 <programme start="20260403143000 +0000" stop="20260403150500 +0000" channel="C938A2D0-375A-4876-B05D-08EE29D33B07"><title lang="en">Matchday 29</title><desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc></programme>
 <programme start="20260403150500 +0000" stop="20260403152000 +0000" channel="C938A2D0-375A-4876-B05D-08EE29D33B07"><title lang="en">Oihan Sancet</title><desc lang="en">Relive every goal from the best players in 2024/25 season.Relive every goal from the best players in 2024/25 season.</desc></programme>
 <programme start="20260403152000 +0000" stop="20260403153000 +0000" channel="C938A2D0-375A-4876-B05D-08EE29D33B07"><title lang="en">Barcelona vs Real Madrid - 2018/19</title><desc lang="en">Rewind the clock and witness LaLiga's greatest moments.Rewind the clock and witness LaLiga's greatest moments.</desc></programme>
