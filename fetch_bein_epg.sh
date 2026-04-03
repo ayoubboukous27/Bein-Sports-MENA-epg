@@ -17,5 +17,3 @@ npm run grab --- --site=beinsports.com --output=guide_bein.xml --days=1
 # 4) رجوع للمجلد الأصلي
 cd ..
 
-# 5) تشغيل سكربت Python لتحويل IDs
-python3 map_bein_ids.py epg/guide_bein.xml epg_mapped.xml
