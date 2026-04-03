@@ -3,13 +3,13 @@ name: Generate beIN EPG
 on:
   schedule:
     - cron: "0 */6 * * *"   # يشغّل كل 6 ساعات
-  workflow_dispatch:        # زر للتشغيل اليدوي
+  workflow_dispatch:
   push:
     paths:
       - 'epg_mapped.xml'   # يشغّل تلقائيًا عند تحديث epg_mapped.xml
 
 permissions:
-  contents: write           # صلاحية الكتابة للـ repo
+  contents: write
 
 jobs:
   build:
@@ -19,23 +19,18 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v4
 
-    - name: Install Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: "18"
-
     - name: Install Python
       uses: actions/setup-python@v5
       with:
         python-version: "3.10"
 
-    - name: Install Python dependencies
+    - name: Install dependencies
       run: pip install -r requirements.txt
 
     - name: Run fetch script
       run: bash fetch_bein_epg.sh
 
-    # نسخ الملف الأصلي باسم epg_mapped_with_logos.xml
+    # اعتماد كامل على الملف الأصلي
     - name: Prepare final file
       run: cp epg_mapped.xml epg_mapped_with_logos.xml
 
