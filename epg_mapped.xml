@@ -260,6 +260,7 @@
   <!-- ========== قنوات بأرقام تعريفية (بدون بلد) نحتفظ بها كما هي ========== -->
   <channel id="5C08D9D3-C713-4F1F-947E-87C761428B9B">
     <display-name>beIN SPORTS 9</display-name>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/logos-_beINSPORTS9.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
