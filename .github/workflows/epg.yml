@@ -52,9 +52,9 @@ jobs:
 
         # روابط لوغوهاتك الخاصة للقنوات الفرنسية
         french_logos = {
-            "beINSports1.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-1-programme-chaine-93.png",
-            "beINSports2.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-2-programme-chaine-15.png",
-            "beINSports3.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-3-programme-chaine-118.png"
+            "beINSports1.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/blob/main/Logos/bein-sports-1.png",
+            "beINSports2.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/blob/main/Logos/bein-sports-2.png",
+            "beINSports3.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/blob/main/Logos/bein-sports-3.png"
         }
 
         for channel in root.findall('channel'):
