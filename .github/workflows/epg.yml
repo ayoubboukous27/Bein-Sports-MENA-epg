@@ -55,7 +55,7 @@ jobs:
             "beINSports1.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-1.png",
             "beINSports2.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-2.png",
             "beINSports3.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-3.png",
-            "5C08D9D3-C713-4F1F-947E-87C761428B9B": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/logos-_beINSPORTS9.png",
+            "5C08D9D3-C713-4F1F-947E-87C761428B9B": "https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/refs/heads/main/Logos/logos-_beINSPORTS9.png",
         }
 
         for channel in root.findall('channel'):
