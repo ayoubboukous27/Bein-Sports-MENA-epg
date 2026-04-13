@@ -69,7 +69,7 @@ jobs:
           const xml = require('xml2js');
 
           const logos = {
-            "beINSportsAFC1.qa@SD": "https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png",
+            "beINSports1.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png",
             "beINSports2.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png",
             "beINSports3.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png",
             "beINSports4.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png",
