@@ -71,6 +71,9 @@ jobs:
             "beINSports7.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS7.png",
             "beINSports8.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS8.png",
             "5C08D9D3-C713-4F1F-947E-87C761428B9B": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS9.png"
+            "beINSports1.qa@France": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-french-mea.png",
+            "beINSports2.qa@France": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-french-mea.png",
+            "beINSports3.qa@Francd": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-french-mea.png",
           };
 
           const parser = new xml2js.Parser();
