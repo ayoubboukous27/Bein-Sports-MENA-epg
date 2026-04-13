@@ -3536,9 +3536,9 @@
     <title lang="ar">Hull City vs Birmingham - EFL - English Football League SkyBet - Championship 2025/2026</title>
     <desc lang="ar">Live and exclusive coverage only on beIN of the 2025–2026 EFL Championship. The EFL Championship is the second tier in the English Football league system. The season will run from 8 August 2025 until 2 May 2026.</desc>
   </programme>
-  <programme start="20260418135000 +0000" stop="20260418162000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398">
-    <title lang="ar">Hull City vs Birmingham - EFL - English Football League SkyBet - Championship 2025/2026</title>
-    <desc lang="ar">Live and exclusive coverage only on beIN of the 2025–2026 EFL Championship. The EFL Championship is the second tier in the English Football league system. The season will run from 8 August 2025 until 2 May 2026.</desc>
+  <programme start="20260418162000 +0000" stop="20260418185500 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398">
+    <title lang="ar">Leonesa vs Cordoba - LaLiga Hypermotion 2025-2026 - Spanish La liga 2</title>
+    <desc lang="ar">La Liga 2 is the men's second professional association football division of the Spanish football league system. It is contested by 22 teams, with the top two teams plus the winner of a play-off promoted to La Liga and replaced by the three lowest-placed teams in that division.</desc>
   </programme>
   <programme start="20260418162000 +0000" stop="20260418185500 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398">
     <title lang="ar">Leonesa vs Cordoba - LaLiga Hypermotion 2025-2026 - Spanish La liga 2</title>
@@ -5948,9 +5948,9 @@
     <title lang="ar">Arsenal vs. A.F.C. Bournemouth - English Premier League 2026/2027</title>
     <desc lang="ar">Having won each of their first eight home games against Bournemouth in all competitions, Arsenal lost this exact league fixture 2-1 last season. Bournemouth have won two of their last three league games against Arsenal, more than they had in their previous 14.</desc>
   </programme>
-  <programme start="20260417143000 +0000" stop="20260417162000 +0000" channel="beIN4K.qa@SD">
-    <title lang="ar">Arsenal vs. A.F.C. Bournemouth - English Premier League 2026/2027</title>
-    <desc lang="ar">Having won each of their first eight home games against Bournemouth in all competitions, Arsenal lost this exact league fixture 2-1 last season. Bournemouth have won two of their last three league games against Arsenal, more than they had in their previous 14.</desc>
+  <programme start="20260417162000 +0000" stop="20260417181000 +0000" channel="beIN4K.qa@SD">
+    <title lang="ar">Manchester United vs. Leeds United - English Premier League 2026/2027</title>
+    <desc lang="ar">Manchester United are unbeaten in their last 18 home league games against Leeds since a 1-0 loss in February 1981 under Dave Sexton. Following their 1-1 draw at Elland Road in January, Leeds are looking to avoid losing both league meetings with Manchester United in a season for the first time since 1994-95.</desc>
   </programme>
   <programme start="20260417162000 +0000" stop="20260417181000 +0000" channel="beIN4K.qa@SD">
     <title lang="ar">Manchester United vs. Leeds United - English Premier League 2026/2027</title>
@@ -8438,10 +8438,6 @@
   <programme start="20260419074000 +0000" stop="20260419205959 +0000" channel="beINSports8.qa@MENA">
     <title lang="en">Race 2 - Imola Round - Porsche Cup Germany</title>
   </programme>
-  <programme start="20260413154500 +0000" stop="20260413162000 +0000" channel="beINSports.qa@MENA">
-    <title lang="en">ATP Tour - Magazine 2026</title>
-    <desc lang="en">ATP Tour This Week It is comprised of the various feature stories created by ATP Media and ATP Tour</desc>
-  </programme>
   <programme start="20260413162000 +0000" stop="20260413183000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al Arabi vs Al-Sailiya - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
@@ -10906,7 +10902,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260416161000 +0000" stop="20260416162000 +0000" channel="beINSportsXtra1.qa@SD">
+  <programme start="20260416162000 +0000" stop="20260416163500 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
