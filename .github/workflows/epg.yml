@@ -53,7 +53,7 @@ jobs:
             --output=guide_bein_fr.xml \
             --days=7
 
-      # Merge both and add logos
+      # Merge EPGs and add logos
       - name: Merge EPGs and add logos
         run: |
           cd epg
@@ -62,6 +62,7 @@ jobs:
           const xml2js = require('xml2js');
 
           const files = ['guide_bein_mena_ar.xml', 'guide_bein_fr.xml'];
+
           const logos_ar = {
             "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS1.png",
             "beINSports2.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS2.png",
@@ -70,7 +71,10 @@ jobs:
             "beINSports6.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS6.png",
             "beINSports7.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS7.png",
             "beINSports8.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS8.png",
-            "5C08D9D3-C713-4F1F-947E-87C761428B9B": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS9.png",
+            "5C08D9D3-C713-4F1F-947E-87C761428B9B": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS9.png"
+          };
+
+          const logos_fr = {
             "beINSports1.qa@France": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-french-mea.png",
             "beINSports2.qa@France": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-french-mea.png",
             "beINSports3.qa@France": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-french-mea.png"
@@ -88,87 +92,10 @@ jobs:
 
               result.tv.channel.forEach(ch => {
                 const id = ch.$.id;
-                if (logos_ar[id]) {
-                  ch.icon = [{ $: { src: logos_ar[id] } }];
-                }
+                if (logos_ar[id]) ch.icon = [{ $: { src: logos_ar[id] } }];
+                if (logos_fr[id]) ch.icon = [{ $: { src: logos_fr[id] } }];
               });
 
-              merged.tv.channel.push(...result.tv.channel);
-              if (result.tv.programme) merged.tv.programme.push(...result.tv.programme);
-            });
-          });
-
-          fs.writeFileSync('../epg_mapped_with_logos.xml', builder.buildObject(merged), 'utf-8');
-          EOF
-
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add epg_mapped_with_logos.xml
-          git diff-index --quiet HEAD || git commit -m "Update combined beIN EPG (MENA AR + FR-FR) with logos"
-          git pull --rebase origin main
-          git push origin main
-      # Grab MENA AR
-      - name: Grab beIN MENA AR EPG
-        run: |
-          cd epg
-          npx tsx scripts/commands/epg/grab.ts \
-            --channels=sites/beinsports.com/beinsports.com_mena-ar.channels.xml \
-            --output=guide_bein_mena_ar.xml \
-            --days=7
-
-      # Grab FR-FR
-      - name: Grab beIN FR-FR EPG
-        run: |
-          cd epg
-          npx tsx scripts/commands/epg/grab.ts \
-            --channels=sites/beinsports.com/beinsports.com_fr-fr.channels.xml \
-            --output=guide_bein_fr.xml \
-            --days=7
-
-      # Merge both and add Arabic logos
-      - name: Merge EPGs and add logos
-        run: |
-          cd epg
-          node <<'EOF'
-          const fs = require('fs');
-          const xml2js = require('xml2js');
-
-          const files = ['guide_bein_mena_ar.xml', 'guide_bein_fr.xml'];
-          const logos_ar = {
-            "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS1.png",
-            "beINSports2.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS2.png",
-            "beINSports4.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS4.png",
-            "beINSports5.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS5.png",
-            "beINSports6.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS6.png",
-            "beINSports7.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS7.png",
-            "beINSports8.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS8.png",
-            "5C08D9D3-C713-4F1F-947E-87C761428B9B": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS9.png"
-            "beINSports1.qa@France": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-french-mea.png",
-            "beINSports2.qa@France": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-french-mea.png",
-            "beINSports3.qa@France": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-french-mea.png",
-          };
-
-          const parser = new xml2js.Parser();
-          const builder = new xml2js.Builder({ headless: false, xmldec: { version: '1.0', encoding: 'UTF-8' } });
-
-          let merged = { tv: { $: {}, channel: [], programme: [] } };
-
-          files.forEach(file => {
-            const data = fs.readFileSync(file, 'utf-8');
-            parser.parseString(data, (err, result) => {
-              if (err) throw err;
-
-              // Add Arabic logos if channel exists
-              result.tv.channel.forEach(ch => {
-                const id = ch.$.id;
-                if (logos_ar[id]) {
-                  ch.icon = [{ $: { src: logos_ar[id] } }];
-                }
-              });
-
-              // Merge channels and programmes
               merged.tv.channel.push(...result.tv.channel);
               if (result.tv.programme) merged.tv.programme.push(...result.tv.programme);
             });
