@@ -2,30 +2,30 @@ name: Generate beIN MENA AR EPG (7 days)
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # كل 6 ساعات
+    - cron: "0 5 * * *"  # يوميًا الساعة 05:00 UTC
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  grab_bein_mena_ar:
     runs-on: ubuntu-latest
 
     steps:
       # --------------------------
-      # Checkout repo
+      # Checkout repository
       # --------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
 
       # --------------------------
-      # Setup Node.js (latest)
+      # Setup Node.js (latest stable)
       # --------------------------
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "node"
 
       # --------------------------
       # Clone iptv-org/epg repository
@@ -39,40 +39,77 @@ jobs:
           fi
 
       # --------------------------
-      # Install dependencies + tsx
+      # Install dependencies
       # --------------------------
       - name: Install dependencies
         run: |
           cd epg
           npm install
-          npm install tsx -g
 
       # --------------------------
-      # Grab beIN MENA AR EPG for 7 days
+      # Grab beIN MENA AR EPG
       # --------------------------
       - name: Grab beIN MENA AR EPG
         run: |
           cd epg
-          tsx scripts/commands/epg/grab.ts ./sites/beinsports.com/beinsports.com_mena-ar.channels.xml \
-            --output guide_bein.xml --days 7
+          npx tsx scripts/commands/epg/grab.ts \
+            --channels=sites/beinsports.com/beinsports.com_mena-ar.channels.xml \
+            --output=guide_bein.xml \
+            --days=7
 
       # --------------------------
-      # Upload guide.xml as artifact
+      # Add channel names and logos
       # --------------------------
-      - name: Upload guide as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: bein-mena-ar-epg
-          path: epg/guide_bein.xml
+      - name: Add channel logos
+        run: |
+          cd epg
+          node <<'EOF'
+          const fs = require('fs');
+          const xml = require('xml2js');
+
+          const logos = {
+            "beINSportsAFC1.qa@SD": "https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png",
+            "beINSports2.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png",
+            "beINSports3.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png",
+            "beINSports4.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png",
+            "beINSports5.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png",
+            "beINSports6.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png",
+            "beINSports7.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png",
+            "beINSports8.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png",
+            "beINSports9.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png"
+          };
+
+          const file = 'guide_bein.xml';
+          const data = fs.readFileSync(file, 'utf-8');
+          xml.parseString(data, (err, result) => {
+            if (err) throw err;
+            result.tv.channel.forEach(ch => {
+              const id = ch.$.id;
+              if (logos[id]) {
+                ch.icon = [{ $: { src: logos[id] } }];
+              }
+            });
+            const builder = new xml.Builder();
+            fs.writeFileSync(file, builder.buildObject(result));
+          });
+          EOF
 
       # --------------------------
-      # Commit & push to repo
+      # Save output
+      # --------------------------
+      - name: Save EPG
+        run: |
+          mkdir -p public
+          cp epg/guide_bein.xml public/epg-bein-mena-ar.xml
+
+      # --------------------------
+      # Commit & push
       # --------------------------
       - name: Commit & Push
         run: |
-          cd epg
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add guide_bein.xml
-          git commit -m "Update beIN MENA AR EPG 7 days [skip ci]" || echo "No changes"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add public/epg-bein-mena-ar.xml
+          git diff-index --quiet HEAD || git commit -m "Update beIN MENA AR EPG with logos"
+          git pull --rebase origin main
+          git push origin main
