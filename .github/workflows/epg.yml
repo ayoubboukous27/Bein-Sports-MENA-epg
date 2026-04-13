@@ -45,6 +45,7 @@ jobs:
         run: |
           cd epg
           npm install
+          npm install xml2js
 
       # --------------------------
       # Grab beIN MENA AR EPG
