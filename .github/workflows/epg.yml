@@ -1,4 +1,4 @@
-name: Generate beIN EPG (with logos)
+name: Generate beIN MENA AR EPG (7 days)
 
 on:
   schedule:
@@ -13,110 +13,66 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v4
+      # --------------------------
+      # Checkout repo
+      # --------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: "20"
+      # --------------------------
+      # Setup Node.js (latest)
+      # --------------------------
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-    # --------------------------
-    # Clone iptv-org/epg repo
-    # --------------------------
-    - name: Clone iptv-org/epg
-      run: |
-        if [ ! -d "epg" ]; then
-          git clone --depth 1 https://github.com/iptv-org/epg.git
-        else
-          git -C epg pull
-        fi
+      # --------------------------
+      # Clone iptv-org/epg repository
+      # --------------------------
+      - name: Clone iptv-org/epg
+        run: |
+          if [ ! -d "epg" ]; then
+            git clone --depth 1 https://github.com/iptv-org/epg.git
+          else
+            git -C epg pull
+          fi
 
-    - name: Install dependencies
-      run: |
-        cd epg
-        npm install
+      # --------------------------
+      # Install dependencies + tsx
+      # --------------------------
+      - name: Install dependencies
+        run: |
+          cd epg
+          npm install
+          npm install tsx -g
 
-    # --------------------------
-    # Grab beIN MENA AR guide.xml
-    # --------------------------
-    - name: Grab beIN MENA AR EPG
-      run: |
-        cd epg
-        tsx scripts/commands/epg/grab.ts ./sites/beinsports.com/beinsports.com_mena-ar.channels.xml \
-          --output guide_bein.xml --days 7
+      # --------------------------
+      # Grab beIN MENA AR EPG for 7 days
+      # --------------------------
+      - name: Grab beIN MENA AR EPG
+        run: |
+          cd epg
+          tsx scripts/commands/epg/grab.ts ./sites/beinsports.com/beinsports.com_mena-ar.channels.xml \
+            --output guide_bein.xml --days 7
 
-    # --------------------------
-    # Add country codes and French logos
-    # --------------------------
-    - name: Add country codes and French logos
-      run: |
-        python - <<'EOF'
-        import xml.etree.ElementTree as ET
+      # --------------------------
+      # Upload guide.xml as artifact
+      # --------------------------
+      - name: Upload guide as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: bein-mena-ar-epg
+          path: epg/guide_bein.xml
 
-        tree = ET.parse('epg/guide_bein.xml')
-        root = tree.getroot()
-
-        # اختصارات الدول
-        country_map = {
-            'Australia': 'Aus',
-            'France': 'Fr',
-            'USA': 'USA',
-            'qa': 'QA',
-            'us': 'US',
-            'fr': 'FR',
-            'Malaysia': 'MY',
-            'MENA': 'MENA'
-        }
-
-        # روابط لوغوهات القنوات الفرنسية حسب xmltv_id أو site_id
-        french_logos = {
-            "beINSports1.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-1.png",
-            "beINSports2.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-2.png",
-            "beINSports3.qa@France": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/bein-sports-3.png",
-            "5C08D9D3-C713-4F1F-947E-87C761428B9B": "https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/refs/heads/main/Logos/logos-_beINSPORTS9.png",
-        }
-
-        for channel in root.findall('channel'):
-            channel_id = channel.attrib.get('id', '')
-            display = channel.find('display-name')
-            
-            # إضافة اختصار الدولة
-            if display is not None:
-                if '@' in channel_id:
-                    country_code = channel_id.split('@')[-1]
-                else:
-                    country_code = channel_id.split('.')[-1]
-                country_short = country_map.get(country_code, country_code)
-                display.text = f"{display.text.strip()} ({country_short})"
-
-            # استبدال لوغو القنوات الفرنسية فقط
-            if channel_id in french_logos:
-                icon = channel.find('icon')
-                if icon is not None:
-                    icon.set('src', french_logos[channel_id])
-                else:
-                    ET.SubElement(channel, 'icon', {'src': french_logos[channel_id]})
-
-        tree.write('epg_mapped_with_logos.xml', encoding='utf-8', xml_declaration=True)
-        EOF
-
-    # --------------------------
-    # Upload as artifact
-    # --------------------------
-    - name: Upload result as artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: bein-epg
-        path: epg_mapped_with_logos.xml
-
-    # --------------------------
-    # Commit & Push updated EPG
-    # --------------------------
-    - name: Push updated EPG to repo
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add epg_mapped_with_logos.xml
-        git commit -m "Update beIN Sports MENA AR EPG with logos & country codes [skip ci]" || echo "No changes"
-        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+      # --------------------------
+      # Commit & push to repo
+      # --------------------------
+      - name: Commit & Push
+        run: |
+          cd epg
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add guide_bein.xml
+          git commit -m "Update beIN MENA AR EPG 7 days [skip ci]" || echo "No changes"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
