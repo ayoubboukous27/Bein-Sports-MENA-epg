@@ -1,4 +1,4 @@
-name: Generate beIN EPG (MENA AR + FR-FR, 7 days)
+name: Generate Combined beIN EPG (7 days)
 
 on:
   schedule:
@@ -53,14 +53,15 @@ jobs:
             --output=guide_bein_fr.xml \
             --days=7
 
-      # Add Arabic logos only
-      - name: Add Arabic channel logos
+      # Merge both and add Arabic logos
+      - name: Merge EPGs and add logos
         run: |
           cd epg
           node <<'EOF'
           const fs = require('fs');
-          const xml = require('xml2js');
+          const xml2js = require('xml2js');
 
+          const files = ['guide_bein_mena_ar.xml', 'guide_bein_fr.xml'];
           const logos_ar = {
             "beINSports1.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png",
             "beINSports2.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png",
@@ -73,33 +74,38 @@ jobs:
             "beINSports9.qa@MENA": "https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png"
           };
 
-          ["guide_bein_mena_ar.xml"].forEach(file => {
+          const parser = new xml2js.Parser();
+          const builder = new xml2js.Builder({ headless: false, xmldec: { version: '1.0', encoding: 'UTF-8' } });
+
+          let merged = { tv: { $: {}, channel: [], programme: [] } };
+
+          files.forEach(file => {
             const data = fs.readFileSync(file, 'utf-8');
-            xml.parseString(data, (err, result) => {
+            parser.parseString(data, (err, result) => {
               if (err) throw err;
+
+              // Add Arabic logos if channel exists
               result.tv.channel.forEach(ch => {
                 const id = ch.$.id;
                 if (logos_ar[id]) {
                   ch.icon = [{ $: { src: logos_ar[id] } }];
                 }
               });
-              const builder = new xml.Builder();
-              fs.writeFileSync(file, builder.buildObject(result));
+
+              // Merge channels and programmes
+              merged.tv.channel.push(...result.tv.channel);
+              if (result.tv.programme) merged.tv.programme.push(...result.tv.programme);
             });
           });
-          EOF
 
-      - name: Save outputs
-        run: |
-          mkdir -p public
-          cp epg/guide_bein_mena_ar.xml public/epg-bein-mena-ar.xml
-          cp epg/guide_bein_fr.xml public/epg-bein-fr.xml
+          fs.writeFileSync('../epg_mapped_with_logos.xml', builder.buildObject(merged), 'utf-8');
+          EOF
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add public/epg-bein-mena-ar.xml public/epg-bein-fr.xml
-          git diff-index --quiet HEAD || git commit -m "Update beIN MENA AR + FR-FR EPG"
+          git add epg_mapped_with_logos.xml
+          git diff-index --quiet HEAD || git commit -m "Update combined beIN EPG (MENA AR + FR-FR) with logos"
           git pull --rebase origin main
           git push origin main
