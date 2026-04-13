@@ -6123,9 +6123,9 @@
     <title lang="ar">La Liga Highlights 2025/2026</title>
     <desc lang="ar">"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day."</desc>
   </programme>
-  <programme start="20260414204500 +0000" stop="20260414211500 +0000" channel="beINSports3.qa@MENA">
-    <title lang="ar">La Liga Highlights 2025/2026</title>
-    <desc lang="ar">"This 55-minute program offers full 5-minute highlights of each of the games played on Friday, Saturday and Sunday.LALIGA includes special video presentations of the best goal, the best save and the best player of the day."</desc>
+  <programme start="20260414211500 +0000" stop="20260414215000 +0000" channel="beINSports3.qa@MENA">
+    <title lang="ar">Atlanta - Stories From the City</title>
+    <desc lang="ar">which will host the FIFA World Cup 2026, its cultural, grassroots and community dimensions of football</desc>
   </programme>
   <programme start="20260414211500 +0000" stop="20260414215000 +0000" channel="beINSports3.qa@MENA">
     <title lang="ar">Atlanta - Stories From the City</title>
@@ -6223,9 +6223,9 @@
     <title lang="ar">Barcelona vs Espanyol - Spanish LaLiga 2025/26 - Week 31</title>
     <desc lang="ar">FC Barcelona are unbeaten in their last 29 LaLiga matches against Espanyol, their longest unbeaten run against a single opponent and the longest unbeaten run by a team in any derby in the competition's history. RCD Espanyol have not won an away LaLiga match against FC Barcelona since February 2009 under Mauricio Pochettino. Since then, Espanyol have only picked up one point in their following 14 visits to the Camp Nou in the competition : a 1-1 draw in December 2022.</desc>
   </programme>
-  <programme start="20260416193000 +0000" stop="20260416211500 +0000" channel="beINSports3.qa@MENA">
-    <title lang="ar">Barcelona vs Espanyol - Spanish LaLiga 2025/26 - Week 31</title>
-    <desc lang="ar">FC Barcelona are unbeaten in their last 29 LaLiga matches against Espanyol, their longest unbeaten run against a single opponent and the longest unbeaten run by a team in any derby in the competition's history. RCD Espanyol have not won an away LaLiga match against FC Barcelona since February 2009 under Mauricio Pochettino. Since then, Espanyol have only picked up one point in their following 14 visits to the Camp Nou in the competition : a 1-1 draw in December 2022.</desc>
+  <programme start="20260416211500 +0000" stop="20260416215000 +0000" channel="beINSports3.qa@MENA">
+    <title lang="ar">Guadalajara - Stories From the City</title>
+    <desc lang="ar">which will host the FIFA World Cup 2026, its cultural, grassroots and community dimensions of football</desc>
   </programme>
   <programme start="20260416211500 +0000" stop="20260416215000 +0000" channel="beINSports3.qa@MENA">
     <title lang="ar">Guadalajara - Stories From the City</title>
@@ -6315,9 +6315,9 @@
     <title lang="ar">Lille vs Nice - French Ligue 1 2025/2026 Week 30</title>
     <desc lang="ar">France's premier football competition, Ligue 1, is available live and exclusive only on beIN. The 2025–26 Ligue 1 season runs from 15 August 2025 until 16 May 2026.</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418211500 +0000" channel="beINSports3.qa@MENA">
-    <title lang="ar">Lille vs Nice - French Ligue 1 2025/2026 Week 30</title>
-    <desc lang="ar">France's premier football competition, Ligue 1, is available live and exclusive only on beIN. The 2025–26 Ligue 1 season runs from 15 August 2025 until 16 May 2026.</desc>
+  <programme start="20260418211500 +0000" stop="20260418231500 +0000" channel="beINSports3.qa@MENA">
+    <title lang="ar">Troyes vs Boulogne - French Ligue 2 - 2025/2026</title>
+    <desc lang="ar">Ligue 2 is the second division of French football. Ligue 2 is contested by 18 clubs, the league operates on a system of promotion and relegation with both Ligue 1 and the third division Championnat National. The teams play 34 games each, totaling 306 games in the season. The biggest games from each match Day are live and exclusive on beIN.</desc>
   </programme>
   <programme start="20260418211500 +0000" stop="20260418231500 +0000" channel="beINSports3.qa@MENA">
     <title lang="ar">Troyes vs Boulogne - French Ligue 2 - 2025/2026</title>
@@ -8153,10 +8153,6 @@
   </programme>
   <programme start="20260419074000 +0000" stop="20260419205959 +0000" channel="beINSports8.qa@MENA">
     <title lang="en">Race 2 - Imola Round - Porsche Cup Germany</title>
-  </programme>
-  <programme start="20260413190000 +0000" stop="20260413211500 +0000" channel="beINSports.qa@MENA">
-    <title lang="en">Al-Shamal vs Qatar SC - Qatar Stars League 2025/26 - W17</title>
-    <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
   <programme start="20260413211500 +0000" stop="20260413233000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al Arabi vs Al-Sailiya - Qatar Stars League 2025/26 - W17</title>
@@ -10350,7 +10346,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415211000 +0000" stop="20260415212000 +0000" channel="beINSportsXtra1.qa@SD">
+  <programme start="20260415212000 +0000" stop="20260415213000 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -10474,7 +10470,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260416211000 +0000" stop="20260416212000 +0000" channel="beINSportsXtra1.qa@SD">
+  <programme start="20260416212000 +0000" stop="20260416213000 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -12749,8 +12745,8 @@
   <programme start="20260415194500 +0000" stop="20260415211500 +0000" channel="beINSports1.qa@France">
     <title lang="fr">Handball : Qualifications à l'Euro féminin - France / Finlande</title>
   </programme>
-  <programme start="20260415194500 +0000" stop="20260415211500 +0000" channel="beINSports1.qa@France">
-    <title lang="fr">Handball : Qualifications à l'Euro féminin - France / Finlande</title>
+  <programme start="20260415211500 +0000" stop="20260415231500 +0000" channel="beINSports1.qa@France">
+    <title lang="fr">Football : Liga - FC Barcelone / Espanyol Barcelone</title>
   </programme>
   <programme start="20260415211500 +0000" stop="20260415231500 +0000" channel="beINSports1.qa@France">
     <title lang="fr">Football : Liga - FC Barcelone / Espanyol Barcelone</title>
