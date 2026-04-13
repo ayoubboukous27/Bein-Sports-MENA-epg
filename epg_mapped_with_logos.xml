@@ -7,7 +7,7 @@
   </channel>
   <channel id="beINSports8.qa@MENA">
     <display-name>beIN SPORTS 8</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-8-mea.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS8.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="2BF668DF-1B76-4199-88CE-8691FD86AD8C">
@@ -32,7 +32,7 @@
   <channel id="5C08D9D3-C713-4F1F-947E-87C761428B9B">
     <display-name>beIN SPORTS 9</display-name>
     <url>https://beinsports.com</url>
-    <icon src="https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-9-mea.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS9.png"/>
   </channel>
   <channel id="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
     <display-name>beIN SPORTS XTRA 4</display-name>
@@ -50,7 +50,7 @@
   </channel>
   <channel id="beINSports3.qa@MENA">
     <display-name>beIN SPORTS 3</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png"/>
+    <icon src="https://i.imgur.com/UYSMao3.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839">
@@ -100,7 +100,7 @@
   <channel id="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
     <display-name>beIN SPORTS 1</display-name>
     <url>https://beinsports.com</url>
-    <icon src="https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS1.png"/>
   </channel>
   <channel id="42680C3C-580F-43DA-BDD8-02651BD10F32">
     <display-name>beIN SPORTS 4 AFC</display-name>
@@ -121,7 +121,7 @@
   </channel>
   <channel id="beINSports5.qa@MENA">
     <display-name>beIN SPORTS 5</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS5.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="beINSportsAFC3.qa@SD">
@@ -131,7 +131,7 @@
   </channel>
   <channel id="beINSports7.qa@MENA">
     <display-name>beIN SPORTS 7</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS7.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="B0DBD19A-9F44-4197-BD09-2B6A5F315F3B">
@@ -148,7 +148,7 @@
   </channel>
   <channel id="beINSports4.qa@MENA">
     <display-name>beIN SPORTS 4</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS4.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="beINSportsMax6.qa@MENA">
@@ -163,7 +163,7 @@
   </channel>
   <channel id="beINSports6.qa@MENA">
     <display-name>beIN SPORTS 6</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS6.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="beINSportsAFC2.qa@SD">
@@ -178,7 +178,7 @@
   </channel>
   <channel id="beINSports2.qa@MENA">
     <display-name>beIN SPORTS 2</display-name>
-    <icon src="https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png"/>
+    <icon src="https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS2.png"/>
     <url>https://beinsports.com</url>
   </channel>
   <channel id="beINSports3.qa@France">
@@ -231,10 +231,6 @@
     <icon src="https://i.imgur.com/dMTBut1.png"/>
     <url>https://beinsports.com</url>
   </channel>
-  <programme start="20260413183000 +0000" stop="20260413200500 +0000" channel="5C08D9D3-C713-4F1F-947E-87C761428B9B">
-    <title lang="ar">Team - Round 2 - Longines Global Champions Tour - Rome, ITA</title>
-    <desc lang="ar">The decisive GCL Team Round 2. Reverse-order start from Round 1, with every rail and second counting toward the combined team total. Strategic rider swaps and cool heads over a technical track shape the podium and precious championship points in a high-stakes Roman finish.</desc>
-  </programme>
   <programme start="20260413200500 +0000" stop="20260413220000 +0000" channel="5C08D9D3-C713-4F1F-947E-87C761428B9B">
     <title lang="ar">CSI5 - Longines Global Champions Tour - Rome, ITA</title>
     <desc lang="ar">Top combinations tackle elite CSI5* classes at the Foro Italico. A technical track, tight time allowed and related lines test precision and power, with the fastest clears advancing to a jump-off. Expect fine margins, inside turns and bold strides as riders chase ranking points and momentum for the Grand Prix.</desc>
@@ -479,10 +475,6 @@
   <programme start="20260419185000 +0000" stop="20260419205959 +0000" channel="5C08D9D3-C713-4F1F-947E-87C761428B9B">
     <title lang="ar">Longines Global Champions Tour - Mexico City Jumping - Grand Prix</title>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413200000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
-    <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
-    <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
-  </programme>
   <programme start="20260413200000 +0000" stop="20260413210000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
@@ -579,7 +571,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260414190000 +0000" stop="20260414200000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
+  <programme start="20260414200000 +0000" stop="20260414210000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -687,7 +679,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
+  <programme start="20260415200000 +0000" stop="20260415210000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -795,7 +787,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260416190000 +0000" stop="20260416200000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
+  <programme start="20260416200000 +0000" stop="20260416210000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -895,7 +887,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -995,7 +987,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
+  <programme start="20260418200000 +0000" stop="20260418210000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -1095,7 +1087,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="7A8040D9-7BAF-477E-B9F7-8BAB88F677E8">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -1861,10 +1853,6 @@
     <title lang="ar">Crystal Palace vs West Ham United - English Premier League 2025/2026 Week 33</title>
     <desc lang="ar">All 380 matches from the English Premier league are live and exclusive only on beIN. All matches are available live with a choice of Arabic or English commentary. The season will consist of 33 weekends and five midweek rounds of matches. Liverpool are the defending champions, having won their second Premier League title.</desc>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413200000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
-    <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
-    <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
-  </programme>
   <programme start="20260413200000 +0000" stop="20260413210000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
@@ -1961,7 +1949,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260414190000 +0000" stop="20260414200000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
+  <programme start="20260414200000 +0000" stop="20260414210000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -2061,7 +2049,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
+  <programme start="20260415200000 +0000" stop="20260415210000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -2161,7 +2149,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260416190000 +0000" stop="20260416200000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
+  <programme start="20260416200000 +0000" stop="20260416210000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -2261,7 +2249,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -2361,7 +2349,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
+  <programme start="20260418200000 +0000" stop="20260418210000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -2461,7 +2449,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="9ABD32F9-C6D9-4DD5-B936-2C7E6546292E">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -2601,10 +2589,6 @@
     <title lang="ar">Arsenal vs Sporting Portugal - Champions League - QR - Football 2025-2026</title>
     <desc lang="ar">Sport, Football. Les passionnes de football du monde entier sont invites a suivre l'une des compétitions les plus prestigieuses: la Ligue des champions. Avec les plus grands clubs européens en quête du titre ultime, le spectacle est garanti du debut a la fin</desc>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413200000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
-    <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
-    <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
-  </programme>
   <programme start="20260413200000 +0000" stop="20260413210000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
@@ -2701,7 +2685,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260414190000 +0000" stop="20260414200000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
+  <programme start="20260414200000 +0000" stop="20260414210000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -2801,7 +2785,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
+  <programme start="20260415200000 +0000" stop="20260415210000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -2901,7 +2885,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260416190000 +0000" stop="20260416200000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
+  <programme start="20260416200000 +0000" stop="20260416210000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -3001,7 +2985,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -3101,7 +3085,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
+  <programme start="20260418200000 +0000" stop="20260418210000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -3201,16 +3185,13 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
   <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="51D28C47-7B79-4007-81A3-BFDF9BC65A3B">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
-  </programme>
-  <programme start="20260413193000 +0000" stop="20260413200000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398">
-    <title lang="ar">EN MLB Plays of the Week 2026 | E1</title>
   </programme>
   <programme start="20260413200000 +0000" stop="20260413230000 +0000" channel="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398">
     <title lang="ar">HOU vs SEA - MLB - 2026</title>
@@ -3671,10 +3652,6 @@
     <title lang="ar">Deportivo vs Mirandes - LaLiga Hypermotion 2025-2026 - Spanish La liga 2</title>
     <desc lang="ar">La Liga 2 is the men's second professional association football division of the Spanish football league system. It is contested by 22 teams, with the top two teams plus the winner of a play-off promoted to La Liga and replaced by the three lowest-placed teams in that division.</desc>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413200000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
-    <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
-    <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
-  </programme>
   <programme start="20260413200000 +0000" stop="20260413210000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
@@ -3771,7 +3748,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260414190000 +0000" stop="20260414200000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
+  <programme start="20260414200000 +0000" stop="20260414210000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -3871,7 +3848,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
+  <programme start="20260415200000 +0000" stop="20260415210000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -3971,7 +3948,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260416190000 +0000" stop="20260416200000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
+  <programme start="20260416200000 +0000" stop="20260416210000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -4071,7 +4048,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -4171,7 +4148,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
+  <programme start="20260418200000 +0000" stop="20260418210000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -4271,7 +4248,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="1752F091-A114-4629-BED4-46E0BB488A24">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -4283,21 +4260,17 @@
     <title lang="ar">Manchester United vs Leeds United - English Premier League 2025/2026 Week 32</title>
     <desc lang="ar">Manchester United are unbeaten in their last 18 home league games against Leeds since a 1-0 loss in February 1981 under Dave Sexton. Following their 1-1 draw at Elland Road in January, Leeds are looking to avoid losing both league meetings with Manchester United in a season for the first time since 1994-95.</desc>
   </programme>
-  <programme start="20260413213000 +0000" stop="20260414004500 +0000" channel="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
+  <programme start="20260413213000 +0000" stop="20260414013000 +0000" channel="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
     <title lang="ar">Al Ahli Saudi FC (KSA) vs Al Duhail SC (QAT) - AFC Champions League Elite 2025/2026</title>
     <desc lang="ar">Al Duhail vs Al Ahli At 2-3-2026, MECCA 21:15, GMT 18:15 AFC Champions League Elite Season 2025/2026 Round Of 16 Abdullah bin Khalifa Stadium Stadium</desc>
   </programme>
-  <programme start="20260414004500 +0000" stop="20260414040000 +0000" channel="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
+  <programme start="20260414013000 +0000" stop="20260414043000 +0000" channel="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
     <title lang="ar">Manchester United vs Leeds United - English Premier League 2025/2026 Week 32</title>
     <desc lang="ar">Manchester United are unbeaten in their last 18 home league games against Leeds since a 1-0 loss in February 1981 under Dave Sexton. Following their 1-1 draw at Elland Road in January, Leeds are looking to avoid losing both league meetings with Manchester United in a season for the first time since 1994-95.</desc>
   </programme>
-  <programme start="20260414040000 +0000" stop="20260414043000 +0000" channel="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
+  <programme start="20260414043000 +0000" stop="20260414050000 +0000" channel="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
     <title lang="ar">Ligue 1 Weekly Review - 2025/2026</title>
     <desc lang="ar">Each Ligue 1 Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.</desc>
-  </programme>
-  <programme start="20260414043000 +0000" stop="20260414050000 +0000" channel="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
-    <title lang="ar">Al Ahli Saudi FC (KSA) vs Al Duhail SC (QAT) - AFC Champions League Elite 2025/2026 - R16 1st Leg</title>
-    <desc lang="ar">The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each). All games are live and exclusive only on beIN</desc>
   </programme>
   <programme start="20260414050000 +0000" stop="20260414053000 +0000" channel="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C">
     <title lang="ar">NBA Action 2025/2026</title>
@@ -4915,10 +4888,6 @@
     <title lang="ar">PSG vs Lyon - French Ligue 1 2025/2026 Week 30</title>
     <desc lang="ar">France's premier football competition, Ligue 1, is available live and exclusive only on beIN. The 2025–26 Ligue 1 season runs from 15 August 2025 until 16 May 2026.</desc>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413200000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
-    <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
-    <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
-  </programme>
   <programme start="20260413200000 +0000" stop="20260413210000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
@@ -5015,7 +4984,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260414190000 +0000" stop="20260414200000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
+  <programme start="20260414200000 +0000" stop="20260414210000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -5115,7 +5084,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
+  <programme start="20260415200000 +0000" stop="20260415210000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -5215,7 +5184,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260416190000 +0000" stop="20260416200000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
+  <programme start="20260416200000 +0000" stop="20260416210000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -5315,7 +5284,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -5415,7 +5384,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
+  <programme start="20260418200000 +0000" stop="20260418210000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -5515,7 +5484,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="522050CE-EBD3-43EA-B636-42B034FDC05C">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -5879,9 +5848,9 @@
     <title lang="ar">Liverpool vs. Fulham - English Premier League 2026/2027</title>
     <desc lang="ar">Liverpool are winless in their last three Premier League games against Fulham. Only once have they had a longer run without a league win against the Cottagers. Fulham have won just two of their 32 away league games against Liverpool, winning 1-0 in both May 2012 and March 2021.</desc>
   </programme>
-  <programme start="20260417181000 +0000" stop="20260417200000 +0000" channel="beIN4K.qa@SD">
-    <title lang="ar">Liverpool vs. Fulham - English Premier League 2026/2027</title>
-    <desc lang="ar">Liverpool are winless in their last three Premier League games against Fulham. Only once have they had a longer run without a league win against the Cottagers. Fulham have won just two of their 32 away league games against Liverpool, winning 1-0 in both May 2012 and March 2021.</desc>
+  <programme start="20260417200000 +0000" stop="20260418183000 +0000" channel="beIN4K.qa@SD">
+    <title lang="ar">Chelsea vs. Manchester City - English Premier League 2026/2027</title>
+    <desc lang="ar">Chelsea are winless in their last nine Premier League games against Man City since a 2-1 away win in May 2021. Manchester City have won four of their last five away Premier League games against Chelsea, as many as they had in their previous 26 league visits to Stamford Bridge.</desc>
   </programme>
   <programme start="20260417200000 +0000" stop="20260418183000 +0000" channel="beIN4K.qa@SD">
     <title lang="ar">Chelsea vs. Manchester City - English Premier League 2026/2027</title>
@@ -6275,9 +6244,9 @@
     <title lang="ar">Barcelona vs Espanyol - Spanish LaLiga 2025/26 - Week 31</title>
     <desc lang="ar">FC Barcelona are unbeaten in their last 29 LaLiga matches against Espanyol, their longest unbeaten run against a single opponent and the longest unbeaten run by a team in any derby in the competition's history. RCD Espanyol have not won an away LaLiga match against FC Barcelona since February 2009 under Mauricio Pochettino. Since then, Espanyol have only picked up one point in their following 14 visits to the Camp Nou in the competition : a 1-1 draw in December 2022.</desc>
   </programme>
-  <programme start="20260415174500 +0000" stop="20260415194500 +0000" channel="beINSports3.qa@MENA">
-    <title lang="ar">Barcelona vs Espanyol - Spanish LaLiga 2025/26 - Week 31</title>
-    <desc lang="ar">FC Barcelona are unbeaten in their last 29 LaLiga matches against Espanyol, their longest unbeaten run against a single opponent and the longest unbeaten run by a team in any derby in the competition's history. RCD Espanyol have not won an away LaLiga match against FC Barcelona since February 2009 under Mauricio Pochettino. Since then, Espanyol have only picked up one point in their following 14 visits to the Camp Nou in the competition : a 1-1 draw in December 2022.</desc>
+  <programme start="20260415194500 +0000" stop="20260415215000 +0000" channel="beINSports3.qa@MENA">
+    <title lang="ar">Sevilla vs Atlético de Madrid - Spanish LaLiga 2025/26 - Week 31</title>
+    <desc lang="ar">Sevilla FC have won three of their last five home games against Atlético de Madrid in LaLiga, after managing just one victory in their previous nine home meetings in the competition. Club Atlético de Madrid have won six of their last seven LaLiga matches against Sevilla, achieving as many victories as in their previous 17 top-flight encounters.</desc>
   </programme>
   <programme start="20260415194500 +0000" stop="20260415215000 +0000" channel="beINSports3.qa@MENA">
     <title lang="ar">Sevilla vs Atlético de Madrid - Spanish LaLiga 2025/26 - Week 31</title>
@@ -6387,8 +6356,8 @@
     <title lang="ar">Real Madrid CF vs Paris Saint-Germain - UEFA Youth League - 2025/2026</title>
     <desc lang="ar">The UEFA Youth League features the under-19 teams of the clubs competing in the UEFA Champions League phase, plus the domestic youth champions of the best-ranked national associations.</desc>
   </programme>
-  <programme start="20260417173500 +0000" stop="20260417200000 +0000" channel="beINSports3.qa@MENA">
-    <title lang="ar">Real Madrid CF vs Paris Saint-Germain - UEFA Youth League - 2025/2026</title>
+  <programme start="20260417200000 +0000" stop="20260417220000 +0000" channel="beINSports3.qa@MENA">
+    <title lang="ar">Benfica vs Club Brugge - UEFA Youth League - 2025/2026</title>
     <desc lang="ar">The UEFA Youth League features the under-19 teams of the clubs competing in the UEFA Champions League phase, plus the domestic youth champions of the best-ranked national associations.</desc>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417220000 +0000" channel="beINSports3.qa@MENA">
@@ -6463,29 +6432,25 @@
     <title lang="en">Ligue 1 legends (Rai + Neymar) PSG PREVIOUS BRAZILIAN STARS Rai &amp; Neymar</title>
     <desc lang="en">Many legends have had unforgettable competitions in French stadiums. In this program, we show you the best moments of Paris Saint-Germain stars Rai and Neymar.</desc>
   </programme>
-  <programme start="20260413210000 +0000" stop="20260413224700 +0000" channel="beINSports4.qa@MENA">
+  <programme start="20260413210000 +0000" stop="20260413225900 +0000" channel="beINSports4.qa@MENA">
     <title lang="en">Al-Shamal vs Qatar SC - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
-  <programme start="20260413224700 +0000" stop="20260414003000 +0000" channel="beINSports4.qa@MENA">
+  <programme start="20260413225900 +0000" stop="20260414004500 +0000" channel="beINSports4.qa@MENA">
     <title lang="en">Rodez vs Troyes - French Ligue 2 - 2025/2026</title>
     <desc lang="en">Ligue 2 is the second division of French football. Ligue 2 is contested by 18 clubs, the league operates on a system of promotion and relegation with both Ligue 1 and the third division Championnat National. The teams play 34 games each, totaling 306 games in the season. The biggest games from each match Day are live and exclusive on beIN.</desc>
   </programme>
-  <programme start="20260414003000 +0000" stop="20260414012500 +0000" channel="beINSports4.qa@MENA">
+  <programme start="20260414004500 +0000" stop="20260414014000 +0000" channel="beINSports4.qa@MENA">
     <title lang="en">UEL/UECL Magazine 2025/2026 - UEL MD13 Review + UECL MD11 Review + UEL MD14 + UECL MD12 Preview</title>
     <desc lang="en">A preview of the UEFA Europa League and the UEFA Conference League fixtures. Both competitions are live and exclusive only on beIN.</desc>
   </programme>
-  <programme start="20260414012500 +0000" stop="20260414031400 +0000" channel="beINSports4.qa@MENA">
+  <programme start="20260414014000 +0000" stop="20260414033000 +0000" channel="beINSports4.qa@MENA">
     <title lang="en">Olympique Marseille vs Metz - French Ligue 1 2025/2026 Week 29</title>
     <desc lang="en">Marseille have scored 2.4 goals per game against Metz at home in Ligue 1, their highest average against opponents hosted at least 15 times in the top-flight. Only against St Étienne have OM scored more goals at home in Ligue 1. Marseille have taken just 17 points in Ligue 1 this year, fewer than any other team currently in the top half of the table. In 2026, no team has kept fewer clean sheets than OM in the top-flight.</desc>
   </programme>
-  <programme start="20260414031400 +0000" stop="20260414050000 +0000" channel="beINSports4.qa@MENA">
+  <programme start="20260414033000 +0000" stop="20260414053000 +0000" channel="beINSports4.qa@MENA">
     <title lang="en">Auxerre vs Nantes - French Ligue 1 2025/2026 Week 29</title>
     <desc lang="en">Auxerre have conceded at least one goal in each of their last 12 matches against Nantes in all competitions, since a 1-0 victory on 1 October 2006 in Ligue 1. Auxerre have picked up 11 points in nine Ligue 1 matches since the start of February, seven more points than Nantes over the same period and only one fewer than they managed in their first 19 matches of the season.</desc>
-  </programme>
-  <programme start="20260414050000 +0000" stop="20260414053000 +0000" channel="beINSports4.qa@MENA">
-    <title lang="en">Ligue 1 Weekly Review - 2025/2026</title>
-    <desc lang="en">Each Ligue 1 Match week is condensed into a 52-minute highlights show. Every game, goal, penalty, red card and everything in between is squeezed into an action-packed hour to ensure no football fan misses a kick across the game season.</desc>
   </programme>
   <programme start="20260414053000 +0000" stop="20260414071900 +0000" channel="beINSports4.qa@MENA">
     <title lang="en">Rennes vs Angers SCO - French Ligue 1 2025/2026 Week 29</title>
@@ -6979,21 +6944,17 @@
     <title lang="en">Thailand vs South Korea - AFC U20 Women's Asian Cup Thailand 2026</title>
     <desc lang="en">The 2026 AFC U-20 Women's Asian Cup takes place in Thailand between 1-18 April. The biennial international youth football championship is organised by the Asian Football Confederation (AFC) for the women's under-20 national teams of Asia.</desc>
   </programme>
-  <programme start="20260414133300 +0000" stop="20260414142200 +0000" channel="beINSports5.qa@MENA">
+  <programme start="20260414133300 +0000" stop="20260414142500 +0000" channel="beINSports5.qa@MENA">
     <title lang="en">UEL/UECL Magazine 2025/2026 - UEL MD13 Review + UECL MD11 Review + UEL MD14 + UECL MD12 Preview</title>
     <desc lang="en">A preview of the UEFA Europa League and the UEFA Conference League fixtures. Both competitions are live and exclusive only on beIN.</desc>
   </programme>
-  <programme start="20260414142200 +0000" stop="20260414160900 +0000" channel="beINSports5.qa@MENA">
+  <programme start="20260414142500 +0000" stop="20260414165800 +0000" channel="beINSports5.qa@MENA">
     <title lang="en">Al Ahli Saudi FC (KSA) vs Al Duhail SC (QAT) - AFC Champions League Elite 2025/2026</title>
     <desc lang="en">Al Duhail vs Al Ahli At 2-3-2026, MECCA 21:15, GMT 18:15 AFC Champions League Elite Season 2025/2026 Round Of 16 Abdullah bin Khalifa Stadium Stadium</desc>
   </programme>
-  <programme start="20260414160900 +0000" stop="20260414180000 +0000" channel="beINSports5.qa@MENA">
+  <programme start="20260414165800 +0000" stop="20260414185000 +0000" channel="beINSports5.qa@MENA">
     <title lang="en">Al Hilal SFC (KSA) vs Al Sadd SC (QAT) - AFC Champions League Elite 2025/2026</title>
     <desc lang="en">Al Sadd vs Al Hilal At 3-3-2026, MECCA 21:15, GMT 18:15 AFC Champions League Elite Season 2025/2026 Round Of 16 Jassim Bin Hamad Stadium Stadium</desc>
-  </programme>
-  <programme start="20260414180000 +0000" stop="20260414185000 +0000" channel="beINSports5.qa@MENA">
-    <title lang="en">UEL/UECL Magazine 2025/2026 - UEL MD13 Review + UECL MD11 Review + UEL MD14 + UECL MD12 Preview</title>
-    <desc lang="en">A preview of the UEFA Europa League and the UEFA Conference League fixtures. Both competitions are live and exclusive only on beIN.</desc>
   </programme>
   <programme start="20260414185000 +0000" stop="20260414210000 +0000" channel="beINSports5.qa@MENA">
     <title lang="en">Portsmouth vs Ipswich - EFL - English Football League SkyBet - Championship 2025/2026</title>
@@ -7275,9 +7236,9 @@
     <title lang="en">Bastia vs Stvsetienne - French Ligue 2 - 2025/2026</title>
     <desc lang="en">Ligue 2 is the second division of French football. Ligue 2 is contested by 18 clubs, the league operates on a system of promotion and relegation with both Ligue 1 and the third division Championnat National. The teams play 34 games each, totaling 306 games in the season. The biggest games from each match Day are live and exclusive on beIN.</desc>
   </programme>
-  <programme start="20260418175000 +0000" stop="20260418200000 +0000" channel="beINSports5.qa@MENA">
-    <title lang="en">Bastia vs Stvsetienne - French Ligue 2 - 2025/2026</title>
-    <desc lang="en">Ligue 2 is the second division of French football. Ligue 2 is contested by 18 clubs, the league operates on a system of promotion and relegation with both Ligue 1 and the third division Championnat National. The teams play 34 games each, totaling 306 games in the season. The biggest games from each match Day are live and exclusive on beIN.</desc>
+  <programme start="20260418200000 +0000" stop="20260418203000 +0000" channel="beINSports5.qa@MENA">
+    <title lang="en">EPL Stories 2025/2026</title>
+    <desc lang="en">Showcasing the personalities who have shaped the Premier League era, in each episode we tell their unique story that will be sure to engage and entertain all fans.</desc>
   </programme>
   <programme start="20260418200000 +0000" stop="20260418203000 +0000" channel="beINSports5.qa@MENA">
     <title lang="en">EPL Stories 2025/2026</title>
@@ -7359,10 +7320,6 @@
     <title lang="en">Al Ahli (KSA)/Al Duhail (QAT) vs Johor Darul Ta’zim (MAS)- AFC Champions League Elite 2025/2026 - QF</title>
     <desc lang="en">The AFC Champions League Elite is contested by Asia's top-division football clubs. It is the most prestigious club competition in Asian football, played by the national league champions. A total of 24 clubs compete in the league stage of the competition, divided into East and West regions (12 teams each). All games are live and exclusive only on beIN</desc>
   </programme>
-  <programme start="20260413180000 +0000" stop="20260413200000 +0000" channel="beINSports6.qa@MENA">
-    <title lang="en">Auxerre vs Nantes - French Ligue 1 2025/2026 Week 29</title>
-    <desc lang="en">Auxerre have conceded at least one goal in each of their last 12 matches against Nantes in all competitions, since a 1-0 victory on 1 October 2006 in Ligue 1. Auxerre have picked up 11 points in nine Ligue 1 matches since the start of February, seven more points than Nantes over the same period and only one fewer than they managed in their first 19 matches of the season.</desc>
-  </programme>
   <programme start="20260413200000 +0000" stop="20260413220000 +0000" channel="beINSports6.qa@MENA">
     <title lang="en">Luton Town vs Stockport County - EFL Vertu Trophy Final - 2026</title>
     <desc lang="en">EFL - English Football League - Championship 2023/24</desc>
@@ -7411,8 +7368,8 @@
     <title lang="en">SUI v CZE - Doubles - Billie Jean King Cup Qualifiers - 2026 - Switzerland - Swiss Tennis Arena, Bie</title>
     <desc lang="en">Billie Jean King Cup Qualifiers 2026 sees 14 national teams competing in home-and-away ties across two days, with each tie decided by a best-of-five format. The seven winning nations secure their place in the Finals in Shenzhen, joining the host nation, while the remaining teams move to the play-offs. As the premier international women’s team tennis competition, the event showcases top players representing their countries in a high-stakes pathway to the title.</desc>
   </programme>
-  <programme start="20260414171500 +0000" stop="20260414194800 +0000" channel="beINSports6.qa@MENA">
-    <title lang="en">SUI v CZE - Doubles - Billie Jean King Cup Qualifiers - 2026 - Switzerland - Swiss Tennis Arena, Bie</title>
+  <programme start="20260414194800 +0000" stop="20260414220000 +0000" channel="beINSports6.qa@MENA">
+    <title lang="en">SUI v CZE - Singles - Billie Jean King Cup Qualifiers - 2026 - Switzerland - Swiss Tennis Arena, Bie</title>
     <desc lang="en">Billie Jean King Cup Qualifiers 2026 sees 14 national teams competing in home-and-away ties across two days, with each tie decided by a best-of-five format. The seven winning nations secure their place in the Finals in Shenzhen, joining the host nation, while the remaining teams move to the play-offs. As the premier international women’s team tennis competition, the event showcases top players representing their countries in a high-stakes pathway to the title.</desc>
   </programme>
   <programme start="20260414194800 +0000" stop="20260414220000 +0000" channel="beINSports6.qa@MENA">
@@ -7456,8 +7413,9 @@
   <programme start="20260415180000 +0000" stop="20260415200000 +0000" channel="beINSports6.qa@MENA">
     <title lang="en">SUI v CZE - Singles - Billie Jean King Cup Qualifiers - 2026 - Switzerland - Swiss Tennis Arena, Bie</title>
   </programme>
-  <programme start="20260415180000 +0000" stop="20260415200000 +0000" channel="beINSports6.qa@MENA">
-    <title lang="en">SUI v CZE - Singles - Billie Jean King Cup Qualifiers - 2026 - Switzerland - Swiss Tennis Arena, Bie</title>
+  <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="beINSports6.qa@MENA">
+    <title lang="en">Birmingham City vs Wrexham - EFL - English Football League SkyBet - Championship 2025/2026</title>
+    <desc lang="en">Live and exclusive coverage only on beIN of the 2025–2026 EFL Championship. The EFL Championship is the second tier in the English Football league system. The season will run from 8 August 2025 until 2 May 2026.</desc>
   </programme>
   <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="beINSports6.qa@MENA">
     <title lang="en">Birmingham City vs Wrexham - EFL - English Football League SkyBet - Championship 2025/2026</title>
@@ -7595,10 +7553,6 @@
     <title lang="en">Trabzon vs Basaksehir - Turkish Super League - MD 30 - 2025-2026</title>
     <desc lang="en">The Turkish Süper Lig is the top-flight competition of the Turkish football league system and is live and exclusive on beIN SPORTS. The season runs from August to May, with each club playing 38 matches. Matches are played Friday through to Monday. Galatasaray are the current Champions.</desc>
   </programme>
-  <programme start="20260413180000 +0000" stop="20260413200000 +0000" channel="beINSports7.qa@MENA">
-    <title lang="en">Ignacio Buse (PER) Vs Corentin Moutet (FRA) - Day 1 - ATP 500 Barcelona Open Banc Sabadell 2026</title>
-    <desc lang="en">Held from 13–19 April at the Real Club de Tennis Barcelona, this ATP 500 clay-court event marks a key stage of the European clay swing. Featuring a 32-player singles draw, it offers around €2.8m in prize money, with top-ranked players competing for 500 ranking points ahead of the major clay-court tournaments.</desc>
-  </programme>
   <programme start="20260413200000 +0000" stop="20260413223500 +0000" channel="beINSports7.qa@MENA">
     <title lang="en">Tomas Martin Etcheverry (ARG) Vs Jack Draper (GBR) - Day 1 - ATP 500 Barcelona Open Banc Sabadell 20</title>
     <desc lang="en">Held from 13–19 April at the Real Club de Tennis Barcelona, this ATP 500 clay-court event marks a key stage of the European clay swing. Featuring a 32-player singles draw, it offers around €2.8m in prize money, with top-ranked players competing for 500 ranking points ahead of the major clay-court tournaments.</desc>
@@ -7651,8 +7605,8 @@
     <title lang="en">Alex De Minaur (AUS) vs Sebastian Ofner (AUT) - Day 2 - ATP 500 Barcelona Open Banc Sabadell 2026</title>
     <desc lang="en">Held from 13–19 April at the Real Club de Tennis Barcelona, this ATP 500 clay-court event marks a key stage of the European clay swing. Featuring a 32-player singles draw, it offers around €2.8m in prize money, with top-ranked players competing for 500 ranking points ahead of the major clay-court tournaments.</desc>
   </programme>
-  <programme start="20260414180000 +0000" stop="20260414200000 +0000" channel="beINSports7.qa@MENA">
-    <title lang="en">Alex De Minaur (AUS) vs Sebastian Ofner (AUT) - Day 2 - ATP 500 Barcelona Open Banc Sabadell 2026</title>
+  <programme start="20260414200000 +0000" stop="20260414220000 +0000" channel="beINSports7.qa@MENA">
+    <title lang="en">Martin Landaluce (ESP) vs Lorenzo Musetti (ITA) - Day 2 - ATP 500 Barcelona Open Banc Sabadell 2026</title>
     <desc lang="en">Held from 13–19 April at the Real Club de Tennis Barcelona, this ATP 500 clay-court event marks a key stage of the European clay swing. Featuring a 32-player singles draw, it offers around €2.8m in prize money, with top-ranked players competing for 500 ranking points ahead of the major clay-court tournaments.</desc>
   </programme>
   <programme start="20260414200000 +0000" stop="20260414220000 +0000" channel="beINSports7.qa@MENA">
@@ -7711,7 +7665,7 @@
     <title lang="en">Day 3 - ATP 500 Barcelona Open Banc Sabadell 2026</title>
     <desc lang="en">Held from 13–19 April at the Real Club de Tennis Barcelona, this ATP 500 clay-court event marks a key stage of the European clay swing. Featuring a 32-player singles draw, it offers around €2.8m in prize money, with top-ranked players competing for 500 ranking points ahead of the major clay-court tournaments.</desc>
   </programme>
-  <programme start="20260415180000 +0000" stop="20260415200000 +0000" channel="beINSports7.qa@MENA">
+  <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="beINSports7.qa@MENA">
     <title lang="en">Day 3 - ATP 500 Barcelona Open Banc Sabadell 2026</title>
     <desc lang="en">Held from 13–19 April at the Real Club de Tennis Barcelona, this ATP 500 clay-court event marks a key stage of the European clay swing. Featuring a 32-player singles draw, it offers around €2.8m in prize money, with top-ranked players competing for 500 ranking points ahead of the major clay-court tournaments.</desc>
   </programme>
@@ -7827,7 +7781,7 @@
     <title lang="en">Day 5 - ATP 500 Barcelona Open Banc Sabadell 2026</title>
     <desc lang="en">Held from 13–19 April at the Real Club de Tennis Barcelona, this ATP 500 clay-court event marks a key stage of the European clay swing. Featuring a 32-player singles draw, it offers around €2.8m in prize money, with top-ranked players competing for 500 ranking points ahead of the major clay-court tournaments.</desc>
   </programme>
-  <programme start="20260417180000 +0000" stop="20260417200000 +0000" channel="beINSports7.qa@MENA">
+  <programme start="20260417200000 +0000" stop="20260417220000 +0000" channel="beINSports7.qa@MENA">
     <title lang="en">Day 5 - ATP 500 Barcelona Open Banc Sabadell 2026</title>
     <desc lang="en">Held from 13–19 April at the Real Club de Tennis Barcelona, this ATP 500 clay-court event marks a key stage of the European clay swing. Featuring a 32-player singles draw, it offers around €2.8m in prize money, with top-ranked players competing for 500 ranking points ahead of the major clay-court tournaments.</desc>
   </programme>
@@ -7975,6 +7929,10 @@
     <title lang="en">Final - Day 7 - ATP 500 Barcelona Open Banc Sabadell 2026</title>
     <desc lang="en">Held from 13–19 April at the Real Club de Tennis Barcelona, this ATP 500 clay-court event marks a key stage of the European clay swing. Featuring a 32-player singles draw, it offers around €2.8m in prize money, with top-ranked players competing for 500 ranking points ahead of the major clay-court tournaments.</desc>
   </programme>
+  <programme start="20260420200000 +0000" stop="20260420210000 +0000" channel="beINSports7.qa@MENA">
+    <title lang="en">Australian Open Official Film "The Score"</title>
+    <desc lang="en">The Score, the official 2026 Australian Open tournament film (AO26), highlights the tournament's, key moments, players, and, drama, featuring, behind-the-scenes, action. It also showcases, the, ",symphony, of the Australian Open".</desc>
+  </programme>
   <programme start="20260413192000 +0000" stop="20260413210000 +0000" channel="beINSports8.qa@MENA">
     <title lang="en">Granada Vs Cultural Leonesa - LaLiga Hypermotion 2025-2026 - Spanish La liga 2</title>
     <desc lang="en">La Liga 2 is the men's second professional association football division of the Spanish football league system. It is contested by 22 teams, with the top two teams plus the winner of a play-off promoted to La Liga and replaced by the three lowest-placed teams in that division.</desc>
@@ -7983,11 +7941,11 @@
     <title lang="en">World Athletics Race Walking Team Championships</title>
     <desc lang="en">The World Athletics Indoor Championships bring together the world’s leading male and female athletes, representing over 100 nations, including Olympic and world medalists. Over three days of elite indoor competition, athletes compete for world titles while aiming to deliver outstanding performances and challenge global records.</desc>
   </programme>
-  <programme start="20260414012000 +0000" stop="20260414050100 +0000" channel="beINSports8.qa@MENA">
+  <programme start="20260414012000 +0000" stop="20260414051500 +0000" channel="beINSports8.qa@MENA">
     <title lang="en">World Athletics Race Walking Team Championships</title>
     <desc lang="en">The World Athletics Indoor Championships bring together the world’s leading male and female athletes, representing over 100 nations, including Olympic and world medalists. Over three days of elite indoor competition, athletes compete for world titles while aiming to deliver outstanding performances and challenge global records.</desc>
   </programme>
-  <programme start="20260414050100 +0000" stop="20260414070000 +0000" channel="beINSports8.qa@MENA">
+  <programme start="20260414051500 +0000" stop="20260414070000 +0000" channel="beINSports8.qa@MENA">
     <title lang="en">Denver vs San Antonio - NBA Season 2025–2026</title>
     <desc lang="en">Live and Exclusive coverage on beIN of The National Basketball Association, The NBA. The NBA comprises of 30 teams and is one of the major professional sports leagues in the United States and Canada and is the premier professional basketball league in the world.</desc>
   </programme>
@@ -8027,8 +7985,8 @@
     <title lang="en">Marta Talavan (ESP) / Sofia Saiz Vallejo (ESP) Vs Mora Hakim (EGY) / Laila El Nimr (EGY) - Day 2 -Wo</title>
     <desc lang="en">Held in Giza from 13–18 April, the NewGiza P2 is part of the Qatar Airways Premier Padel Tour, featuring top-ranked men’s and women’s pairs competing at the NewGiza Sports Club. The event offers a total prize purse of €250,000, with players competing for ranking points and titles in a key stop of the early-season circuit.</desc>
   </programme>
-  <programme start="20260414183000 +0000" stop="20260414200000 +0000" channel="beINSports8.qa@MENA">
-    <title lang="en">Marta Talavan (ESP) / Sofia Saiz Vallejo (ESP) Vs Mora Hakim (EGY) / Laila El Nimr (EGY) - Day 2 -Wo</title>
+  <programme start="20260414200000 +0000" stop="20260414213000 +0000" channel="beINSports8.qa@MENA">
+    <title lang="en">Alix Collombon (FRA) / Jana Montes Cabruja (ESP) Vs Lara Arruabarrena (ESP) / Marina Lobo (ESP) - Da</title>
     <desc lang="en">Held in Giza from 13–18 April, the NewGiza P2 is part of the Qatar Airways Premier Padel Tour, featuring top-ranked men’s and women’s pairs competing at the NewGiza Sports Club. The event offers a total prize purse of €250,000, with players competing for ranking points and titles in a key stop of the early-season circuit.</desc>
   </programme>
   <programme start="20260414200000 +0000" stop="20260414213000 +0000" channel="beINSports8.qa@MENA">
@@ -8099,8 +8057,8 @@
     <title lang="en">Day 3 - Women’s Premier Padel - Newgiza P2 2026</title>
     <desc lang="en">Held in Giza from 13–18 April, the NewGiza P2 is part of the Qatar Airways Premier Padel Tour, featuring top-ranked men’s and women’s pairs competing at the NewGiza Sports Club. The event offers a total prize purse of €250,000, with players competing for ranking points and titles in a key stop of the early-season circuit.</desc>
   </programme>
-  <programme start="20260415183000 +0000" stop="20260415200000 +0000" channel="beINSports8.qa@MENA">
-    <title lang="en">Day 3 - Women’s Premier Padel - Newgiza P2 2026</title>
+  <programme start="20260415200000 +0000" stop="20260415213000 +0000" channel="beINSports8.qa@MENA">
+    <title lang="en">Day 3 - Women’s - Premier Padel - Newgiza P2 2026</title>
     <desc lang="en">Held in Giza from 13–18 April, the NewGiza P2 is part of the Qatar Airways Premier Padel Tour, featuring top-ranked men’s and women’s pairs competing at the NewGiza Sports Club. The event offers a total prize purse of €250,000, with players competing for ranking points and titles in a key stop of the early-season circuit.</desc>
   </programme>
   <programme start="20260415200000 +0000" stop="20260415213000 +0000" channel="beINSports8.qa@MENA">
@@ -8243,9 +8201,9 @@
     <title lang="en">Playoffs SF Leg 1 - Marmara Spike ligue Volleyball - 2026</title>
     <desc lang="en">France’s top men’s volleyball competition, the LNV Ligue A Masculine (Marmara SpikeLigue), delivers a season of elite clubs battling through a home-and-away league before the playoffs. Expect big serving, quick middle attacks, and high-level defense as teams chase points, seeding and the national title in a prime-time French showcase.</desc>
   </programme>
-  <programme start="20260417175500 +0000" stop="20260417200000 +0000" channel="beINSports8.qa@MENA">
-    <title lang="en">Playoffs SF Leg 1 - Marmara Spike ligue Volleyball - 2026</title>
-    <desc lang="en">France’s top men’s volleyball competition, the LNV Ligue A Masculine (Marmara SpikeLigue), delivers a season of elite clubs battling through a home-and-away league before the playoffs. Expect big serving, quick middle attacks, and high-level defense as teams chase points, seeding and the national title in a prime-time French showcase.</desc>
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="beINSports8.qa@MENA">
+    <title lang="en">SF - Men’s - Premier Padel - Newgiza P2 2026</title>
+    <desc lang="en">Held in Giza from 13–18 April, the NewGiza P2 is part of the Qatar Airways Premier Padel Tour, featuring top-ranked men’s and women’s pairs competing at the NewGiza Sports Club. The event offers a total prize purse of €250,000, with players competing for ranking points and titles in a key stop of the early-season circuit.</desc>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="beINSports8.qa@MENA">
     <title lang="en">SF - Men’s - Premier Padel - Newgiza P2 2026</title>
@@ -8305,67 +8263,71 @@
   <programme start="20260419074000 +0000" stop="20260419205959 +0000" channel="beINSports8.qa@MENA">
     <title lang="en">Race 2 - Imola Round - Porsche Cup Germany</title>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413213000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260413190000 +0000" stop="20260413211500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al-Shamal vs Qatar SC - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
-  <programme start="20260413213000 +0000" stop="20260413233000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260413211500 +0000" stop="20260413233000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al Arabi vs Al-Sailiya - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
-  <programme start="20260413233000 +0000" stop="20260414011200 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260413233000 +0000" stop="20260414010000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Paris vs Saint-Raphaël - LNH Division 1 - French Handball Starligue</title>
     <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
   </programme>
-  <programme start="20260414011200 +0000" stop="20260414023000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414010000 +0000" stop="20260414020000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Montpellier vs Dunkirk - LNH Division 1 - French Handball Starligue</title>
     <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
   </programme>
-  <programme start="20260414023000 +0000" stop="20260414043000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414020000 +0000" stop="20260414023000 +0000" channel="beINSports.qa@MENA">
+    <title lang="en">ATP Tour - Magazine 2026</title>
+    <desc lang="en">ATP Tour This Week It is comprised of the various feature stories created by ATP Media and ATP Tour</desc>
+  </programme>
+  <programme start="20260414023000 +0000" stop="20260414041500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Toulouse vs Poitiers - Marmara Spike ligue Volleyball - 2026</title>
     <desc lang="en">France’s top men’s volleyball competition, the LNV Ligue A Masculine (Marmara SpikeLigue), delivers a season of elite clubs battling through a home-and-away league before the playoffs. Expect big serving, quick middle attacks, and high-level defense as teams chase points, seeding and the national title in a prime-time French showcase.</desc>
   </programme>
-  <programme start="20260414043000 +0000" stop="20260414063000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414041500 +0000" stop="20260414063000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al-Shamal vs Qatar SC - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
-  <programme start="20260414063000 +0000" stop="20260414083000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414063000 +0000" stop="20260414084500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al Arabi vs Al-Sailiya - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
-  <programme start="20260414083000 +0000" stop="20260414100100 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414084500 +0000" stop="20260414101500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Nîmes vs Aix - LNH Division 1 - French Handball Starligue</title>
     <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
   </programme>
-  <programme start="20260414100100 +0000" stop="20260414114700 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414101500 +0000" stop="20260414113000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Paris vs Saint-Raphaël - LNH Division 1 - French Handball Starligue</title>
     <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
   </programme>
-  <programme start="20260414114700 +0000" stop="20260414124300 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414113000 +0000" stop="20260414123000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">All Goals FIFA ARAB Cup - 2025</title>
     <desc lang="en">All goals of the 2025 FIFA Arab Cup. It is the second edition under FIFA's jurisdiction. The tournament held in Qatar from 1 to 18 December 2025. Algeria are the defending champions.</desc>
   </programme>
-  <programme start="20260414124300 +0000" stop="20260414143000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414123000 +0000" stop="20260414141500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Toulouse vs Poitiers - Marmara Spike ligue Volleyball - 2026</title>
     <desc lang="en">France’s top men’s volleyball competition, the LNV Ligue A Masculine (Marmara SpikeLigue), delivers a season of elite clubs battling through a home-and-away league before the playoffs. Expect big serving, quick middle attacks, and high-level defense as teams chase points, seeding and the national title in a prime-time French showcase.</desc>
   </programme>
-  <programme start="20260414143000 +0000" stop="20260414163000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414141500 +0000" stop="20260414163000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al-Shamal vs Qatar SC - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
-  <programme start="20260414163000 +0000" stop="20260414183000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414163000 +0000" stop="20260414184500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al Arabi vs Al-Sailiya - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
-  <programme start="20260414183000 +0000" stop="20260414201200 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414184500 +0000" stop="20260414201500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Paris vs Saint-Raphaël - LNH Division 1 - French Handball Starligue</title>
     <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
   </programme>
-  <programme start="20260414183000 +0000" stop="20260414201200 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414184500 +0000" stop="20260414201500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Paris vs Saint-Raphaël - LNH Division 1 - French Handball Starligue</title>
     <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
   </programme>
-  <programme start="20260414201200 +0000" stop="20260414213000 +0000" channel="beINSports.qa@MENA">
+  <programme start="20260414201500 +0000" stop="20260414213000 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Montpellier vs Dunkirk - LNH Division 1 - French Handball Starligue</title>
     <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
   </programme>
@@ -8417,8 +8379,8 @@
     <title lang="en">Al-Shamal vs Qatar SC - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
-  <programme start="20260415180200 +0000" stop="20260415200000 +0000" channel="beINSports.qa@MENA">
-    <title lang="en">Al-Shamal vs Qatar SC - Qatar Stars League 2025/26 - W17</title>
+  <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="beINSports.qa@MENA">
+    <title lang="en">Al Arabi vs Al-Sailiya - Qatar Stars League 2025/26 - W17</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
   <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="beINSports.qa@MENA">
@@ -8473,8 +8435,8 @@
     <title lang="en">Al Gharafa vs Al Arabi - Qatar Stars League 2025/26 - W2</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
-  <programme start="20260416180000 +0000" stop="20260416194500 +0000" channel="beINSports.qa@MENA">
-    <title lang="en">Al Gharafa vs Al Arabi - Qatar Stars League 2025/26 - W2</title>
+  <programme start="20260416194500 +0000" stop="20260416214500 +0000" channel="beINSports.qa@MENA">
+    <title lang="en">Al Duhail vs Um Salal - Qatar Stars League 2025/26 - W4</title>
     <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
   <programme start="20260416194500 +0000" stop="20260416214500 +0000" channel="beINSports.qa@MENA">
@@ -8533,9 +8495,9 @@
     <title lang="en">Aix vs Saint-Raphaël - LNH Division 1 - French Handball Starligue</title>
     <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
   </programme>
-  <programme start="20260417180000 +0000" stop="20260417194500 +0000" channel="beINSports.qa@MENA">
-    <title lang="en">Aix vs Saint-Raphaël - LNH Division 1 - French Handball Starligue</title>
-    <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
+  <programme start="20260417194500 +0000" stop="20260417214500 +0000" channel="beINSports.qa@MENA">
+    <title lang="en">Al Ahli vs Al Gharafa - Qatar Stars League 2025/26 - W8</title>
+    <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
   <programme start="20260417194500 +0000" stop="20260417214500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al Ahli vs Al Gharafa - Qatar Stars League 2025/26 - W8</title>
@@ -8589,9 +8551,9 @@
     <title lang="en">Limoges vs Paris - LNH Division 1 - French Handball Starligue</title>
     <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
   </programme>
-  <programme start="20260418180000 +0000" stop="20260418194500 +0000" channel="beINSports.qa@MENA">
-    <title lang="en">Limoges vs Paris - LNH Division 1 - French Handball Starligue</title>
-    <desc lang="en">Dive into the excitement of French handball with Liqui Moly Starligue, formerly LNH Division 1. Established in 1952, this premier league event features 16 top teams battling for glory. With Montpellier’s 14 Handball titles and Paris Saint-Germain's 11 wins, the competition is fierce. Champions earn spots in the EHF Champions League, while cup winners qualify for the European League.</desc>
+  <programme start="20260418194500 +0000" stop="20260418214500 +0000" channel="beINSports.qa@MENA">
+    <title lang="en">Al Duhail vs Qatar Club - Qatar Stars League 2025/26 - W11</title>
+    <desc lang="en">The Qatari League is the official football league in Qatar. The league includes 12 teams. The most famous participating clubs are Al-Sadd, the champions of the last season; Al-Rayyan and Al-Arabi, the popular teams, Al-Duhail and Al-Gharafa, serious contenders for the title every season. The Qatari league includes star names such as Firmino, Verratti, and Qatari Akram Afif, the best player in Asia.</desc>
   </programme>
   <programme start="20260418194500 +0000" stop="20260418214500 +0000" channel="beINSports.qa@MENA">
     <title lang="en">Al Duhail vs Qatar Club - Qatar Stars League 2025/26 - W11</title>
@@ -9305,14 +9267,6 @@
     <title lang="ar">beIN Sports MAX</title>
     <desc lang="ar">beIN SPORTS MAX Channel for exclusive coverage of major sporting tournaments.</desc>
   </programme>
-  <programme start="20260413193000 +0000" stop="20260413194500 +0000" channel="beINSportsNews.qa@SD">
-    <title lang="en">Special Interview - 13/04/26</title>
-    <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
-  </programme>
-  <programme start="20260413194500 +0000" stop="20260413200000 +0000" channel="beINSportsNews.qa@SD">
-    <title lang="en">Special Report - 13/04/26</title>
-    <desc lang="en">"Special Report" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport.</desc>
-  </programme>
   <programme start="20260413200000 +0000" stop="20260413203000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">News Bulletin</title>
     <desc lang="en">Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.</desc>
@@ -9481,9 +9435,9 @@
     <title lang="en">beIN Action | E340</title>
     <desc lang="en">A weekly round up on the highlights presented and produced by our channel as series, movies, sports leagues, entertainment programs and interviews with actors and celebrities.</desc>
   </programme>
-  <programme start="20260414193000 +0000" stop="20260414200000 +0000" channel="beINSportsNews.qa@SD">
-    <title lang="en">beIN Action | E340</title>
-    <desc lang="en">A weekly round up on the highlights presented and produced by our channel as series, movies, sports leagues, entertainment programs and interviews with actors and celebrities.</desc>
+  <programme start="20260414200000 +0000" stop="20260414203000 +0000" channel="beINSportsNews.qa@SD">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.</desc>
   </programme>
   <programme start="20260414200000 +0000" stop="20260414203000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">News Bulletin</title>
@@ -9649,13 +9603,13 @@
     <title lang="en">Special Interview - 15/04/26</title>
     <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
   </programme>
-  <programme start="20260415193000 +0000" stop="20260415194500 +0000" channel="beINSportsNews.qa@SD">
-    <title lang="en">Special Interview - 15/04/26</title>
-    <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
-  </programme>
   <programme start="20260415194500 +0000" stop="20260415200000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">Special Report - 15/04/26</title>
     <desc lang="en">"Special Report" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport.</desc>
+  </programme>
+  <programme start="20260415200000 +0000" stop="20260415203000 +0000" channel="beINSportsNews.qa@SD">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.</desc>
   </programme>
   <programme start="20260415200000 +0000" stop="20260415203000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">News Bulletin</title>
@@ -9829,13 +9783,13 @@
     <title lang="en">Special Interview - 16/04/26</title>
     <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
   </programme>
-  <programme start="20260416193000 +0000" stop="20260416194500 +0000" channel="beINSportsNews.qa@SD">
-    <title lang="en">Special Interview - 16/04/26</title>
-    <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
-  </programme>
   <programme start="20260416194500 +0000" stop="20260416200000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">Special Report - 16/04/26</title>
     <desc lang="en">"Special Report" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport.</desc>
+  </programme>
+  <programme start="20260416200000 +0000" stop="20260416203000 +0000" channel="beINSportsNews.qa@SD">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.</desc>
   </programme>
   <programme start="20260416200000 +0000" stop="20260416203000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">News Bulletin</title>
@@ -10009,13 +9963,13 @@
     <title lang="en">Special Interview - 17/04/26</title>
     <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
   </programme>
-  <programme start="20260417193000 +0000" stop="20260417194500 +0000" channel="beINSportsNews.qa@SD">
-    <title lang="en">Special Interview - 17/04/26</title>
-    <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
-  </programme>
   <programme start="20260417194500 +0000" stop="20260417200000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">Special Report - 17/04/26</title>
     <desc lang="en">"Special Report" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport.</desc>
+  </programme>
+  <programme start="20260417200000 +0000" stop="20260417203000 +0000" channel="beINSportsNews.qa@SD">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.</desc>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417203000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">News Bulletin</title>
@@ -10189,13 +10143,13 @@
     <title lang="en">Special Interview - 18/04/26</title>
     <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
   </programme>
-  <programme start="20260418193000 +0000" stop="20260418194500 +0000" channel="beINSportsNews.qa@SD">
-    <title lang="en">Special Interview - 18/04/26</title>
-    <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
-  </programme>
   <programme start="20260418194500 +0000" stop="20260418200000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">Special Report - 18/04/26</title>
     <desc lang="en">"Special Report" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport.</desc>
+  </programme>
+  <programme start="20260418200000 +0000" stop="20260418203000 +0000" channel="beINSportsNews.qa@SD">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.</desc>
   </programme>
   <programme start="20260418200000 +0000" stop="20260418203000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">News Bulletin</title>
@@ -10345,10 +10299,6 @@
     <title lang="en">Special Interview - 19/04/26</title>
     <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
   </programme>
-  <programme start="20260419193000 +0000" stop="20260419194500 +0000" channel="beINSportsNews.qa@SD">
-    <title lang="en">Special Interview - 19/04/26</title>
-    <desc lang="en">A daily Special Interview related to an important issue of the day. The interview offers the background and insight into the issue chosen from the world of sport.</desc>
-  </programme>
   <programme start="20260419194500 +0000" stop="20260419200000 +0000" channel="beINSportsNews.qa@SD">
     <title lang="en">Special Report - 19/04/26</title>
     <desc lang="en">"Special Report" is a single long feature from one of beIN SPORTS News reporters that takes an alternative look at a subject from the world of sport.</desc>
@@ -10357,9 +10307,9 @@
     <title lang="en">News Bulletin</title>
     <desc lang="en">Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.</desc>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413200000 +0000" channel="beINSportsXtra1.qa@SD">
-    <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
-    <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="beINSportsNews.qa@SD">
+    <title lang="en">News Bulletin</title>
+    <desc lang="en">Latest news from the beIn SPORTS News room, previewing and reviewing developments and scores with contribution from around the world from beIN's reporters.</desc>
   </programme>
   <programme start="20260413200000 +0000" stop="20260413210000 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
@@ -10457,7 +10407,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260414190000 +0000" stop="20260414200000 +0000" channel="beINSportsXtra1.qa@SD">
+  <programme start="20260414200000 +0000" stop="20260414210000 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -10565,7 +10515,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="beINSportsXtra1.qa@SD">
+  <programme start="20260415200000 +0000" stop="20260415210000 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -10689,7 +10639,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260416190000 +0000" stop="20260416200000 +0000" channel="beINSportsXtra1.qa@SD">
+  <programme start="20260416200000 +0000" stop="20260416210000 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -10805,7 +10755,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="beINSportsXtra1.qa@SD">
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -10905,7 +10855,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="beINSportsXtra1.qa@SD">
+  <programme start="20260418200000 +0000" stop="20260418210000 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -11009,15 +10959,11 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="beINSportsXtra1.qa@SD">
-    <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
-    <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
-  </programme>
   <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413200000 +0000" channel="beINSportsXtra2.qa@SD">
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="beINSportsXtra1.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -11117,7 +11063,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260414190000 +0000" stop="20260414200000 +0000" channel="beINSportsXtra2.qa@SD">
+  <programme start="20260414200000 +0000" stop="20260414210000 +0000" channel="beINSportsXtra2.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -11225,7 +11171,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="beINSportsXtra2.qa@SD">
+  <programme start="20260415200000 +0000" stop="20260415210000 +0000" channel="beINSportsXtra2.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -11449,7 +11395,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="beINSportsXtra2.qa@SD">
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="beINSportsXtra2.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -11544,7 +11490,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="beINSportsXtra2.qa@SD">
+  <programme start="20260418200000 +0000" stop="20260418210000 +0000" channel="beINSportsXtra2.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -11644,15 +11590,11 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="beINSportsXtra2.qa@SD">
-    <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
-    <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
-  </programme>
   <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="beINSportsXtra2.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413200000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="beINSportsXtra2.qa@SD">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -11752,7 +11694,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260414190000 +0000" stop="20260414200000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
+  <programme start="20260414200000 +0000" stop="20260414210000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -11852,7 +11794,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
+  <programme start="20260415200000 +0000" stop="20260415210000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -11952,7 +11894,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260416190000 +0000" stop="20260416200000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
+  <programme start="20260416200000 +0000" stop="20260416210000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -12052,7 +11994,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -12152,7 +12094,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
+  <programme start="20260418200000 +0000" stop="20260418210000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -12252,15 +12194,11 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
-    <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
-    <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
-  </programme>
   <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260413190000 +0000" stop="20260413200000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="CD634732-20D1-4137-94E7-939DE93D056D">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -12360,7 +12298,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260414190000 +0000" stop="20260414200000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
+  <programme start="20260414200000 +0000" stop="20260414210000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -12468,7 +12406,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
+  <programme start="20260415200000 +0000" stop="20260415210000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -12684,7 +12622,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260417190000 +0000" stop="20260417200000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
+  <programme start="20260417200000 +0000" stop="20260417210000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -12784,7 +12722,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418200000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
+  <programme start="20260418200000 +0000" stop="20260418210000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -12884,7 +12822,7 @@
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
-  <programme start="20260419190000 +0000" stop="20260419200000 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
+  <programme start="20260419200000 +0000" stop="20260419205959 +0000" channel="CDF1A4C8-26DD-4C33-A239-F729A3B09295">
     <title lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - APR - 2026</title>
     <desc lang="ar">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events</desc>
   </programme>
@@ -13074,8 +13012,8 @@
   <programme start="20260416193000 +0000" stop="20260416200000 +0000" channel="beINSports1.qa@France">
     <title lang="fr">Salon VIP</title>
   </programme>
-  <programme start="20260416193000 +0000" stop="20260416200000 +0000" channel="beINSports1.qa@France">
-    <title lang="fr">Salon VIP</title>
+  <programme start="20260416200000 +0000" stop="20260416220000 +0000" channel="beINSports1.qa@France">
+    <title lang="fr">Football : Liga - Real Madrid / Gérone</title>
   </programme>
   <programme start="20260416200000 +0000" stop="20260416220000 +0000" channel="beINSports1.qa@France">
     <title lang="fr">Football : Liga - Real Madrid / Gérone</title>
@@ -13143,8 +13081,8 @@
   <programme start="20260417180000 +0000" stop="20260417200000 +0000" channel="beINSports1.qa@France">
     <title lang="fr">Football : Ligue 2 BKT - Multiplex</title>
   </programme>
-  <programme start="20260417180000 +0000" stop="20260417200000 +0000" channel="beINSports1.qa@France">
-    <title lang="fr">Football : Ligue 2 BKT - Multiplex</title>
+  <programme start="20260417200000 +0000" stop="20260417203000 +0000" channel="beINSports1.qa@France">
+    <title lang="fr">Ligue 2 Extra</title>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417203000 +0000" channel="beINSports1.qa@France">
     <title lang="fr">Ligue 2 Extra</title>
@@ -13210,8 +13148,8 @@
   <programme start="20260418180000 +0000" stop="20260418200000 +0000" channel="beINSports1.qa@France">
     <title lang="fr">Football : Ligue 2 BKT - SC Bastia / Saint-Etienne</title>
   </programme>
-  <programme start="20260418180000 +0000" stop="20260418200000 +0000" channel="beINSports1.qa@France">
-    <title lang="fr">Football : Ligue 2 BKT - SC Bastia / Saint-Etienne</title>
+  <programme start="20260418200000 +0000" stop="20260418203000 +0000" channel="beINSports1.qa@France">
+    <title lang="fr">Après-match Ligue 2</title>
   </programme>
   <programme start="20260418200000 +0000" stop="20260418203000 +0000" channel="beINSports1.qa@France">
     <title lang="fr">Après-match Ligue 2</title>
@@ -13417,8 +13355,8 @@
   <programme start="20260414180000 +0000" stop="20260414200000 +0000" channel="beINSports2.qa@France">
     <title lang="fr">Football : Ligue 2 BKT - Saint-Etienne / Dunkerque</title>
   </programme>
-  <programme start="20260414180000 +0000" stop="20260414200000 +0000" channel="beINSports2.qa@France">
-    <title lang="fr">Football : Ligue 2 BKT - Saint-Etienne / Dunkerque</title>
+  <programme start="20260414200000 +0000" stop="20260414220000 +0000" channel="beINSports2.qa@France">
+    <title lang="fr">Football : Bundesliga - Augsbourg / Hoffenheim</title>
   </programme>
   <programme start="20260414200000 +0000" stop="20260414220000 +0000" channel="beINSports2.qa@France">
     <title lang="fr">Football : Bundesliga - Augsbourg / Hoffenheim</title>
@@ -13474,8 +13412,8 @@
   <programme start="20260415194500 +0000" stop="20260415200000 +0000" channel="beINSports2.qa@France">
     <title lang="fr">Ça se passe sur beIN SPORTS</title>
   </programme>
-  <programme start="20260415194500 +0000" stop="20260415200000 +0000" channel="beINSports2.qa@France">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+  <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="beINSports2.qa@France">
+    <title lang="fr">Football : Ligue 2 BKT - Rodez / Troyes</title>
   </programme>
   <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="beINSports2.qa@France">
     <title lang="fr">Football : Ligue 2 BKT - Rodez / Troyes</title>
@@ -13534,8 +13472,8 @@
   <programme start="20260416180000 +0000" stop="20260416200000 +0000" channel="beINSports2.qa@France">
     <title lang="fr">Rugby à XIII : NRL - North Queensland Cowboys / Manly-Warringah Sea Eagles</title>
   </programme>
-  <programme start="20260416180000 +0000" stop="20260416200000 +0000" channel="beINSports2.qa@France">
-    <title lang="fr">Rugby à XIII : NRL - North Queensland Cowboys / Manly-Warringah Sea Eagles</title>
+  <programme start="20260416200000 +0000" stop="20260416220000 +0000" channel="beINSports2.qa@France">
+    <title lang="fr">Football : Championnat du Portugal - Estoril / FC Porto</title>
   </programme>
   <programme start="20260416200000 +0000" stop="20260416220000 +0000" channel="beINSports2.qa@France">
     <title lang="fr">Football : Championnat du Portugal - Estoril / FC Porto</title>
@@ -13786,6 +13724,9 @@
   <programme start="20260420180000 +0000" stop="20260420200000 +0000" channel="beINSports2.qa@France">
     <title lang="fr">Football : Bundesliga - Hoffenheim / Borussia Dortmund</title>
   </programme>
+  <programme start="20260420200000 +0000" stop="20260420220000 +0000" channel="beINSports2.qa@France">
+    <title lang="fr">Football : Bundesliga - Bayern Munich / Stuttgart</title>
+  </programme>
   <programme start="20260413183000 +0000" stop="20260413203000 +0000" channel="beINSports3.qa@France">
     <title lang="fr">Baseball : MLB - Atlanta Braves / Cleveland Guardians</title>
   </programme>
@@ -14005,8 +13946,8 @@
   <programme start="20260419183000 +0000" stop="20260419200000 +0000" channel="beINSports3.qa@France">
     <title lang="fr">Handball : Liqui Moly StarLigue - Nantes / Montpellier</title>
   </programme>
-  <programme start="20260419183000 +0000" stop="20260419200000 +0000" channel="beINSports3.qa@France">
-    <title lang="fr">Handball : Liqui Moly StarLigue - Nantes / Montpellier</title>
+  <programme start="20260419200000 +0000" stop="20260419220000 +0000" channel="beINSports3.qa@France">
+    <title lang="fr">Rugby à XIII : NRL - Parramatta Eels / Canterbury-Bankstown Bulldogs</title>
   </programme>
   <programme start="20260419200000 +0000" stop="20260419220000 +0000" channel="beINSports3.qa@France">
     <title lang="fr">Rugby à XIII : NRL - Parramatta Eels / Canterbury-Bankstown Bulldogs</title>
@@ -14049,6 +13990,9 @@
   </programme>
   <programme start="20260420180000 +0000" stop="20260420200000 +0000" channel="beINSports3.qa@France">
     <title lang="fr">Baseball : MLB - Philadelphia Phillies / Atlanta Braves</title>
+  </programme>
+  <programme start="20260420200000 +0000" stop="20260420213000 +0000" channel="beINSports3.qa@France">
+    <title lang="fr">Tennis : Tournoi WTA de Stuttgart</title>
   </programme>
   <programme start="20260413190000 +0000" stop="20260413230000 +0000" channel="beINSportsMax4.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
@@ -14101,8 +14045,8 @@
   <programme start="20260415170000 +0000" stop="20260415200000 +0000" channel="beINSportsMax4.qa@France">
     <title lang="fr">Baseball : MLB - St Louis Cardinals / Cleveland Guardians</title>
   </programme>
-  <programme start="20260415170000 +0000" stop="20260415200000 +0000" channel="beINSportsMax4.qa@France">
-    <title lang="fr">Baseball : MLB - St Louis Cardinals / Cleveland Guardians</title>
+  <programme start="20260415200000 +0000" stop="20260415230000 +0000" channel="beINSportsMax4.qa@France">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20260415200000 +0000" stop="20260415230000 +0000" channel="beINSportsMax4.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
@@ -14146,8 +14090,8 @@
   <programme start="20260417175300 +0000" stop="20260417200000 +0000" channel="beINSportsMax4.qa@France">
     <title lang="fr">Football : Ligue 2 BKT - Montpellier / Grenoble</title>
   </programme>
-  <programme start="20260417175300 +0000" stop="20260417200000 +0000" channel="beINSportsMax4.qa@France">
-    <title lang="fr">Football : Ligue 2 BKT - Montpellier / Grenoble</title>
+  <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax4.qa@France">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax4.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
@@ -14284,8 +14228,8 @@
   <programme start="20260415170000 +0000" stop="20260415200000 +0000" channel="beINSportsMax5.qa@France">
     <title lang="fr">Baseball : MLB - St Louis Cardinals / Cleveland Guardians</title>
   </programme>
-  <programme start="20260415170000 +0000" stop="20260415200000 +0000" channel="beINSportsMax5.qa@France">
-    <title lang="fr">Baseball : MLB - St Louis Cardinals / Cleveland Guardians</title>
+  <programme start="20260415200000 +0000" stop="20260415230000 +0000" channel="beINSportsMax5.qa@France">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20260415200000 +0000" stop="20260415230000 +0000" channel="beINSportsMax5.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
@@ -14329,8 +14273,8 @@
   <programme start="20260417175500 +0000" stop="20260417200000 +0000" channel="beINSportsMax5.qa@France">
     <title lang="fr">Football : Ligue 2 BKT - Le Mans / Clermont Foot</title>
   </programme>
-  <programme start="20260417175500 +0000" stop="20260417200000 +0000" channel="beINSportsMax5.qa@France">
-    <title lang="fr">Football : Ligue 2 BKT - Le Mans / Clermont Foot</title>
+  <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax5.qa@France">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax5.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
@@ -14497,8 +14441,8 @@
   <programme start="20260417175500 +0000" stop="20260417200000 +0000" channel="beINSportsMax6.qa@France">
     <title lang="fr">Football : Ligue 2 BKT - Nancy / Annecy</title>
   </programme>
-  <programme start="20260417175500 +0000" stop="20260417200000 +0000" channel="beINSportsMax6.qa@France">
-    <title lang="fr">Football : Ligue 2 BKT - Nancy / Annecy</title>
+  <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax6.qa@France">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax6.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
@@ -14659,8 +14603,8 @@
   <programme start="20260417175500 +0000" stop="20260417200000 +0000" channel="beINSportsMax7.qa@France">
     <title lang="fr">Football : Ligue 2 BKT - Rodez / Amiens</title>
   </programme>
-  <programme start="20260417175500 +0000" stop="20260417200000 +0000" channel="beINSportsMax7.qa@France">
-    <title lang="fr">Football : Ligue 2 BKT - Rodez / Amiens</title>
+  <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax7.qa@France">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax7.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
@@ -14815,8 +14759,8 @@
   <programme start="20260417175500 +0000" stop="20260417200000 +0000" channel="beINSportsMax8.qa@France">
     <title lang="fr">Football : Ligue 2 BKT - Pau / Guingamp</title>
   </programme>
-  <programme start="20260417175500 +0000" stop="20260417200000 +0000" channel="beINSportsMax8.qa@France">
-    <title lang="fr">Football : Ligue 2 BKT - Pau / Guingamp</title>
+  <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax8.qa@France">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417230000 +0000" channel="beINSportsMax8.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
@@ -15157,7 +15101,7 @@
   <programme start="20260418160000 +0000" stop="20260418200000 +0000" channel="beINSportsMax10.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20260418160000 +0000" stop="20260418200000 +0000" channel="beINSportsMax10.qa@France">
+  <programme start="20260418200000 +0000" stop="20260418230000 +0000" channel="beINSportsMax10.qa@France">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20260418200000 +0000" stop="20260418230000 +0000" channel="beINSportsMax10.qa@France">
