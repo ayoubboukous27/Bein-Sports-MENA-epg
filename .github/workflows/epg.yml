@@ -63,15 +63,14 @@ jobs:
 
           const files = ['guide_bein_mena_ar.xml', 'guide_bein_fr.xml'];
           const logos_ar = {
-            "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-mea.png",
-            "beINSports2.qa@MENA": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-mea.png",
-            "beINSports3.qa@MENA": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-mea.png",
-            "beINSports4.qa@MENA": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png",
-            "beINSports5.qa@MENA": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png",
-            "beINSports6.qa@MENA": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png",
-            "beINSports7.qa@MENA": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png",
-            "beINSports8.qa@MENA": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-8-mea.png",
-            "5C08D9D3-C713-4F1F-947E-87C761428B9B": "https://github.com/tv-logo/tv-logos/raw/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-9-mea.png"
+            "7836FEA9-6B39-4A1A-8352-DC5FCB97A16C": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS1.png",
+            "beINSports2.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS2.png",
+            "beINSports4.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS4.png",
+            "beINSports5.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS5.png",
+            "beINSports6.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS6.png",
+            "beINSports7.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS7.png",
+            "beINSports8.qa@MENA": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS8.png",
+            "5C08D9D3-C713-4F1F-947E-87C761428B9B": "https://github.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/raw/refs/heads/main/Logos/BS9.png"
           };
 
           const parser = new xml2js.Parser();
