@@ -4,10 +4,6 @@
     <display-name>Alwan Sports</display-name>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/beIN-Sports-EPG-Worldwide/refs/heads/main/Logos/alwan-sports.png"/>
   </channel>
-  <programme start="20260418224130 +0000" stop="20260418234130 +0000" channel="alwan_sports">
-    <title>البطولات الكروية مباشرة</title>
-    <desc>نقل مباشر لجميع البطولات الكروية العالمية: دوري الأبطال والدوريات الأوروبية والعالمية.</desc>
-  </programme>
   <programme start="20260418234130 +0000" stop="20260419004130 +0000" channel="alwan_sports">
     <title>البطولات الكروية مباشرة</title>
     <desc>نقل مباشر لجميع البطولات الكروية العالمية: دوري الأبطال والدوريات الأوروبية والعالمية.</desc>
@@ -673,6 +669,10 @@
     <desc>نقل مباشر لجميع البطولات الكروية العالمية: دوري الأبطال والدوريات الأوروبية والعالمية.</desc>
   </programme>
   <programme start="20260425214130 +0000" stop="20260425224130 +0000" channel="alwan_sports">
+    <title>البطولات الكروية مباشرة</title>
+    <desc>نقل مباشر لجميع البطولات الكروية العالمية: دوري الأبطال والدوريات الأوروبية والعالمية.</desc>
+  </programme>
+  <programme start="20260425224130 +0000" stop="20260425234130 +0000" channel="alwan_sports">
     <title>البطولات الكروية مباشرة</title>
     <desc>نقل مباشر لجميع البطولات الكروية العالمية: دوري الأبطال والدوريات الأوروبية والعالمية.</desc>
   </programme>
